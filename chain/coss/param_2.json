@@ -2,7 +2,7 @@
     "chain_id_cosmos": "coss-1",
     "chain_name": "COSS",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coss/resource/chain_coss.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coss/resource/chain_coss.png",
     "staking_asset_denom": "ucgas",
     "staking_asset_symbol": "CGAS",
     "cosmos_fee_info" : {

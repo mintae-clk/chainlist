@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "bostrom",
     "chain_name": "Bostrom",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bostrom/resource/chain_bostrom.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bostrom/resource/chain_bostrom.png",
     "staking_asset_denom" : "boot",
     "staking_asset_symbol" : "BOOT",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bostrom/asset/boot.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bostrom/asset/boot.png",
     "bech_account_prefix" : "bostrom",
     "bech_validator_prefix" : "bostromvaloper",
     "origin_genesis_time" : "2021-11-05T13:22:42Z",

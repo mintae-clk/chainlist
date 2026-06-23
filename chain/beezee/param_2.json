@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "beezee-1",
     "chain_name": "BeeZee",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/beezee/resource/chain_beezee.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/beezee/resource/chain_beezee.png",
     "staking_asset_denom": "ubze",
     "staking_asset_symbol": "BZE",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/beezee/asset/bze.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/beezee/asset/bze.png",
     "bech_account_prefix": "bze",
     "bech_validator_prefix": "bzevaloper",
     "origin_genesis_time": "2022-03-21T22:39:04Z",

@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "cheqd-testnet-6",
     "chain_name": "Cheqd Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cheqd-testnet/resource/chain_cheqd-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cheqd-testnet/resource/chain_cheqd-testnet.png",
     "staking_asset_denom": "ncheq",
     "staking_asset_symbol": "CHEQ",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cheqd-testnet/asset/cheq.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cheqd-testnet/asset/cheq.png",
     "bech_account_prefix": "cheqd",
     "bech_validator_prefix": "cheqdvaloper",
     "origin_genesis_time": "2021-09-24T14:47:05Z",

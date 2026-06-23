@@ -6,7 +6,7 @@
         "symbol": "BABY",
         "description": "Babylon Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/bbn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/bbn.png",
         "coinGeckoId": "babylon",
         "color": "#FF863C"
     },
@@ -17,7 +17,7 @@
         "symbol": "LBTC",
         "description": "Lombard Staked BTC.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard/asset/lbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard/asset/lbtc.png",
         "coinGeckoId": "lombard-staked-btc",
         "color": "#04fbfb",
         "ibc_info" : {
@@ -41,7 +41,7 @@
         "symbol": "USDC",
         "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "color": "#2775CA",
         "ibc_info" : {
@@ -65,7 +65,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/xprt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/xprt.png",
         "coinGeckoId": "persistence",
         "ibc_info" : {
             "path": "persistence>cosmos>babylon",
@@ -88,7 +88,7 @@
         "symbol": "milkBABY",
         "description": "MilkyWay's Liquid Staked BABY",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/milkyway/asset/milkbaby.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/milkyway/asset/milkbaby.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "milkyway>babylon",
@@ -111,7 +111,7 @@
         "symbol": "USDN",
         "description": "USDN is a yielding stablecoin collateral-backed by short-duration U.S. Treasury Bills.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdn.png",
         "coinGeckoId": "noble-dollar-usdn",
         "color": "#14C784",
         "ibc_info" : {
@@ -135,7 +135,7 @@
         "symbol": "SolvBTC",
         "description": "SolvBTC is a universal Bitcoin reserve",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/SolvBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/SolvBTC.png",
         "coinGeckoId": "solv-btc",
         "ibc_info": {
             "path": "ethereum>cosmos>babylon",

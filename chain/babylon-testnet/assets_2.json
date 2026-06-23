@@ -6,7 +6,7 @@
         "symbol": "tBABY",
         "description": "Babylon Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon-testnet/asset/bbn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon-testnet/asset/bbn.png",
         "coinGeckoId": "",
         "color": "#FF863C"
     },
@@ -17,7 +17,7 @@
         "symbol": "LBTC",
         "description": "Lombard Testnet Staked BTC.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard-testnet/asset/lbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard-testnet/asset/lbtc.png",
         "coinGeckoId": "",
         "color": "#04fbfb",
         "ibc_info" : {

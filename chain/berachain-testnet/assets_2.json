@@ -6,7 +6,7 @@
         "symbol": "BERA",
         "description": "Berachain Testnet Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/bera.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/bera.png",
         "coinGeckoId": ""
     }
 ]

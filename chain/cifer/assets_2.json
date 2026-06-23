@@ -6,7 +6,7 @@
         "symbol": "CIF",
         "description": "Cifer Native Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cifer/asset/cif.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cifer/asset/cif.png",
         "coinGeckoId": "",
         "color": "#6358D7"
     }

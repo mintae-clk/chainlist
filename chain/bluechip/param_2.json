@@ -2,7 +2,7 @@
     "chain_id_cosmos": "bluechip-2",
     "chain_name": "BlueChip",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bluechip/resource/chain_bluechip.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bluechip/resource/chain_bluechip.png",
     "staking_asset_denom": "ubluechip",
     "staking_asset_symbol": "BCP",
     "lcd_endpoint": []

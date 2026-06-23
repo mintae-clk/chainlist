@@ -6,7 +6,7 @@
         "symbol": "TX",
         "description": "TX Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/tx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/tx.png",
         "coinGeckoId": "tx",
         "color": "#89C400"
     },
@@ -17,7 +17,7 @@
         "symbol": "XRP",
         "description": "XRP bridged from XRPL",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/xrp.png",
         "coinGeckoId": "ripple",
         "color": "#040404"
     },
@@ -28,7 +28,7 @@
         "symbol": "SARA",
         "description": "Pulsara Ecosystem Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/sara.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/sara.png",
         "coinGeckoId": "pulsara",
         "color": "#1739ff"
     },
@@ -39,7 +39,7 @@
         "symbol": "liCORE",
         "description": "Liquid staking asset for COREUM, by Pulsara",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/licore.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/licore.png",
         "coinGeckoId": "licore",
         "color": "#FF03CB"
     },
@@ -50,7 +50,7 @@
         "symbol": "SOLO",
         "description": "Sologenic",
         "decimals": 15,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/solo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/solo.png",
         "coinGeckoId": "solo-coin"
     },
     {
@@ -60,7 +60,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>coreum",
@@ -103,7 +103,7 @@
         "symbol": "PUNKS",
         "description": "Trade $PUNKS, the utility token of the official Coreum Punks NFT Collection.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -113,7 +113,7 @@
         "symbol": "SBC",
         "description": "SBC is a regulated, fiat-backed stablecoin issued by Brale and redeemable 1:1 for U.S. Dollars",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/sbc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/sbc.png",
         "coinGeckoId": ""
     }
 ]

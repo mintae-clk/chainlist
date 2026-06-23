@@ -6,7 +6,7 @@
         "symbol": "BTSG",
         "description": "BitSong Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitsong/asset/btsg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitsong/asset/btsg.png",
         "coinGeckoId": "bitsong",
         "color": "#FF005C"
     },
@@ -17,7 +17,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>bitsong",

@@ -6,7 +6,7 @@
         "symbol": "WBNB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/wbnb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/wbnb.png",
         "coinGeckoId": "wbnb"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "BUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/busd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/busd.png",
         "coinGeckoId": "binance-peg-busd"
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "binance-bridged-usdt-bnb-smart-chain",
         "wallet_preload": true
     },
@@ -37,7 +37,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "binance-bridged-usdc-bnb-smart-chain",
         "wallet_preload": true
     },
@@ -48,7 +48,7 @@
         "symbol": "ETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "CAKE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/cake.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/cake.png",
         "coinGeckoId": "pancakeswap-token"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "BTCB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/btcb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/btcb.png",
         "coinGeckoId": "binance-bitcoin"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axelar/asset/axl.png",
         "coinGeckoId": "axelar"
     },
     {
@@ -858,7 +858,7 @@
         "symbol": "BANANA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/BANANA.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/BANANA.png",
         "coinGeckoId": "apeswap-finance"
     },
     {
@@ -868,7 +868,7 @@
         "symbol": "MATIC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/polygon/asset/matic.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/polygon/asset/matic.png",
         "coinGeckoId": "matic-network"
     },
     {
@@ -908,7 +908,7 @@
         "symbol": "GMR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/GMR.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/GMR.png",
         "coinGeckoId": "gamer"
     },
     {
@@ -1178,7 +1178,7 @@
         "symbol": "frxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/frxeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/frxeth.png",
         "coinGeckoId": "frax-ether"
     },
     {
@@ -1198,7 +1198,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/milktia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/milktia.png",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {
@@ -1228,7 +1228,7 @@
         "symbol": "C4E",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chain4energy/asset/chain4energy.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chain4energy/asset/chain4energy.png",
         "coinGeckoId": "chain4energy"
     },
     {
@@ -1288,7 +1288,7 @@
         "symbol": "VELO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/velo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/velo.png",
         "coinGeckoId": "velo"
     },
     {
@@ -1308,7 +1308,7 @@
         "symbol": "frxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/frxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
     },
     {
@@ -1318,7 +1318,7 @@
         "symbol": "FPI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/fpis.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/fpis.png",
         "coinGeckoId": "frax-price-index-share"
     },
     {
@@ -1358,7 +1358,7 @@
         "symbol": "Metis",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/metis.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/metis.png",
         "coinGeckoId": "metis-token"
     },
     {
@@ -1368,7 +1368,7 @@
         "symbol": "PERP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/perp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/perp.png",
         "coinGeckoId": "perpetual-protocol"
     },
     {
@@ -1378,7 +1378,7 @@
         "symbol": "SOL.wh",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/sol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/sol.png",
         "coinGeckoId": "sol-wormhole"
     },
     {
@@ -1388,7 +1388,7 @@
         "symbol": "frxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/frxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
     },
     {
@@ -1398,7 +1398,7 @@
         "symbol": "1INCH",
         "description": "1INCH Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/1inch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/1inch.png",
         "coinGeckoId": "1inch"
     },
     {
@@ -1408,7 +1408,7 @@
         "symbol": "ALPHA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/alpha.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/alpha.png",
         "coinGeckoId": "alpha-finance"
     },
     {
@@ -1428,7 +1428,7 @@
         "symbol": "COMP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/comp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/comp.png",
         "coinGeckoId": "compound-governance-token"
     },
     {
@@ -1438,7 +1438,7 @@
         "symbol": "DAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/dai.png",
         "coinGeckoId": "dai"
     },
     {
@@ -1448,7 +1448,7 @@
         "symbol": "STG",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/stg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/stg.png",
         "coinGeckoId": "stargate-finance"
     }
 ]

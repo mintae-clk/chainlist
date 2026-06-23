@@ -6,7 +6,7 @@
         "symbol": "eBABY",
         "description": "ESCHER LST for Babylon",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/eBABY.svg",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/eBABY.svg",
         "coinGeckoId": "",
         "color": "#0008FF",
         "wallet_preload": true
@@ -18,7 +18,7 @@
         "symbol": "cBABY",
         "description": "Liquid staking token from Cube by SatLayer",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/cbaby.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/cbaby.png",
         "coinGeckoId": "cube-staked-baby",
         "color": "#ff9a00"
     },
@@ -29,7 +29,7 @@
          "symbol": "WETH",
          "description": "Wrapped version of Ether on Babylon",
          "decimals": 18,
-         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/WETH.png",
+         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/WETH.png",
          "coinGeckoId": "weth"
      },
      {
@@ -39,7 +39,7 @@
          "symbol": "SolvBTC",
          "description": "SolvBTC is a universal Bitcoin reserve",
          "decimals": 18,
-         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/SolvBTC.png",
+         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/SolvBTC.png",
          "coinGeckoId": "solv-btc"
      },
      {
@@ -49,7 +49,7 @@
         "symbol": "xSolvBTC",
         "description": "xSolvBTC is a yield-bearing Bitcoin token representing staked Bitcoin in the Babylon ecosystem",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/xSolvBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/xSolvBTC.png",
         "coinGeckoId": "solv-protocol-solvbtc-bbn"
     },
      {
@@ -59,7 +59,7 @@
          "symbol": "stBTC",
          "description": "Liquid staked BTC from Lorenzo",
          "decimals": 18,
-         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/stBTC.png",
+         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/stBTC.png",
          "coinGeckoId": "lorenzo-stbtc"
      },
      {
@@ -69,7 +69,7 @@
          "symbol": "pumpBTC",
          "description": "Liquid staking token for Babylon",
          "decimals": 8,
-         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/PumpBTC.png",
+         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/PumpBTC.png",
          "coinGeckoId": "pumpbtc"
      },
      {
@@ -79,7 +79,7 @@
          "symbol": "uniBTC",
          "description": "Represents staked wBTC plus future Babylon staking rewards and Bedrock diamonds",
          "decimals": 8,
-         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/uniBTC.png",
+         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/uniBTC.png",
          "coinGeckoId": "universal-btc"
      },
      {
@@ -89,7 +89,7 @@
         "symbol": "LBTC",
         "description": "Staked version of Bitcoin from Lombard protocol",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/LBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/LBTC.png",
         "coinGeckoId": "lombard-staked-btc"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "satUniBTC.e",
         "description": "Staked version of uniBTC from SatLayer",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/uniBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/uniBTC.png",
         "coinGeckoId": "universal-btc"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "satXSolvBTC.e",
         "description": "Staked version of xSolvBTC from SatLayer",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/xSolvBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/xSolvBTC.png",
         "coinGeckoId": "solv-protocol-solvbtc-bbn"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "satLBTC.e",
         "description": "Staked version of LBTC from SatLayer",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/LBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/LBTC.png",
         "coinGeckoId": "lombard-staked-btc"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "satFBTC.e",
         "description": "Staked version of satFBTC from SatLayer",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/FBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/FBTC.png",
         "coinGeckoId": "ignition-fbtc"
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "satStBTC.e",
         "description": "Staked version of stBTC from SatLayer",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/stBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/stBTC.png",
         "coinGeckoId": "lorenzo-stbtc"
     },
     {
@@ -149,7 +149,7 @@
         "symbol": "satPumpBTC.e",
         "description": "Staked version of pumpBTC from SatLayer",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/PumpBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/PumpBTC.png",
         "coinGeckoId": "pumpbtc"
     },
     {
@@ -159,7 +159,7 @@
         "symbol": "satWBTC.e",
         "description": "Staked version of WBTC from SatLayer",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/WBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/WBTC.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -169,7 +169,7 @@
         "symbol": "eBTC",
         "description": "eBTC is ether.fi's flagship Bitcoin-backed liquid restaking token, simplifying yield optimization and available for staking and bridging across multiple chains",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/eBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/eBTC.png",
         "coinGeckoId": "ether-fi-staked-btc"
     },
     {
@@ -179,7 +179,7 @@
         "symbol": "mBTC",
         "description": "mBTC is a cross-chain wrapped token pegged to BTC on a 1:1 basis and it does not accrue any underlying yield",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/mBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/mBTC.png",
         "coinGeckoId": "babypie-wrapped-btc"
     }
 ]

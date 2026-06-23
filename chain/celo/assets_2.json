@@ -6,7 +6,7 @@
         "symbol": "CELO",
         "description": "Celo Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/celo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/celo.png",
         "coinGeckoId": "celo"
     }
 ]

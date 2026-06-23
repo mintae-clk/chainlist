@@ -6,7 +6,7 @@
         "symbol": "BZE",
         "description": "BeeZee Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/beezee/asset/bze.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/beezee/asset/bze.png",
         "coinGeckoId": "bzedge",
         "color": "#079fd7"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>beezee",
@@ -134,7 +134,7 @@
         "symbol": "USDC",
         "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "color": "#2775CA",
         "coinGeckoId": "usd-coin",
         "ibc_info": {
@@ -158,7 +158,7 @@
         "symbol": "JKL",
         "description": "The native staking and governance token of Jackal.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/jackal/asset/jkl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/jackal/asset/jkl.png",
         "color": "#dbdbcb",
         "coinGeckoId": "jackal-protocol",
         "ibc_info": {
@@ -182,7 +182,7 @@
         "symbol": "ATONE",
         "description": "The native staking and governance token of AtomOne",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/atomone/asset/atone.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/atomone/asset/atone.png",
         "coinGeckoId": "atomone",
         "ibc_info": {
             "path": "atomone>beezee",

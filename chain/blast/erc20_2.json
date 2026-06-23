@@ -6,7 +6,7 @@
         "symbol": "BLAST",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/blast.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/blast.png",
         "coinGeckoId": "blast",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/usdb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/usdb.png",
         "coinGeckoId": "usdb",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "CYBRO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/cybro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/cybro.png",
         "coinGeckoId": "cybro"
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "USDe",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/usde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/usde.png",
         "coinGeckoId": "ethena-usde"
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "MIM",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/mim.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/mim.png",
         "coinGeckoId": "magic-internet-money"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "YOLO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/yolo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/yolo.png",
         "coinGeckoId": "yolo-games"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "OLE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/ole.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/ole.png",
         "coinGeckoId": "openleverage"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "MUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/musd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/musd.png",
         "coinGeckoId": ""
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "BLASTUP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/blastup.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/blastup.png",
         "coinGeckoId": "blastup"
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "JUICE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/juice.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/juice.png",
         "coinGeckoId": "juice-finance"
     },
     {
@@ -128,7 +128,7 @@
         "symbol": "BAG",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/bag.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/bag.png",
         "coinGeckoId": "bag"
     },
     {
@@ -138,7 +138,7 @@
         "symbol": "ORBIT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/orbit.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/orbit.png",
         "coinGeckoId": "orbit-protocol"
     },
     {
@@ -148,7 +148,7 @@
         "symbol": "GLORY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/glory.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/glory.png",
         "coinGeckoId": ""
     },
     {
@@ -158,7 +158,7 @@
         "symbol": "MIA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/mia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/mia.png",
         "coinGeckoId": ""
     },
     {
@@ -168,7 +168,7 @@
         "symbol": "BCat",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/bcat.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/bcat.png",
         "coinGeckoId": "blastcat"
     },
     {
@@ -178,7 +178,7 @@
         "symbol": "OMNI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/omni.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/omni.png",
         "coinGeckoId": "omnicat"
     },
     {
@@ -188,7 +188,7 @@
         "symbol": "ENA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/ena.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/ena.png",
         "coinGeckoId": "ethena"
     },
     {
@@ -198,7 +198,7 @@
         "symbol": "frxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/frxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/blast/asset/frxusd.png",
         "coinGeckoId": "staked-frax-usd"
     },
     {

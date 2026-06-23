@@ -6,7 +6,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "color": "#9248DB"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>cosmos",
@@ -40,7 +40,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>cosmos",
@@ -63,7 +63,7 @@
         "symbol": "IOV",
         "description": "Starname Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/starname/asset/iov.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/starname/asset/iov.png",
         "coinGeckoId": "starname",
         "ibc_info" : {
             "path": "starname>cosmos",
@@ -86,7 +86,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/akash/asset/akt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/akash/asset/akt.png",
         "coinGeckoId": "akash-network",
         "ibc_info" : {
             "path": "akash>cosmos",
@@ -109,7 +109,7 @@
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/regen/asset/regen.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/regen/asset/regen.png",
         "coinGeckoId": "regen",
         "ibc_info" : {
             "path": "regen>cosmos",
@@ -132,7 +132,7 @@
         "symbol": "P2P",
         "description": "P2P on the Cosmos Hub",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sentinel/asset/dvpn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sentinel/asset/dvpn.png",
         "coinGeckoId": "sentinel",
         "ibc_info" : {
             "path": "sentinel>cosmos",
@@ -155,7 +155,7 @@
         "symbol": "P2P(Legacy)",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sentinel/asset/dvpn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sentinel/asset/dvpn.png",
         "coinGeckoId": "sentinel",
         "ibc_info" : {
             "path": "sentinel>cosmos",
@@ -178,7 +178,7 @@
         "symbol": "CRO",
         "description": "Cronos POS Staking Coin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/crypto-org/asset/cro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/crypto-org/asset/cro.png",
         "coinGeckoId": "crypto-com-chain",
         "ibc_info" : {
             "path": "crypto-org>cosmos",
@@ -201,7 +201,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/xprt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/xprt.png",
         "coinGeckoId": "persistence",
         "ibc_info" : {
             "path": "persistence>cosmos",
@@ -224,7 +224,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>cosmos",
@@ -247,7 +247,7 @@
         "symbol": "LIKE",
         "description": "Like Staking Coin",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/likecoin/asset/like.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/likecoin/asset/like.png",
         "coinGeckoId": "likecoin",
         "ibc_info" : {
             "path": "likecoin>cosmos",
@@ -270,7 +270,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/inj.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/inj.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info" : {
             "path": "injective>cosmos",
@@ -293,7 +293,7 @@
         "symbol": "USDC.inj",
         "description": "USD Coin - Directly minted on Injective by the Circle Foundation",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "injective>cosmos",
@@ -316,7 +316,7 @@
         "symbol": "XKI",
         "description": "KI Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ki-chain/asset/xki.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ki-chain/asset/xki.png",
         "coinGeckoId": "ki",
         "ibc_info" : {
             "path": "ki-chain>cosmos",
@@ -339,7 +339,7 @@
         "symbol": "BTSG",
         "description": "BitSong Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitsong/asset/btsg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitsong/asset/btsg.png",
         "coinGeckoId": "bitsong",
         "ibc_info" : {
             "path": "bitsong>cosmos",
@@ -362,7 +362,7 @@
         "symbol": "BCNA",
         "description": "BitCanna Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitcanna/asset/bcna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitcanna/asset/bcna.png",
         "coinGeckoId": "bitcanna",
         "ibc_info" : {
             "path": "bitcanna>cosmos",
@@ -385,7 +385,7 @@
         "symbol": "KAVA",
         "description": "Kava Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava.png",
         "coinGeckoId": "kava",
         "ibc_info" : {
             "path": "kava>cosmos",
@@ -408,7 +408,7 @@
         "symbol": "USDT.kava",
         "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "color": "#049494",
         "coinGeckoId": "tether",
         "ibc_info" : {
@@ -432,7 +432,7 @@
         "symbol": "UMEE",
         "description": "UX Chain Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/umee/asset/umee.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/umee/asset/umee.png",
         "coinGeckoId": "umee",
         "ibc_info" : {
             "path": "umee>cosmos",
@@ -455,7 +455,7 @@
         "symbol": "SCRT",
         "description": "Secret Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/secret/asset/scrt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/secret/asset/scrt.png",
         "coinGeckoId": "secret",
         "ibc_info" : {
             "path": "secret>cosmos",
@@ -478,7 +478,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/evmos/asset/evmos.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/evmos/asset/evmos.png",
         "coinGeckoId": "evmos",
         "ibc_info" : {
             "path": "evmos>cosmos",
@@ -501,7 +501,7 @@
         "symbol": "AIOZ",
         "description": "Aioz Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/aioz/asset/aioz.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/aioz/asset/aioz.png",
         "coinGeckoId": "aioz-network",
         "ibc_info" : {
             "path": "aioz>cosmos",
@@ -524,7 +524,7 @@
         "symbol": "NTRN",
         "description": "The native token of Neutron chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/ntrn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/ntrn.png",
         "coinGeckoId": "neutron-3",
         "ibc_info" : {
             "path": "neutron>cosmos",
@@ -547,7 +547,7 @@
         "symbol": "STRD",
         "description": "Stride Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/strd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/strd.png",
         "coinGeckoId": "stride",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -570,7 +570,7 @@
         "symbol": "stATOM",
         "description": "Stride Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/statom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/statom.png",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -593,7 +593,7 @@
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stosmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stosmo.png",
         "coinGeckoId": "stride-staked-osmo",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -616,7 +616,7 @@
         "symbol": "stSTARS",
         "description": "Stride Staked STARS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/ststars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/ststars.png",
         "coinGeckoId": "stride-staked-stars",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -639,7 +639,7 @@
         "symbol": "stJUNO",
         "description": "Stride Staked JUNO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stjuno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stjuno.png",
         "coinGeckoId": "stride-staked-juno",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -662,7 +662,7 @@
         "symbol": "stEVMOS",
         "description": "Stride Staked EVMOS",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stevmos.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stevmos.png",
         "coinGeckoId": "stride-staked-evmos",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -685,7 +685,7 @@
         "symbol": "stINJ",
         "description": "Stride Staked INJ",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stinj.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stinj.png",
         "coinGeckoId": "stride-staked-injective",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -708,7 +708,7 @@
         "symbol": "stUMEE",
         "description": "Stride Staked UMEE",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stumee.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stumee.png",
         "coinGeckoId": "stride-staked-umee",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -731,7 +731,7 @@
         "symbol": "stCMDX",
         "description": "Stride Staked CMDX",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stcmdx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stcmdx.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -754,7 +754,7 @@
         "symbol": "stLUNA",
         "description": "Stride Staked LUNA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stluna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stluna.png",
         "coinGeckoId": "stride-staked-luna",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -777,7 +777,7 @@
         "symbol": "stSOMM",
         "description": "Stride Staked SOMM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stsomm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stsomm.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "stride>cosmos",
@@ -800,7 +800,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>cosmos",
@@ -823,7 +823,7 @@
         "symbol": "CIF",
         "description": "Cifer Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cifer/asset/cif.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cifer/asset/cif.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "cifer>cosmos",
@@ -869,7 +869,7 @@
         "symbol": "LBTC",
         "description": "Lombard Staked BTC.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard/asset/lbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard/asset/lbtc.png",
         "coinGeckoId": "lombard-staked-btc",
         "color": "#04fbfb",
         "ibc_info" : {
@@ -893,7 +893,7 @@
         "symbol": "BABY",
         "description": "Babylon Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/bbn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/bbn.png",
         "coinGeckoId": "babylon",
         "color": "#FF863C",
         "ibc_info" : {
@@ -917,7 +917,7 @@
         "symbol": "WETH",
         "description": "WETH via Eureka",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -937,7 +937,7 @@
         "symbol": "USDT",
         "description": "Tether via Eureka",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -957,7 +957,7 @@
         "symbol": "WBTC",
         "description": "Wrapped Bitcoin via Eureka",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -977,7 +977,7 @@
         "symbol": "pumpBTC",
         "description": "pumpBTC via Eureka",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/pumpBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/pumpBTC.png",
         "coinGeckoId": "pumpbtc",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -997,7 +997,7 @@
         "symbol": "PAXG",
         "description": "Pax Gold via Eureka",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/paxg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/paxg.png",
         "coinGeckoId": "pax-gold",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1017,7 +1017,7 @@
         "symbol": "ONDO",
         "description": "Ondo via Eureka",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ondo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/ondo.png",
         "coinGeckoId": "ondo-finance",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1037,7 +1037,7 @@
         "symbol": "LINK",
         "description": "Link via Eureka",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/link.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/link.png",
         "coinGeckoId": "chainlink",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1057,7 +1057,7 @@
         "symbol": "XAR",
         "description": "Arcana Network via Eureka",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/xar.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/xar.png",
         "coinGeckoId": "arcana-token",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1077,7 +1077,7 @@
         "symbol": "FBTC",
         "description": "Fire BTC via Eureka",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/firebtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/firebtc.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1097,7 +1097,7 @@
         "symbol": "SolvBTC",
         "description": "SolvBTC is a universal Bitcoin reserve via Eureka",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/SolvBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/SolvBTC.png",
         "coinGeckoId": "solv-btc",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1117,7 +1117,7 @@
         "symbol": "RISE",
         "description": "Sunrise Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sunrise/asset/rise.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sunrise/asset/rise.png",
         "coinGeckoId": "sunrise-layer",
         "ibc_info" : {
             "path": "sunrise>cosmos",
@@ -1140,7 +1140,7 @@
         "symbol": "USDrise",
         "description": "Sunrise USD Stable Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/usdrise.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/usdrise.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "sunrise>cosmos",
@@ -1163,7 +1163,7 @@
         "symbol": "INTO",
         "description": "Intento native token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/intento/asset/into.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/intento/asset/into.png",
         "color": "#BDE3F4",
         "ibc_info" : {
             "path": "intento>cosmos",
@@ -1186,7 +1186,7 @@
         "symbol": "Neiro",
         "description": "Neiro via Eureka",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/neiro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/neiro.png",
         "coinGeckoId": "neiro-3",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1206,7 +1206,7 @@
         "symbol": "XAUt",
         "description": "Tether Gold bridged via Eureka on Cosmos Hub.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/xaut.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/xaut.png",
         "coinGeckoId": "tether-gold",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1226,7 +1226,7 @@
         "symbol": "INTO",
         "description": "The native token of Intento",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/intento/asset/into.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/intento/asset/into.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "intento>cosmos",
@@ -1271,7 +1271,7 @@
         "symbol": "mBTC.midas",
         "description": "Midas mBTC on the Cosmos Hub.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/midas_mbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/midas_mbtc.png",
         "coinGeckoId": "midas-btc-yield-token",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1313,7 +1313,7 @@
         "symbol": "sUSDS",
         "description": "sUSDS on the Cosmos Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/susds.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/susds.png",
         "coinGeckoId": "susds",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1333,7 +1333,7 @@
         "symbol": "enzoBTC",
         "description": "enzoBTC on the Cosmos Hub",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/enzo_btc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/enzo_btc.png",
         "coinGeckoId": "lorenzo-wrapped-bitcoin",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1393,7 +1393,7 @@
         "symbol": "Babypie Wrapped BTC",
         "description": "mBTC on the Cosmos Hub",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/babypie_mbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/babypie_mbtc.png",
         "coinGeckoId": "babypie-wrapped-btc",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1473,7 +1473,7 @@
         "symbol": "SolvBTC",
         "description": "SolvBTC on the Cosmos Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/SolvBTC.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/SolvBTC.png",
         "coinGeckoId": "solv-btc",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1493,7 +1493,7 @@
         "symbol": "FX",
         "description": "The native staking token of the Function X",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fxcore/asset/fx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/fxcore/asset/fx.png",
         "coinGeckoId": "fx-coin",
         "ibc_info": {
             "path": "fxcore>cosmos",
@@ -1516,7 +1516,7 @@
         "symbol": "ALLO",
         "description": "Allo on the Cosmos Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/allo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/allo.png",
         "coinGeckoId": "allora",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1536,7 +1536,7 @@
         "symbol": "JPYC",
         "description": "JPY Coin on the Cosmos Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/jpyc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/jpyc.png",
         "coinGeckoId": "jpycoin",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1556,7 +1556,7 @@
         "symbol": "NIL",
         "description": "NIL on the Cosmos Hub",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion/asset/nil.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nillion/asset/nil.png",
         "coinGeckoId": "nillion",
         "ibc_info" : {
             "path": "nillion>cosmos",
@@ -1579,7 +1579,7 @@
         "symbol": "SEDA",
         "description": "SEDA on the Cosmos Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/seda.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/seda.png",
         "coinGeckoId": "seda-2",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1599,7 +1599,7 @@
         "symbol": "COREUM",
         "description": "COREUM on the Cosmos Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/core.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/core.png",
         "coinGeckoId": "coreum",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1619,7 +1619,7 @@
         "symbol": "NIL.old",
         "description": "NIL.old on the Cosmos Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion/asset/nil.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nillion/asset/nil.png",
         "coinGeckoId": "nillion",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1639,7 +1639,7 @@
         "symbol": "XRP.coreum",
         "description": "XRP bridged from Coreum XRPL",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/xrp.png",
         "coinGeckoId": "ripple",
         "ibc_info": {
             "path": "xrpl>coreum>cosmos",
@@ -1662,7 +1662,7 @@
         "symbol": "wstETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "ibc_info": {
             "path": "neutron>cosmos",
@@ -1728,7 +1728,7 @@
         "symbol": "EURC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/eurc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/eurc.png",
         "coinGeckoId": "euro-coin",
         "ibc_info" : {
             "path": "ethereum>cosmos",
@@ -1748,7 +1748,7 @@
         "symbol": "ISLM",
         "description": "The native EVM, governance and staking token of the Haqq Network",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/haqq/asset/islm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/haqq/asset/islm.png",
         "coinGeckoId": "islamic-coin",
         "ibc_info" : {
             "path": "haqq>cosmos",
@@ -1771,7 +1771,7 @@
         "symbol": "HAQQ",
         "description": "HAQQ is the ecosystem token of the Haqq ecosystem",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/haqq/asset/haqq.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/haqq/asset/haqq.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "haqq>cosmos",
@@ -1794,7 +1794,7 @@
         "symbol": "STARS",
         "description": "The native token of Stargaze",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/stars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/stars.png",
         "coinGeckoId": "stargaze"
     }
 ]
