@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "arkeo-main-v1",
     "chain_name": "Arkeo",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/arkeo/resource/chain_arkeo.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/arkeo/resource/chain_arkeo.png",
     "staking_asset_denom" : "uarkeo",
     "staking_asset_symbol" : "ARKEO",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/arkeo/asset/arkeo.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/arkeo/asset/arkeo.png",
     "bech_account_prefix" : "arkeo",
     "bech_validator_prefix" : "arkeovaloper",
     "origin_genesis_time" : "2025-04-03T15:00:00Z",

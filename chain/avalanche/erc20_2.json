@@ -6,7 +6,7 @@
         "symbol": "USDt",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT.e",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether-avalanche-bridged-usdt-e"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "sAVAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/savax.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/savax.png",
         "coinGeckoId": "benqi-liquid-staked-avax"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "JOE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/joe.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/joe.png",
         "coinGeckoId": "joe"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "WAVAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/wavax.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/wavax.png",
         "coinGeckoId": "wrapped-avax"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -68,7 +68,7 @@
         "symbol": "USDC.e",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin-avalanche-bridged-usdc-e"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "BTC.b",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/btcb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/btcb.png",
         "coinGeckoId": "bitcoin-avalanche-bridged-btc-b"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "WETH.e",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "STG",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/stg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/stg.png",
         "coinGeckoId": "stargate-finance"
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "MIM",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/mim.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/mim.png",
         "coinGeckoId": "magic-internet-money-avalanche"
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "COQ",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/coq.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/coq.png",
         "coinGeckoId": "coq-inu"
     },
     {
@@ -128,7 +128,7 @@
         "symbol": "FITFI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/fitfi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/fitfi.png",
         "coinGeckoId": "step-app-fitfi"
     },
     {
@@ -138,7 +138,7 @@
         "symbol": "ACRE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/acre.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/acre.png",
         "coinGeckoId": "arable-protocol"
     },
     {
@@ -148,7 +148,7 @@
         "symbol": "wMEMO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/wmemo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/wmemo.png",
         "coinGeckoId": "wrapped-memory"
     },
     {
@@ -158,7 +158,7 @@
         "symbol": "DAI.e",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/dai.png",
         "coinGeckoId": "dai"
     },
     {
@@ -168,7 +168,7 @@
         "symbol": "XAVA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/xava.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/xava.png",
         "coinGeckoId": "avalaunch"
     },
     {
@@ -178,7 +178,7 @@
         "symbol": "PNG",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/png.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/png.png",
         "coinGeckoId": "pangolin"
     },
     {
@@ -188,7 +188,7 @@
         "symbol": "QI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/qi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/qi.png",
         "coinGeckoId": "benqi"
     },
     {
@@ -198,7 +198,7 @@
         "symbol": "BNB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/bnb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/bnb.png",
         "coinGeckoId": "binancecoin"
     },
     {
@@ -208,7 +208,7 @@
         "symbol": "CRAFT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/craft.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/craft.png",
         "coinGeckoId": "talecraft"
     },
     {
@@ -218,7 +218,7 @@
         "symbol": "ROCO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/roco.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/roco.png",
         "coinGeckoId": "roco-finance"
     },
     {
@@ -228,7 +228,7 @@
         "symbol": "BioFi",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/biofi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/biofi.png",
         "coinGeckoId": "biometric-financial"
     },
     {
@@ -238,7 +238,7 @@
         "symbol": "ALOT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/alot.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/alot.png",
         "coinGeckoId": "dexalot"
     },
     {
@@ -248,7 +248,7 @@
         "symbol": "CLY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/cly.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/cly.png",
         "coinGeckoId": "colony"
     },
     {
@@ -258,7 +258,7 @@
         "symbol": "GMX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/gmx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/gmx.png",
         "coinGeckoId": "gmx"
     },
     {
@@ -268,7 +268,7 @@
         "symbol": "WOLF",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/wolf.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/wolf.png",
         "coinGeckoId": "landwolf-0x67"
     },
     {
@@ -278,7 +278,7 @@
         "symbol": "NOCHILL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/nochill.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/nochill.png",
         "coinGeckoId": "avax-has-no-chill"
     },
     {
@@ -288,7 +288,7 @@
         "symbol": "FRAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/frax.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/frax.png",
         "coinGeckoId": "frax"
     },
     {
@@ -298,7 +298,7 @@
         "symbol": "HUSKY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/husky.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/husky.png",
         "coinGeckoId": "husky-avax"
     },
     {
@@ -328,7 +328,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axelar/asset/axl.png",
         "coinGeckoId": "axelar"
     },
     {
@@ -558,7 +558,7 @@
         "symbol": "ECD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/ECD.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/ECD.png",
         "coinGeckoId": "echidna"
     },
     {
@@ -898,7 +898,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/milktia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/milktia.png",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {
@@ -928,7 +928,7 @@
         "symbol": "WBTC.lz",
         "description": "Wrapped Bitcoin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -948,7 +948,7 @@
         "symbol": "WBNB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/wbnb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/wbnb.png",
         "coinGeckoId": "wbnb"
     },
     {
@@ -958,7 +958,7 @@
         "symbol": "COMP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/comp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/comp.png",
         "coinGeckoId": "compound-governance-token"
     },
     {
@@ -968,7 +968,7 @@
         "symbol": "YFI",
         "description": "yearn.finance",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/yfi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/yfi.png",
         "coinGeckoId": "yearn-finance"
     },
     {
@@ -978,7 +978,7 @@
         "symbol": "1INCH",
         "description": "1INCH Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/1inch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/1inch.png",
         "coinGeckoId": "1inch"
     },
     {
@@ -988,7 +988,7 @@
         "symbol": "BAL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/bal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/bal.png",
         "coinGeckoId": "balancer"
     },
     {
@@ -998,7 +998,7 @@
         "symbol": "MKR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/mkr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/mkr.png",
         "coinGeckoId": "maker"
     },
     {
@@ -1018,7 +1018,7 @@
         "symbol": "OP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/op.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/op.png",
         "coinGeckoId": "optimism"
     },
     {
@@ -1028,7 +1028,7 @@
         "symbol": "SOL.wh",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/sol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/sol.png",
         "coinGeckoId": "sol-wormhole"
     },
     {
@@ -1038,7 +1038,7 @@
         "symbol": "SNX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/snx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/snx.png",
         "coinGeckoId": "havven"
     },
     {
@@ -1048,7 +1048,7 @@
         "symbol": "GRT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/grt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/grt.png",
         "coinGeckoId": "the-graph"
     },
     {
@@ -1058,7 +1058,7 @@
         "symbol": "Metis",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/metis.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/metis.png",
         "coinGeckoId": "metis-token"
     },
     {
@@ -1068,7 +1068,7 @@
         "symbol": "EURC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/eurc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/avalanche/asset/eurc.png",
         "coinGeckoId": "euro-coin"
     }
 ]

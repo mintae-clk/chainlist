@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "axone-1",
     "chain_name": "Axone",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axone/resource/chain_axone.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axone/resource/chain_axone.png",
     "staking_asset_denom" : "uaxone",
     "staking_asset_symbol" : "AXONE",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axone/asset/axone.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axone/asset/axone.png",
     "bech_account_prefix" : "axone",
     "bech_validator_prefix" : "axonevaloper",
     "origin_genesis_time" : "2025-07-08T18:20:00Z",

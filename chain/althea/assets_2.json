@@ -6,7 +6,7 @@
         "symbol": "ALTHEA",
         "description": "Althea Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/althea/asset/althea.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/althea/asset/althea.png",
         "coinGeckoId": "althea",
         "color": "#3f95d4"
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC.grv",
         "description": "USDC on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "color": "#2775CA",
         "ibc_info" : {
@@ -41,7 +41,7 @@
         "symbol": "USDT.grv",
         "description": "USDT on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "ibc_info" : {
             "path": "ethereum>gravity-bridge>althea",
@@ -64,7 +64,7 @@
         "symbol": "USDS.grv",
         "description": "USDS on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usds.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usds.png",
         "coinGeckoId": "usds",
         "ibc_info" : {
             "path": "ethereum>gravity-bridge>althea",
@@ -87,7 +87,7 @@
         "symbol": "sUSDS.grv",
         "description": "sUSDS on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/susds.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/susds.png",
         "coinGeckoId": "susds",
         "ibc_info" : {
             "path": "ethereum>gravity-bridge>althea",
@@ -110,7 +110,7 @@
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-bridge/asset/grav.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-bridge/asset/grav.png",
         "coinGeckoId": "graviton",
         "ibc_info" : {
             "path": "gravity-bridge>althea",

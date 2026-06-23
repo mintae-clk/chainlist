@@ -2,10 +2,10 @@
     "chain_id_cosmos": "aura_6322-2",
     "chain_name": "Aura Network",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/aura/resource/chain_aura.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/aura/resource/chain_aura.png",
     "staking_asset_denom": "uaura",
     "staking_asset_symbol": "AURA",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/aura/asset/unknown.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/aura/asset/unknown.png",
     "bech_account_prefix" : "aura",
     "bech_validator_prefix" : "bandvaloper",
     "origin_genesis_time" : "2020-05-28T14:00:00Z",

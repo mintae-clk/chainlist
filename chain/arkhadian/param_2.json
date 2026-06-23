@@ -2,7 +2,7 @@
     "chain_id_cosmos": "arkh",
     "chain_name": "Arkhadian",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/arkhadian/resource/chain_arkhadian.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/arkhadian/resource/chain_arkhadian.png",
     "staking_asset_denom": "arkh",
     "staking_asset_symbol": "ARKH",
     "lcd_endpoint": [

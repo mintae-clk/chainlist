@@ -6,7 +6,7 @@
         "symbol": "AXONE",
         "description": "Axone Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axone/asset/axone.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axone/asset/axone.png",
         "coinGeckoId": ""
     }
 ]

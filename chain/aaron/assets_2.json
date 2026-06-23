@@ -6,7 +6,7 @@
         "symbol": "AARON",
         "description": "Aaron Network Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/aaron/asset/aaron.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/aaron/asset/aaron.png",
         "coinGeckoId": ""
     }
 ]

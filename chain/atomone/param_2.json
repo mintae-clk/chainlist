@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "atomone-1",
     "chain_name": "AtomOne",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/atomone/resource/chain_atomone.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/atomone/resource/chain_atomone.png",
     "staking_asset_denom" : "uatone",
     "staking_asset_symbol" : "ATONE",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/atomone/asset/atone.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/atomone/asset/atone.png",
     "bech_account_prefix" : "atone",
     "bech_validator_prefix" : "atonevaloper",
     "origin_genesis_time" : "2024-10-18T15:00:00Z",

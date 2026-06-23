@@ -6,7 +6,7 @@
         "symbol": "ANDR",
         "description": "Andromeda Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/andromeda/asset/andr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/andromeda/asset/andr.png",
         "coinGeckoId": "andromeda-2",
         "color": "#040404"
     }
