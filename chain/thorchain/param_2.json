@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "thorchain-1",
     "chain_name": "ThorChain",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/thorchain/resource/chain_thorchain.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/thorchain/resource/chain_thorchain.png",
     "staking_asset_denom": "rune",
     "staking_asset_symbol" : "RUNE",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/thorchain/asset/rune.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/thorchain/asset/rune.png",
     "bech_account_prefix": "thor",
     "bech_validator_prefix": "thorvaloper",
     "origin_genesis_time": "2021-04-13T11:00:00Z",

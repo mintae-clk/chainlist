@@ -2,7 +2,7 @@
     "chain_id_cosmos": "tgrade-mainnet-1",
     "chain_name": "Tgrade",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/tgrade/resource/chain_tgrade.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/tgrade/resource/chain_tgrade.png",
     "staking_asset_denom": "utgd",
     "staking_asset_symbol": "TGD",
     "lcd_endpoint": []

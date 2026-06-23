@@ -133,7 +133,7 @@
         "symbol": "WETH.grv",
         "description": "Wrapped Ethereum on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth",
         "ibc_info" : {
             "path": "ethereum>gravity-bridge>althea",

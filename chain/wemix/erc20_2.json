@@ -6,7 +6,7 @@
         "symbol": "WWEMIX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/wwemix.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/wwemix.png",
         "coinGeckoId": "wwemix",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "WEMIX$",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/wemixdollar.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/wemixdollar.png",
         "coinGeckoId": "wemix-dollar",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "CROW",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/crow.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/crow.png",
         "coinGeckoId": ""
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "MOR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/mor.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/mor.png",
         "coinGeckoId": "morion"
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "VEL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/vel.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/vel.png",
         "coinGeckoId": ""
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "PAP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/pap.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/pap.png",
         "coinGeckoId": "papyrus-2"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "TEAR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/tear.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/tear.png",
         "coinGeckoId": "tear-2"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "PRO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/pro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/pro.png",
         "coinGeckoId": "promote"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "Valkyreum",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/valkyreum.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/valkyreum.png",
         "coinGeckoId": ""
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "GEAR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/gear.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/gear.png",
         "coinGeckoId": "gear-2"
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "WCD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/wcd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/wcd.png",
         "coinGeckoId": ""
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "FEA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/fea.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/fea.png",
         "coinGeckoId": "feather"
     },
     {
@@ -128,7 +128,7 @@
         "symbol": "XQG",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/xqg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/xqg.png",
         "coinGeckoId": ""
     },
     {
@@ -138,7 +138,7 @@
         "symbol": "KLAY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/klay.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/klay.png",
         "coinGeckoId": "klay-token"
     }
 ]

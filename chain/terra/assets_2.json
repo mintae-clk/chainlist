@@ -6,7 +6,7 @@
         "symbol": "LUNA",
         "description": "The native staking coin of Terra Phoenix.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/luna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/luna.png",
         "coinGeckoId": "terra-luna-2",
         "color": "#1E75EE"
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC.axl",
         "description": "Wrapped USDC imported to Cosmos from Ethereum via Axelar.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>terra",
@@ -63,7 +63,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cerberus/asset/crbrus.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cerberus/asset/crbrus.png",
         "coinGeckoId": "cerberus-2",
         "ibc_info" : {
             "path": "cerberus>osmosis>terra",
@@ -86,7 +86,7 @@
         "symbol": "USDC",
         "description": "USDC - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>terra",
@@ -109,7 +109,7 @@
         "symbol": "ashLUNA",
         "description": "LUNA burn derivative",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/luna.ash.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/luna.ash.png",
         "coinGeckoId": ""
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "ampWHALEt",
         "description": "ERIS Alliance Staked ampWHALE on Terra",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/ampwhalet.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/ampwhalet.png",
         "coinGeckoId": ""
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "boneWHALEt",
         "description": "ERIS Alliance Staked boneWHALE on Terra",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/bonewhalet.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/bonewhalet.png",
         "coinGeckoId": ""
     },
     {
@@ -161,7 +161,7 @@
         "symbol": "USDT",
         "description": "USDT - directly minted on the Kava chain by the Tether Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "ibc_info" : {
             "path": "kava>terra",
@@ -184,7 +184,7 @@
         "symbol": "KAVA",
         "description": "Kava is a IBC/EVM Co-Chain and is the USDT gateway for Cosmos.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava.png",
         "coinGeckoId": "kava",
         "ibc_info" : {
             "path": "kava>terra",
@@ -253,7 +253,7 @@
         "symbol": "stLUNA",
         "description": "Stride LUNA is a liquid staking derivative of LUNA, powered by Stride Protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stluna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stluna.png",
         "ibc_info" : {
             "path": "stride>terra",
             "client" : {
@@ -275,7 +275,7 @@
         "symbol": "EURe",
         "description": "EURe is a Euro-backed stablecoin issued by Monerium on Noble.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/eure.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/eure.png",
         "coinGeckoId": "monerium-eur-money",
         "ibc_info" : {
             "path": "noble>terra",
@@ -298,7 +298,7 @@
         "symbol": "WHALE",
         "description": "The native token of Migaloo, a cosmwasm, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/whitewhale.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/migaloo/asset/whitewhale.png",
         "coinGeckoId": "white-whale",
         "ibc_info" : {
             "path": "migaloo>terra",
@@ -321,7 +321,7 @@
         "symbol": "ampWHALE",
         "description": "A liquid staking derivative of staked Whale, powered by Eris Protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/ampwhale.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/migaloo/asset/ampwhale.png",
         "coinGeckoId": "eris-amplified-whale",
         "ibc_info" : {
             "path": "migaloo>terra",
@@ -344,7 +344,7 @@
         "symbol": "bWHALE",
         "description": "A liquid staking derivative of staked Whale, powered by BackBone Labs.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/bwhale.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/migaloo/asset/bwhale.png",
         "ibc_info" : {
             "path": "migaloo>terra",
             "client" : {
@@ -412,7 +412,7 @@
         "symbol": "wstETH",
         "description": "Wrapped Lido Staked Ether, imported to Terra via Neutron and is considered the canonical version of stETH in Cosmos. bridge.neutron.org",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "ibc_info" : {
             "path": "ethereum>neutron>terra",
@@ -458,7 +458,7 @@
         "symbol": "ATOM",
         "description": "ATOM is the native cryptocurrency of the Cosmos Hub (Gaia), designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>terra",
@@ -481,7 +481,7 @@
         "symbol": "INJ",
         "description": "The INJ token is the native governance token for the Injective chain.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/inj.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/inj.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info" : {
             "path": "injective>terra",
@@ -504,7 +504,7 @@
         "symbol": "dATOM",
         "description": "A liquid staking derivative of staked ATOM, powered by DROP on Neutron.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/datom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/datom.png",
         "coinGeckoId": "drop-staked-atom",
         "ibc_info" : {
             "path": "neutron>terra",
@@ -527,7 +527,7 @@
         "symbol": "OSMO",
         "description": "The native token of Osmosis, running one of the largest DEX in Cosmos.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>terra",
@@ -550,7 +550,7 @@
         "symbol": "SEI",
         "description": "Sei is a  parallelized IBC/EVM chain currently in the process of going full EVM.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/sei.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/sei.png",
         "coinGeckoId": "sei-network",
         "ibc_info" : {
             "path": "sei>terra",
@@ -573,7 +573,7 @@
         "symbol": "ASTRO",
         "description": "The cross-chain governance token of Astroport, which now has its home base on Neutron.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/astro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/astro.png",
         "coinGeckoId": "astroport-fi",
         "ibc_info" : {
             "path": "neutron>terra",
@@ -596,7 +596,7 @@
         "symbol": "xASTRO",
         "description": "The staked version of the Astroport token, powered by Neutron.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/xAstro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/xAstro.png",
         "ibc_info" : {
             "path": "neutron>terra",
             "client" : {
@@ -618,7 +618,7 @@
         "symbol": "stATOM",
         "description": "A liquid staking derivative of staked ATOM, powered by Stride.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/statom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/statom.png",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info" : {
             "path": "stride>terra",
@@ -641,7 +641,7 @@
         "symbol": "NTRN",
         "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/ntrn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/ntrn.png",
         "coinGeckoId": "neutron",
         "ibc_info" : {
             "path": "neutron>terra",
@@ -710,7 +710,7 @@
         "symbol": "WBTC",
         "description": "Wrapped Bitcoin IBC'd to Terra through Gaia's Eureka connection to Ethereum.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
         "ibc_info" : {
             "path": "ethereum>cosmos>terra",
@@ -733,7 +733,7 @@
         "symbol": "PAXG",
         "description": "Digital gold IBC'd to Terra through Gaia's Eureka connection to Ethereum.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/paxg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/paxg.png",
         "coinGeckoId": "pax-gold",
         "ibc_info" : {
             "path": "ethereum>cosmos>terra",
@@ -756,7 +756,7 @@
         "symbol": "ETH",
         "description": "Ethereum IBC'd to Terra through Gaia's Eureka connection.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/eth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/eth.png",
         "coinGeckoId": "ethereum",
         "ibc_info" : {
             "path": "ethereum>cosmos>terra",
@@ -779,7 +779,7 @@
         "symbol": "LUNC",
         "description": "The native staking token of the Terra Classic blockchain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic/asset/lunc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic/asset/lunc.png",
         "coinGeckoId": "terra-luna",
         "ibc_info" : {
             "path": "terra-classic>terra",

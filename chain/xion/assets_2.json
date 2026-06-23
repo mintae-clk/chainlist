@@ -6,7 +6,7 @@
         "symbol": "VERONA",
         "description": "Verona Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xion/asset/verona.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xion/asset/verona.png",
         "coinGeckoId": "xion-2"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info": {
             "path": "noble>xion",
@@ -39,7 +39,7 @@
         "symbol": "OSMO",
         "description": "Osmosis from Osmosis Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>xion",
@@ -62,7 +62,7 @@
         "symbol": "KYVE",
         "description": "The native utility token of the KYVE network.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kyve/asset/kyve.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kyve/asset/kyve.png",
         "coinGeckoId": "kyve-network",
         "ibc_info": {
             "path": "kyve>xion",
@@ -85,7 +85,7 @@
         "symbol": "USDC.axl",
         "description": "IBC Axelar uusdc through axelar-dojo-1 transfer/channel-2",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "axelar>xion",
@@ -108,7 +108,7 @@
         "symbol": "AXL",
         "description": "Axelar Network Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axelar/asset/axl.png",
         "coinGeckoId": "axelar",
         "ibc_info": {
             "path": "axelar>xion",
@@ -131,7 +131,7 @@
         "symbol": "WETH.axl",
         "description": "Wrapped Ether from Axelar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "axlweth",
         "ibc_info": {
             "path": "axelar>xion",
@@ -154,7 +154,7 @@
         "symbol": "ARB.axl",
         "description": "Arbitrum from Axelar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/arbitrum/asset/arb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/arbitrum/asset/arb.png",
         "coinGeckoId": "arbitrum",
         "ibc_info": {
             "path": "axelar>xion",
@@ -177,7 +177,7 @@
         "symbol": "ELYS",
         "description": "The native token of Elys Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/elys/asset/elys.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/elys/asset/elys.png",
         "coinGeckoId": "elys-network",
         "ibc_info": {
             "path": "elys>xion",

@@ -6,7 +6,7 @@
         "symbol": "POA",
         "description": "XRP EVM Sidechain Staking Coin.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm/asset/poa.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm/asset/poa.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "XRP",
         "description": "XRPL EVM Sidechain Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm/asset/xrp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm/asset/xrp.png",
         "coinGeckoId": "ripple"
     }
 ]

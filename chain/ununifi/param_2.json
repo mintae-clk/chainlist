@@ -2,10 +2,10 @@
     "chain_id_cosmos": "ununifi-beta-v1",
     "chain_name": "UnUniFi",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ununifi/resource/chain_ununifi.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ununifi/resource/chain_ununifi.png",
     "staking_asset_denom": "uguu",
     "staking_asset_symbol": "GUU",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ununifi/asset/guu.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ununifi/asset/guu.png",
     "bech_account_prefix": "ununifi",
     "bech_validator_prefix": "ununifivaloper",
     "origin_genesis_time": "2022-05-25T03:00:00Z",

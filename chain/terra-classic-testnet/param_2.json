@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "rebel-2",
     "chain_name": "Terra Classic Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/resource/chain_terra-classic-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/resource/chain_terra-classic-testnet.png",
     "staking_asset_denom" : "uluna",
     "staking_asset_symbol" : "LUNC",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/luna.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/luna.png",
     "bech_account_prefix" : "terra",
     "bech_validator_prefix" : "terravaloper",
     "origin_genesis_time" : "",

@@ -6,7 +6,7 @@
         "symbol": "WLD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/worldcoin/asset/wld.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/worldcoin/asset/wld.png",
         "coinGeckoId": "worldcoin-wld",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wbtc"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "frxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/frxeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/frxeth.png",
         "coinGeckoId": "frax-ether"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "sfrxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/sfrxeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/sfrxeth.png",
         "coinGeckoId": "staked-frax-ether"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "frxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/frxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "sfrxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/sfrxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/sfrxusd.png",
         "coinGeckoId": "staked-frax-usd"
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "FPI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/fpis.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/fpis.png",
         "coinGeckoId": "frax-price-index-share"
     }
 ]

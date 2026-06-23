@@ -2,7 +2,7 @@
     "chain_id_cosmos": "titan_18888-1",
     "chain_name": "Titan",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/titan/resource/chain_titan.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/titan/resource/chain_titan.png",
     "staking_asset_denom": "atkx",
     "staking_asset_symbol": "TKX",
     "lcd_endpoint": []

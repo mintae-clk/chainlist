@@ -1,10 +1,10 @@
 {
  "chain_id_cosmos": "thejaynetwork",
  "chain_name": "The Jay Network",
- "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/thejaynetwork/resource/chain_thejaynetwork.png",
+ "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/thejaynetwork/resource/chain_thejaynetwork.png",
  "staking_asset_denom": "ujay",
  "staking_asset_symbol": "JAY",
- "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/thejaynetwork/asset/jay.png",
+ "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/thejaynetwork/asset/jay.png",
  "bech_account_prefix": "yjay",
  "bech_validator_prefix": "yjayvaloper",
  "origin_genesis_time": "2025-03-15T00:00:00Z",

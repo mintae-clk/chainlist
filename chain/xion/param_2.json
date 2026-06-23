@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "xion-mainnet-1",
     "chain_name": "Verona",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xion/resource/chain_verona.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xion/resource/chain_verona.png",
     "staking_asset_denom" : "uxion",
     "staking_asset_symbol" : "VERONA",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xion/asset/verona.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xion/asset/verona.png",
     "bech_account_prefix" : "xion",
     "bech_validator_prefix" : "xionvaloper",
     "origin_genesis_time" : "2024-03-18T00:00:00Z",

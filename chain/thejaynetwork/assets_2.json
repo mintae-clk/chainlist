@@ -6,7 +6,7 @@
   "symbol": "JAY",
   "description": "The Jay Network Staking Coin",
   "decimals": 6,
-  "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/thejaynetwork/asset/jay.png",
+  "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/thejaynetwork/asset/jay.png",
   "coinGeckoId": ""
  },
  {
@@ -16,7 +16,7 @@
   "symbol": "ATOM",
   "description": "Cosmos Hub Staking Coin",
   "decimals": 6,
-  "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+  "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
   "coinGeckoId": "cosmos",
   "ibc_info": {
    "path": "cosmos>thejaynetwork",
@@ -39,7 +39,7 @@
   "symbol": "TIA",
   "description": "Celestia Staking Coin",
   "decimals": 6,
-  "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+  "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
   "coinGeckoId": "celestia",
   "ibc_info": {
    "path": "celestia>thejaynetwork",
@@ -62,7 +62,7 @@
   "symbol": "INJ",
   "description": "Injective Staking Coin",
   "decimals": 18,
-  "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/inj.png",
+  "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/inj.png",
   "coinGeckoId": "injective-protocol",
   "ibc_info": {
    "path": "injective>thejaynetwork",

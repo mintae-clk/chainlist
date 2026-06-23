@@ -6,7 +6,7 @@
         "symbol": "JURIS",
         "description": "Juris Protocol is a DeFi platform on Terra Classic that offers secure lending and borrowing services.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/juris.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/juris.png",
         "coinGeckoId": "",
         "color": "#3f95d4"
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT",
         "description": "Tether USD (USDT) stablecoin available on the Terra Classic testnet.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/usdt.png",
         "coinGeckoId": "",
         "color": "#26a17b"
     },
@@ -28,7 +28,7 @@
         "symbol": "BTC",
         "description": "Wrapped Bitcoin (BTC) token available on the Terra Classic testnet.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/btc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/btc.png",
         "coinGeckoId": "",
         "color": "#f7931a"
     },
@@ -39,7 +39,7 @@
         "symbol": "USDC",
         "description": "USD Coin (USDC) stablecoin available on the Terra Classic testnet.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/usdc.png",
         "coinGeckoId": "",
         "color": "#2775ca"
     },
@@ -50,7 +50,7 @@
         "symbol": "ETH",
         "description": "Wrapped Ethereum (ETH) token available on the Terra Classic testnet.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/eth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/eth.png",
         "coinGeckoId": "",
         "color": "#3c3c3d"
     },
@@ -61,7 +61,7 @@
         "symbol": "PAXG",
         "description": "PAX Gold (PAXG) is a gold-backed token available on the Terra Classic testnet.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/paxg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/paxg.png",
         "coinGeckoId": "",
         "color": "#d4af37"
     }

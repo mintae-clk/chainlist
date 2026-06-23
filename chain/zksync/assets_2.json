@@ -6,7 +6,7 @@
         "symbol": "ETH",
         "description": "ZKsync Native Ethereum",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/zksync/asset/eth_zksync.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zksync/asset/eth_zksync.png",
         "coinGeckoId": "ethereum"
     }
 ]

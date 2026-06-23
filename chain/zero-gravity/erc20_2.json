@@ -6,7 +6,7 @@
     "symbol": "W0G",
     "description": "",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/zero-gravity/asset/w0g.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zero-gravity/asset/w0g.png",
     "coinGeckoId": "wrapped-0g",
     "wallet_preload": true
   },
@@ -17,7 +17,7 @@
     "symbol": "WETH",
     "description": "WETH",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/zero-gravity/asset/weth.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zero-gravity/asset/weth.png",
     "coinGeckoId": "weth"
   }
 ]

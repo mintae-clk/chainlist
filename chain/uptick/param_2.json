@@ -2,7 +2,7 @@
     "chain_id_cosmos": "uptick_117-1",
     "chain_name": "Uptick",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/uptick/resource/chain_uptick.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/uptick/resource/chain_uptick.png",
     "staking_asset_denom": "auptick",
     "staking_asset_symbol": "UPTICK",
     "lcd_endpoint": [

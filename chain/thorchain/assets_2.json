@@ -6,7 +6,7 @@
         "symbol": "RUNE",
         "description": "The native token of THORChain",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/thorchain/asset/rune.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/thorchain/asset/rune.png",
         "coinGeckoId": "thorchain"
     }
 ]
