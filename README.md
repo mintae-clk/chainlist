@@ -1,14 +1,13 @@
 
 
-## Chain Information By Cosmostation
+## Chain Information Managed By [Cosmos](https://github.com/cosmos) & SKIP
 
-- Migrated from [Token Resource](https://github.com/cosmostation/cosmostation_token_resource)
-- [Validator's moniker image](https://github.com/cosmostation/chainlist/tree/main#how-to-add-your-validator-image)
-- [Add Asset's Info](https://github.com/cosmostation/chainlist/tree/main#how-to-add-your-coin-info)
-- [Add Cw20 Info](https://github.com/cosmostation/chainlist/tree/main#how-to-add-your-cw20-token-info)
-- [Add Erc20 Info](https://github.com/cosmostation/chainlist/tree/main#how-to-add-your-erc20-token-info)
-- [dApp link and description on Mobile Wallet](https://github.com/cosmostation/chainlist/tree/main/wallet_mobile/dapp)
-- [Add gRPC/EVM Endpoint](https://github.com/cosmostation/chainlist/tree/main#how-to-add-endpoint)
+- [Validator's moniker image](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-display-validator-moniker-keybase-identity)
+- [Add Asset's Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-asset-info)
+- [Add Cw20 Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-cw20-token-info)
+- [Add Erc20 Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-erc20-token-info)
+- [Add gRPC/EVM Endpoint](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-endpoint)
+- [dApp link and description on Wallet](https://github.com/CosmosLabsKR/chainlist/tree/main/wallet/eco_list.json)
 
 
 ## Productions using with
@@ -22,31 +21,26 @@
 
 
 ## Chain Image Set
-<img src="https://raw.githubusercontent.com/cosmostation/chainlist/main/resource/static/guide_chains.png" width="368" height="266"> <img src="https://raw.githubusercontent.com/cosmostation/chainlist/main/resource/static/guide_tokens.png" width="249" height="266">
+<img src="https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/resource/static/guide_chains.png" width="368" height="266"> <img src="https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/resource/static/guide_tokens.png" width="249" height="266">
 
 
 - Chains and assets image with 3D
 - Available in all sizes and formats. 
-- [Figma Link](https://www.figma.com/design/MbcSKIWlFb3LelMkkdV8qZ/Brand-Asset?node-id=0-1&t=GAXd4H0Y4AZ7q89P-1)
-- [DownLoad](https://www.figma.com/community/file/1410186894545005444/cosmostation-brand-asset)
 
 
 
 <details open>
-  <summary><h2 style='display: inline; font-size: 24px; text-decoration: line-through'>How to add your validator image</h2></summary>
+  <summary><h2 style='display: inline; font-size: 24px'>How to display validator moniker (Keybase Identity)</h2></summary>
 
  - From March 2025, Display moniker information based on the on-chain validator description (Keybase Identity). 
  - The existing moniker folder will be deleted soon.
 
- - ~~Add your image to `${targetchain}/moniker` folder~~
- - ~~Image with png format and validator address name~~
- - ~~[Example](https://github.com/cosmostation/chainlist/blob/main/chain/cosmos/moniker/cosmosvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4epsluffn.png) will display cosmostation validator moniker logo for cosmos~~
 </details>
 
 ---
 
 <details>
-  <summary><h2 style='display: inline; font-size: 24px'>How to add your coin info</h2></summary>
+  <summary><h2 style='display: inline; font-size: 24px'>How to add your asset info</h2></summary>
 
 ‼️ Please be noted that coins of Testnets and unverified networks may not be merged to master.
 1. Fork this repo to your own github account
@@ -119,10 +113,10 @@
 
 
 
-   ### Coin info json example
+   ### Asset info json example
    `chain/${chain}/assets_2.json`
 
-    - Native Coin
+    - Native Asset
 
       ```json
       // example OSMOSIS
@@ -134,7 +128,7 @@
             "symbol": "OSMO",
             "description": "The native token of Osmosis",
             "decimals": 6,
-            "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+            "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
             "color": "#760dbb",
             "coinGeckoId": "osmosis"
         },
@@ -152,7 +146,7 @@
       ]
       ```
 
-    - IBC Coin
+    - IBC Asset
 
       ```json
       [
@@ -164,7 +158,7 @@
             "symbol": "OSMO",
             "description": "Osmosis Staking Coin",
             "decimals": 6,
-            "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+            "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
             "coinGeckoId": "osmosis",
             "ibc_info" : {
                 "path": "osmosis>cosmos",
@@ -188,7 +182,7 @@
             "symbol": "WETH.grv",
             "description": "Gravity Bridge WETH",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+            "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
             "coinGeckoId": "weth",
             "ibc_info" : {
                 "path": "ethereum>gravity-bridge>iris",
@@ -207,7 +201,7 @@
       ]
       ```
 
-    - Bridge Coin
+    - Bridge Asset
 
       ```json
       [
@@ -219,7 +213,7 @@
             "symbol": "WBTC.grv",
             "description": "Gravity Bridge WBTC",
             "decimals": 8,
-            "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+            "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
             "coinGeckoId": "wrapped-bitcoin",
             "color": "#f39444",
             "bridge_info" : {
@@ -238,7 +232,7 @@
             "symbol": "BUSD",
             "description": "BUSD on IRIS - Deprecated",
             "decimals": 8,
-            "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-beacon-chain/asset/busd.png",
+            "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-beacon-chain/asset/busd.png",
             "coinGeckoId": "binance-usd",
             "bridge_info" : {
                 "path": "bnb-beacon-chain>iris",
@@ -265,7 +259,7 @@
 <details>
   <summary><h2 style='display: inline; font-size: 24px'>How to add your CW20 token info</h2></summary>
 
-  [Juno Cw20](https://github.com/cosmostation/chainlist/blob/main/chain/juno/cw20_2.json) list supporting
+  [Juno Cw20](https://github.com/CosmosLabsKR/chainlist/blob/main/chain/juno/cw20_2.json) list supporting
 1. Fork this repo to your own github account
 2. Clone fork and create new branch
 
@@ -321,7 +315,7 @@
               "symbol": "DAO",
               "description": "DAO DAO",
               "decimals": 6,
-              "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/dao.png",
+              "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/dao.png",
               "coinGeckoId": ""
           },
           {
@@ -331,7 +325,7 @@
               "symbol": "NETA",
               "description": "The native token cw20 for Neta on Juno Chain",
               "decimals": 6,
-              "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/neta.png",
+              "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/neta.png",
               "coinGeckoId": "neta",
               "color": "#f87b7b",
               "wallet_preload": true
@@ -354,7 +348,7 @@
 <details>
   <summary><h2 style='display: inline; font-size: 24px'>How to add your ERC20 token info</h2></summary>
 
-  [Evmos Erc20](https://github.com/cosmostation/chainlist/blob/main/chain/evmos/erc20_2.json) list supporting
+  [Ethereum Erc20](https://github.com/CosmosLabsKR/chainlist/blob/main/chain/ethereum/erc20_2.json) list supporting
 
 1. Fork this repo to your own github account
 2. Clone fork and create new branch
@@ -402,28 +396,28 @@
     - ERC20 Token
 
       ```json
-      // example EVMOS
+      // example Ethereum
       [
         {
             "type": "erc20",
-            "contract": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
-            "name" : "Wrapped Evmos",
-            "symbol": "WEVMOS",
-            "description": "",
-            "decimals": 18,
-            "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/evmos/asset/wevmos.png",
-            "coinGeckoId": "evmos",
+            "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "name" : "Tether",
+            "symbol": "USDT",
+            "description": "Tether",
+            "decimals": 6,
+            "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
+            "coinGeckoId": "tether",
             "wallet_preload": true
         },
         {
             "type": "erc20",
-            "contract": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
-            "name" : "Tether USD (Celer)",
-            "symbol": "ceUSDT",
-            "description": "",
-            "decimals": 6,
-            "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
-            "coinGeckoId": "tether"
+            "contract": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "name" : "WETH",
+            "symbol": "WETH",
+            "description": "WETH",
+            "decimals": 18,
+            "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
+            "coinGeckoId": "weth"
         }
       ]
       ```
@@ -445,29 +439,29 @@
   <summary><h2 style='display: inline; font-size: 24px'>How to add endpoint</h2></summary>
 
 To add endpoints managed by chainlist,
-You must add an endpoint to `https://github.com/cosmostation/chainlist/blob/main/chain/{chain}/param_2.json`
+You must add an endpoint to `https://github.com/CosmosLabsKR/chainlist/blob/main/chain/{chain}/param_2.json`
 
 ```
 {
    ...,
     "grpc_endpoint" : [
         {
-            "provider": "Cosmostation",
-            "url": "grpc-humans.cosmostation.io:443"
+            "provider": "Stakin",
+            "url": "cosmoshub.grpc.stakin-nodes.com:443"
         },
         {
-            "provider": "NodeStake",
-            "url": "grpc.humans.nodestake.top:443"
+            "provider": "Citizen Web3",
+            "url": "grpc.cosmoshub-4.citizenweb3.com:443"
         }
     ],
     "evm_rpc_endpoint" : [
         {
-            "provider": "Cosmostation",
-            "url": "https://rpc-humans-evm.cosmostation.io"
+            "provider": "Drpc",
+            "url": "https://eth.drpc.org"
         },
         {
-            "provider": "Posthuman",
-            "url": "https://evm.humans.posthuman.digital"
+            "provider": "Publicnode",
+            "url": "https://ethereum-rpc.publicnode.com"
         }
     ],
    ...
@@ -479,12 +473,17 @@ Before requesting addition, please check whether the endpoint is operating prope
 - Check gRPC Endpoint
 
 ```sh
-GRPC_URL=<GPRC_ENDPOINT_URL>
+GRPC_URL=<GRPC_ENDPOINT_URL>
 
-#check has grpc endpoints
+# check has grpc endpoints
 grpcurl $GRPC_URL list
-#check has grpc nodeinfo
+# check has grpc nodeinfo
 grpcurl $GRPC_URL cosmos.base.tendermint.v1beta1.Service.GetNodeInfo
+
+# check has grpc plaintext(non-TLS) endpoints
+grpcurl -plaintext $GRPC_URL list
+# check has grpc plaintext(non-TLS) nodeinfo
+grpcurl -plaintext $GRPC_URL cosmos.base.tendermint.v1beta1.Service.GetNodeInfo
 ```
 
 - Check EVM Endpoint
@@ -510,11 +509,8 @@ curl --location '$EVM_URL' \
 ---
 
 ## Contact and Community
-- [Official Website](https://www.cosmostation.io)
-- [E-mail](mailto:support@cosmostation.io)
-- [Telegram - International](https://t.me/cosmostation)
-- [Kakao - Korean](https://open.kakao.com/o/g6KKSe5)
+- [Official Website](https://cosmos.network/)
 
 ## License
-Copyright © Cosmostation, Inc. All rights reserved.
+Copyright © CosmoslabsKR, Inc. All rights reserved.
 Licensed under the [MIT](LICENSE).
