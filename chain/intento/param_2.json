@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "intento-1",
     "chain_name": "Intento",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/intento/resource/chain_intento.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/intento/resource/chain_intento.png",
     "staking_asset_denom" : "uinto",
     "staking_asset_symbol" : "INTO",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/intento/asset/into.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/intento/asset/into.png",
     "bech_account_prefix" : "into",
     "bech_validator_prefix" : "intovaloper",
     "origin_genesis_time" : "2025-08-27T11:00:00Z",

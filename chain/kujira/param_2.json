@@ -2,7 +2,7 @@
     "chain_id_cosmos": "kaiyo-1",
     "chain_name": "Kujira",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kujira/resource/chain_kujira.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kujira/resource/chain_kujira.png",
     "staking_asset_denom": "ukuji",
     "staking_asset_symbol": "KUJI",
     "lcd_endpoint": [

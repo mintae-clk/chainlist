@@ -6,7 +6,7 @@
         "symbol": "KUSD",
         "description": "Treasury-backed private debt",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ki-chain/asset/kusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ki-chain/asset/kusd.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "COSC",
         "description": "Cosmos Core",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ki-chain/asset/cosc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ki-chain/asset/cosc.png",
         "coinGeckoId": ""
     }
 ]

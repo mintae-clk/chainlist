@@ -6,7 +6,7 @@
         "symbol": "INTO",
         "description": "The native token of Intento",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/intento/asset/into.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/intento/asset/into.png",
         "coinGeckoId": ""
     }
 ]

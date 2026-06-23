@@ -2,7 +2,7 @@
     "chain_id_cosmos": "darchub",
     "chain_name": "Konstellation",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/konstellation/resource/chain_konstellation.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/konstellation/resource/chain_konstellation.png",
     "staking_asset_denom": "udarc",
     "staking_asset_symbol": "DARC",
     "lcd_endpoint": []
