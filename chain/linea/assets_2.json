@@ -6,7 +6,7 @@
         "symbol": "ETH",
         "description": "Linea Native Ethereum",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/eth_linea.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/eth_linea.png",
         "coinGeckoId": "ethereum"
     }
 ]

@@ -2,7 +2,7 @@
     "chain_id_cosmos": "odin-mainnet-freya",
     "chain_name": "Odin Protocol",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/odin/resource/chain_odin.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/odin/resource/chain_odin.png",
     "staking_asset_denom": "loki",
     "staking_asset_symbol": "ODIN",
     "lcd_endpoint": [

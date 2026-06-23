@@ -6,7 +6,7 @@
         "symbol": "WMON",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/wmon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/wmon.png",
         "coinGeckoId": "wrapped-monad",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT0",
         "description": "Tether",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "AUSD",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/ausd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/ausd.png",
         "coinGeckoId": "agora-dollar"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/weth.png",
         "coinGeckoId": "wormhole-bridged-weth-monad"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/wbtc.png",
         "coinGeckoId": "telos-bridged-wbtc-telos"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "wstETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/wsteth.png",
         "coinGeckoId": "wrapped-steth"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "earnAUSD",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/earnausd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/earnausd.png",
         "coinGeckoId": ""
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "CHOG",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/chog.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/chog.png",
         "coinGeckoId": ""
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "shMON",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/shmon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/shmon.png",
         "coinGeckoId": "shmonad"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "gMON",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/gmon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/gmon.png",
         "coinGeckoId": "magma-staked-monad"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "sMON",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/smon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/smon.png",
         "coinGeckoId": "kintsu-staked-monad"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "GMONAD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/gmonad.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/gmonad.png",
         "coinGeckoId": "gmonad-3"
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "UNIT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/unit.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/unit.png",
         "coinGeckoId": ""
     },
     {
@@ -149,7 +149,7 @@
         "symbol": "MOLANDAK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/molandak.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/molandak.png",
         "coinGeckoId": "molandak-2"
     },
     {
@@ -159,7 +159,7 @@
         "symbol": "aprMON",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad/asset/aprmon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad/asset/aprmon.png",
         "coinGeckoId": ""
     }
 ]

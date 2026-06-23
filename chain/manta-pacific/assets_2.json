@@ -6,7 +6,7 @@
         "symbol": "ETH",
         "description": "Manta Pacific Native Ethereum",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/eth_manta.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/eth_manta.png",
         "coinGeckoId": "ethereum"
     }
 ]

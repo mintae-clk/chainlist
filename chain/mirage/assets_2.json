@@ -6,7 +6,7 @@
         "symbol": "MIRAGE",
         "description": "Mirage Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mirage/asset/mirage.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mirage/asset/mirage.png",
         "coinGeckoId": ""
     }
 ]

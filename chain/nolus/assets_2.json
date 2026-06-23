@@ -6,7 +6,7 @@
         "symbol": "NLS",
         "description": "Nolus Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nolus/asset/nolus.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nolus/asset/nolus.png",
         "coinGeckoId": "nolus"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>nolus",
@@ -39,7 +39,7 @@
         "symbol": "NTRN",
         "description": "The native token of Neutron chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/ntrn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/ntrn.png",
         "coinGeckoId": "neutron-3",
         "ibc_info": {
             "path": "neutron>nolus",
@@ -62,7 +62,7 @@
         "symbol": "dATOM",
         "description": "A liquid staking derivative of staked ATOM, powered by DROP on Neutron.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/datom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/datom.png",
         "coinGeckoId": "drop-staked-atom",
         "ibc_info" : {
             "path": "neutron>nolus",
@@ -85,7 +85,7 @@
         "symbol": "allSOL",
         "description": "An alloy of SOL asset variants on Osmosis.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/sol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/sol.png",
         "coinGeckoId": "solana",
         "ibc_info" : {
             "path": "osmosis>nolus",
@@ -108,7 +108,7 @@
         "symbol": "allETH",
         "description": "An alloy of ETH asset variants on Osmosis.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/eth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/eth.png",
         "coinGeckoId": "ethereum",
         "ibc_info" : {
             "path": "osmosis>nolus",
@@ -131,7 +131,7 @@
         "symbol": "allBTC",
         "description": "An alloy of BTC asset variants on Osmosis.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitcoin/asset/btc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitcoin/asset/btc.png",
         "coinGeckoId": "bitcoin",
         "ibc_info" : {
             "path": "osmosis>nolus",

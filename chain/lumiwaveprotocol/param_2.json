@@ -1,10 +1,10 @@
 {
   "chain_id_cosmos": "lumiwaveprotocol",
   "chainName": "LumiWave Protocol",
-  "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lumiwaveprotocol/resource/chain_lumiwaveprotocol.png",
+  "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lumiwaveprotocol/resource/chain_lumiwaveprotocol.png",
   "staking_asset_denom" : "ulwp",
   "staking_asset_symbol" : "LWP",
-  "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lumiwaveprotocol/asset/lwp.png",
+  "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lumiwaveprotocol/asset/lwp.png",
   "bech_account_prefix" : "lumi",
   "bech_validator_prefix" : "lumivaloper",
   "origin_genesis_time" : "2026-03-06T09:37:44Z",

@@ -1,10 +1,10 @@
 {
     "chain_id" : "0x7e",
     "chain_name": "Movement",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/movement/resource/chain_movement.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/movement/resource/chain_movement.png",
     "staking_asset_denom" : "0x1::aptos_coin::AptosCoin",
     "staking_asset_symbol" : "MOVE",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/movement/asset/move.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/movement/asset/move.png",
     "origin_genesis_time" : "2024-12-06T08:49:42Z",
     "is_support_mobile_wallet" : true,
     "is_support_extension_wallet" : false,

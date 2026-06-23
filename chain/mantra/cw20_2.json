@@ -6,7 +6,7 @@
       "symbol":"APCA",
       "description":"Libre SAF VCC - Access Private Credit Feeder A",
       "decimals":18,
-      "image":"https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantra/asset/Libre.png",
+      "image":"https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantra/asset/Libre.png",
       "coinGeckoId":"",
       "rwaInfo": [
           {
@@ -22,7 +22,7 @@
       "symbol":"ftOM",
       "description":"ftOM is a CW-20 value-accruing token wrapper for OM token that is staked in validators",
       "decimals":6,
-      "image":"https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantra/asset/ftOM.png",
+      "image":"https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantra/asset/ftOM.png",
       "coinGeckoId":""
    }
 ]

@@ -6,7 +6,7 @@
         "symbol": "MNT",
         "description": "Mantle Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/mnt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/mnt.png",
         "coinGeckoId": "mantle"
     }
 ]

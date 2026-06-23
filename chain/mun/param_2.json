@@ -2,7 +2,7 @@
     "chain_id_cosmos": "mun-1",
     "chain_name": "Mun",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mun/resource/chain_mun.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mun/resource/chain_mun.png",
     "staking_asset_denom": "umun",
     "staking_asset_symbol": "MUN",
     "lcd_endpoint": []

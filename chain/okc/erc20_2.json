@@ -6,7 +6,7 @@
         "symbol": "OKB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/okb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/okc/asset/okb.png",
         "coinGeckoId": "okb",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "WOKT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/wokt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/okc/asset/wokt.png",
         "coinGeckoId": "wrapped-okt"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -38,7 +38,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -49,7 +49,7 @@
         "symbol": "BTCK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/btck.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/okc/asset/btck.png",
         "coinGeckoId": "oec-btc"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "ETHK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/ethk.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/okc/asset/ethk.png",
         "coinGeckoId": ""
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "DAIK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/daik.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/okc/asset/daik.png",
         "coinGeckoId": ""
     }
 ]

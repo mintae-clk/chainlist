@@ -6,7 +6,7 @@
         "symbol": "STAKE",
         "description": "Lombard Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard-testnet/asset/stake.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard-testnet/asset/stake.png",
         "coinGeckoId": "",
         "color": ""
     },
@@ -17,7 +17,7 @@
         "symbol": "LOM",
         "description": "The native token of Lombard Testnet Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard-testnet/asset/lom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard-testnet/asset/lom.png",
         "coinGeckoId": "",
         "color": ""
     },
@@ -28,7 +28,7 @@
         "symbol": "LBTC",
         "description": "Lombard Testnet Staked BTC.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard-testnet/asset/lbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard-testnet/asset/lbtc.png",
         "coinGeckoId": "",
         "color": ""
     }
