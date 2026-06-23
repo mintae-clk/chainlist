@@ -6,7 +6,7 @@
         "symbol": "GNOT",
         "description": "Gno Native Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno/asset/gnot.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno/asset/gnot.png",
         "coinGeckoId": ""
     }
 ]

@@ -6,7 +6,7 @@
     "symbol": "USDC",
     "description": "",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
     "coinGeckoId": "usd-coin",
     "wallet_preload": true
   },
@@ -28,7 +28,7 @@
     "symbol": "WETH",
     "description": "",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
     "coinGeckoId": "weth"
   },
   {
@@ -38,7 +38,7 @@
     "symbol": "DAI",
     "description": "",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/dai.png",
     "coinGeckoId": "dai"
   },
   {
@@ -98,7 +98,7 @@
     "symbol": "STG",
     "description": "",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fantom/asset/stg.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/fantom/asset/stg.png",
     "coinGeckoId": "stargate-finance"
   },
   {

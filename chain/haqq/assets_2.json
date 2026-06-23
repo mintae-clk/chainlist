@@ -6,7 +6,7 @@
         "symbol": "ISLM",
         "description": "The native EVM, governance and staking token of the Haqq Network",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/haqq/asset/islm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/haqq/asset/islm.png",
         "coinGeckoId": "islamic-coin",
         "color": "#04cd80"
     },
@@ -17,7 +17,7 @@
         "symbol": "HAQQ",
         "description": "HAQQ is the ecosystem token of the Haqq ecosystem",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/haqq/asset/haqq.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/haqq/asset/haqq.png",
         "coinGeckoId": ""
     },
     {

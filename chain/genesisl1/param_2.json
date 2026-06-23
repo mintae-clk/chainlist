@@ -2,7 +2,7 @@
     "chain_id_cosmos": "genesis_29-2",
     "chain_name": "GenesisL1",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/genesisl1/resource/chain_genesisl1.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/genesisl1/resource/chain_genesisl1.png",
     "staking_asset_denom": "el1",
     "staking_asset_symbol": "L1",
     "lcd_endpoint": [

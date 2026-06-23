@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "ggezchain",
     "chain_name": "GGEZ1 Chain",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ggezchain/resource/chain_ggezchain.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ggezchain/resource/chain_ggezchain.png",
     "staking_asset_denom": "uggez1",
     "staking_asset_symbol": "GGEZ1",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ggezchain/asset/ggez1.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ggezchain/asset/ggez1.png",
     "bech_account_prefix": "ggez",
     "bech_validator_prefix": "ggezvaloper",
     "origin_genesis_time": "2024-11-12T12:53:55Z",

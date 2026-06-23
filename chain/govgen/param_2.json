@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "govgen-1",
     "chain_name": "GOVGEN",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/govgen/resource/chain_govgen.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/govgen/resource/chain_govgen.png",
     "staking_asset_denom" : "ugovgen",
     "staking_asset_symbol" : "GOVGEN",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/govgen/asset/govgen.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/govgen/asset/govgen.png",
     "bech_account_prefix" : "govgen",
     "bech_validator_prefix" : "govgenvaloper",
     "origin_genesis_time" : "2024-02-27T14:00:00Z",

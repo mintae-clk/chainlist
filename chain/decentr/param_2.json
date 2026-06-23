@@ -2,10 +2,10 @@
     "chain_id_cosmos": "mainnet-3",
     "chain_name": "Decentr",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/decentr/resource/chain_decentr.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/decentr/resource/chain_decentr.png",
     "staking_asset_denom": "udec",
     "staking_asset_symbol": "DEC",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/decentr/asset/dec.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/decentr/asset/dec.png",
     "bech_account_prefix": "decentr",
     "bech_validator_prefix": "decentrvaloper",
     "origin_genesis_time": "2021-01-14T15:00:00Z",

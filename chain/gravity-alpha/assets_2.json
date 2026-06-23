@@ -6,7 +6,7 @@
         "symbol": "G",
         "description": "Gravity Alpha Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-alpha/asset/g.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-alpha/asset/g.png",
         "coinGeckoId": "g-token"
     }
 ]

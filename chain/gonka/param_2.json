@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "gonka-mainnet",
     "chain_name": "Gonka",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gonka/resource/chain_gonka.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gonka/resource/chain_gonka.png",
     "staking_asset_denom": "ngonka",
     "staking_asset_symbol": "GNK",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gonka/asset/gonka.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gonka/asset/gonka.png",
     "bech_account_prefix": "gonka",
     "bech_validator_prefix": "gonkavaloper",
     "origin_genesis_time": "2025-08-22T08:42:00Z",

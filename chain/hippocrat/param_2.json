@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "hippo-protocol-1",
     "chain_name": "Hippo Protocol",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/hippocrat/resource/chain_hippocrat.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/hippocrat/resource/chain_hippocrat.png",
     "staking_asset_denom" : "ahp",
     "staking_asset_symbol" : "HP",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/hippocrat/asset/hp.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/hippocrat/asset/hp.png",
     "bech_account_prefix" : "hippo",
     "bech_validator_prefix" : "hippovaloper",
     "origin_genesis_time" : "2025-04-28T01:32:01Z",

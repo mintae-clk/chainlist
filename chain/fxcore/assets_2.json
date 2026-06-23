@@ -6,7 +6,7 @@
         "symbol": "FX",
         "description": "The native staking token of the Function X",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fxcore/asset/fx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/fxcore/asset/fx.png",
         "coinGeckoId": "fx-coin"
     }
 ]

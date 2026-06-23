@@ -6,7 +6,7 @@
         "symbol": "xDAI",
         "description": "Gnosis Native xDAI",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gnosis/asset/xdai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gnosis/asset/xdai.png",
         "coinGeckoId": "dai"
     }
 ]

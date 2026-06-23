@@ -1,10 +1,10 @@
 {
     "chainId": "hazinachain-1",
     "chainName": "HazinaChain",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/hazinachain/resource/chain_hazinachain.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/hazinachain/resource/chain_hazinachain.png",
     "staking_asset_denom": "uhzn",
     "staking_asset_symbol": "HZN",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/hazinachain/asset/hzn.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/hazinachain/asset/hzn.png",
     "bech_account_prefix": "hazina",
     "bech_validator_prefix": "hazinavaloper",
     "origin_genesis_time": "2026-04-19T04:24:51Z",

@@ -6,7 +6,7 @@
         "symbol": "HZN",
         "description": "The native staking and governance token of HazinaChain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/hazinachain/asset/hzn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/hazinachain/asset/hzn.png",
         "coinGeckoId": "",
         "color": "#1D9E75"
     }

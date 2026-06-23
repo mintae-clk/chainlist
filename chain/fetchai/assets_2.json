@@ -6,7 +6,7 @@
         "symbol": "FET",
         "description": "Fetch Hub Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fetchai/asset/fet.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/fetchai/asset/fet.png",
         "coinGeckoId": "fetch-ai",
         "color": "#57B5A8"
     },
@@ -17,7 +17,7 @@
         "symbol": "MOBX",
         "description": "The MOBX coin rewards the use of eco-friendly micromobility transportation.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fetchai/asset/mobx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/fetchai/asset/mobx.png",
         "coinGeckoId": "mobix",
         "color": "#04ae9b"
     },
@@ -28,7 +28,7 @@
         "symbol": "NOMX",
         "description": "The Longevity Token",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fetchai/asset/nomx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/fetchai/asset/nomx.png",
         "coinGeckoId": "nomix",
         "color": "#ff431a"
     }

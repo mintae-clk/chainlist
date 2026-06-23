@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "dydx-testnet-4",
     "chain_name": "dYdX Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dydx-testnet/resource/chain_dydx-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dydx-testnet/resource/chain_dydx-testnet.png",
     "staking_asset_denom" : "adydx",
     "staking_asset_symbol" : "DYDX",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dydx-testnet/asset/dydx.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dydx-testnet/asset/dydx.png",
     "bech_account_prefix" : "dydx",
     "bech_validator_prefix" : "dydxvaloper",
     "api_name" : "dydx-testnet",

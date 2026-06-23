@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "wormchain",
     "chain_name": "Wormhole Gateway",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gateway/resource/chain_gateway.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gateway/resource/chain_gateway.png",
     "staking_asset_denom" : "uworm",
     "staking_asset_symbol" : "WORM",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gateway/asset/worm.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gateway/asset/worm.png",
     "bech_account_prefix" : "wormhole",
     "bech_validator_prefix" : "wormholevaloper",
     "origin_genesis_time" : "2022-09-27T22:08:43Z",
