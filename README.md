@@ -1,7 +1,7 @@
 
 
 # Mintscan Chain Information
-Chain metadata used by Mintscan Explorer.
+Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com/cosmos)
 
 - [Validator's moniker image](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-display-validator-moniker-keybase-identity)
 - [Add Asset's Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-asset-info)
