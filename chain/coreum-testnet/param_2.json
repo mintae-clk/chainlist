@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "coreum-testnet-1",
     "chain_name": "Coreum Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum-testnet/resource/chain_coreum-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum-testnet/resource/chain_coreum-testnet.png",
     "staking_asset_denom" : "ucore",
     "staking_asset_symbol" : "COREUM",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum-testnet/asset/core.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum-testnet/asset/core.png",
     "bech_account_prefix" : "core",
     "bech_validator_prefix" : "corevaloper",
     "api_name" : "coreum-testnet",

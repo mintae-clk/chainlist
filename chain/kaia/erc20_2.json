@@ -6,7 +6,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "GCKLAY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/gcklay.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/gcklay.png",
         "coinGeckoId": ""
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "KSP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/ksp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/ksp.png",
         "coinGeckoId": "klayswap-protocol"
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "weETH",
         "description": "WETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "GRND",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/grnd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/grnd.png",
         "coinGeckoId": "superwalk-grnd"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "BTCB",
         "description": "Binance Bitcoin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/btcb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/btcb.png",
         "coinGeckoId": "binance-bitcoin"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "BORA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/bora.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/bora.png",
         "coinGeckoId": "bora"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "stKAIA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/stkaia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/stkaia.png",
         "coinGeckoId": "lair-staked-kaia"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "KRWO",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/krwo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/krwo.png",
         "coinGeckoId": ""
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "WEMIX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/akaia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/akaia.png",
         "coinGeckoId": "wemix-token"
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "SSX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/ssx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/ssx.png",
         "coinGeckoId": ""
     },
     {
@@ -128,7 +128,7 @@
         "symbol": "META",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/meta.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/meta.png",
         "coinGeckoId": ""
     },
     {
@@ -138,7 +138,7 @@
         "symbol": "MBX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/mbx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/mbx.png",
         "coinGeckoId": "marblex"
     },
     {
@@ -148,7 +148,7 @@
         "symbol": "NPT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/npt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/npt.png",
         "coinGeckoId": "neopin"
     },
     {
@@ -158,7 +158,7 @@
         "symbol": "GHUB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/ghub.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/ghub.png",
         "coinGeckoId": "gemhub"
     },
     {
@@ -168,7 +168,7 @@
         "symbol": "GXA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/gxa.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/gxa.png",
         "coinGeckoId": "galaxia"
     },
     {
@@ -178,7 +178,7 @@
         "symbol": "LAIR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/lair.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/lair.png",
         "coinGeckoId": "lair"
     },
     {
@@ -188,7 +188,7 @@
         "symbol": "SIX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/six.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/six.png",
         "coinGeckoId": "six-network"
     },
     {
@@ -198,7 +198,7 @@
         "symbol": "PIB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/pib.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/pib.png",
         "coinGeckoId": "pibble"
     },
     {
@@ -208,7 +208,7 @@
         "symbol": "KLEVA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/kleva.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/kleva.png",
         "coinGeckoId": "kleva"
     },
     {
@@ -218,7 +218,7 @@
         "symbol": "TEMCO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/temco.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/temco.png",
         "coinGeckoId": "temco"
     },
     {
@@ -228,7 +228,7 @@
         "symbol": "AZIT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/azit.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kaia/asset/azit.png",
         "coinGeckoId": "azit"
     }
 ]

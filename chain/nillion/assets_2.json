@@ -6,7 +6,7 @@
     "symbol": "NIL",
     "description": "Nillion Staking Coin",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion/asset/nil.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nillion/asset/nil.png",
     "coinGeckoId": "nillion"
   }
 ]

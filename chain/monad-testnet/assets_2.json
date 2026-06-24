@@ -6,7 +6,7 @@
         "symbol": "MON",
         "description": "Monad Testnet Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/monad-testnet/asset/mon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/monad-testnet/asset/mon.png",
         "coinGeckoId": ""
     }
 ]

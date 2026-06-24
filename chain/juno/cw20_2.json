@@ -6,7 +6,7 @@
         "symbol": "NETA",
         "description": "The native token cw20 for Neta on Juno Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/neta.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/neta.png",
         "coinGeckoId": "neta",
         "color": "#f87b7b",
         "wallet_preload": true
@@ -18,7 +18,7 @@
         "symbol": "MARBLE",
         "description": "The native token cw20 for Marble DAO on Juno Chain",
         "decimals": 3,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/marble.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/marble.png",
         "coinGeckoId": "marble",
         "color": "#040404",
         "wallet_preload": true
@@ -30,7 +30,7 @@
         "symbol": "BLOCK",
         "description": "The native token of Marble DEX on Juno Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/block.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/block.png",
         "coinGeckoId": "",
         "color": "#040404"
     },
@@ -41,7 +41,7 @@
         "symbol": "DAO",
         "description": "DAO DAO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/dao.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/dao.png",
         "coinGeckoId": ""
     },
     {
@@ -62,7 +62,7 @@
         "symbol": "HNS",
         "description": "IBC HNS is HNS, coin of Handshake, decentralized root namesystem, but wrapped to cosmos for IBC support by Another.Software through Juno network.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/hns.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/hns.png",
         "coinGeckoId": ""
     },
     {
@@ -83,7 +83,7 @@
         "symbol": "DLA",
         "description": "Governance Token for Digital Land Acquisition DAO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/dla.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/dla.png",
         "coinGeckoId": "",
         "color": "#263a70"
     },
@@ -94,7 +94,7 @@
         "symbol": "DRGN",
         "description": "Stake Dragons",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/drgn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/drgn.png",
         "coinGeckoId": ""
     },
     {
@@ -104,7 +104,7 @@
         "symbol": "FOT",
         "description": "Fortis Oeconomia Token",
         "decimals": 10,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/fot.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/fot.png",
         "coinGeckoId": ""
     },
     {
@@ -114,7 +114,7 @@
         "symbol": "BFOT",
         "description": "Burned Fortis Oeconomia Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/bfot.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/bfot.png",
         "coinGeckoId": ""
     },
     {
@@ -124,7 +124,7 @@
         "symbol": "FURY.legacy",
         "description": "The deprecated cw20 token for Fanfury on Juno Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/fury.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/fury.png",
         "coinGeckoId": "fanfury"
     },
     {
@@ -134,7 +134,7 @@
         "symbol": "HOPE",
         "description": "Hope Galaxy is an NFT collection based on its own native Token $HOPE, a cw20 token on Juno chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/hope.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/hope.png",
         "coinGeckoId": "hope-galaxy",
         "color": "#e2877e",
         "wallet_preload": true
@@ -146,7 +146,7 @@
         "symbol": "HNC",
         "description": "HOT & COLD FINANCE",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/hope.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/hope.png",
         "coinGeckoId": ""
     },
     {
@@ -156,7 +156,7 @@
         "symbol": "HULC",
         "description": "HULCAT Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/hulc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/hulc.png",
         "coinGeckoId": ""
     },
     {
@@ -199,7 +199,7 @@
         "symbol": "bJUNO",
         "description": "Staking derivative bJUNO for staked JUNO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/sbjuno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/sbjuno.png",
         "coinGeckoId": "",
         "color": "#254454"
     },
@@ -210,7 +210,7 @@
         "symbol": "seJUNO",
         "description": "Staking derivative seJUNO for staked JUNO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/sejuno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/sejuno.png",
         "coinGeckoId": "",
         "color": "#26363f"
     },
@@ -221,7 +221,7 @@
         "symbol": "KING",
         "description": "Kingnodes DAO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/king.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/king.png",
         "coinGeckoId": ""
     },
     {
@@ -231,7 +231,7 @@
         "symbol": "LENO",
         "description": "Leno Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/leno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/leno.png",
         "coinGeckoId": ""
     },
     {
@@ -241,7 +241,7 @@
         "symbol": "LOOP",
         "description": "The native token cw20 for Loop Finance on Juno Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/loop.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/loop.png",
         "coinGeckoId": "",
         "color": "#2d2c45"
     },
@@ -252,7 +252,7 @@
         "symbol": "PHMN",
         "description": "The native token cw20 for PHMN on Juno Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/phmn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/phmn.png",
         "coinGeckoId": "posthuman",
         "color": "#bbc2c6",
         "wallet_preload": true
@@ -264,7 +264,7 @@
         "symbol": "PUNK",
         "description": "PUNK JUNO TOKEN",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/punk.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/punk.png",
         "coinGeckoId": ""
     },
     {
@@ -274,7 +274,7 @@
         "symbol": "RAC",
         "description": "Racoon aims to simplify accessibility to AI, NFTs and Gambling on the Cosmos Ecosystem",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/rac.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/rac.png",
         "coinGeckoId": "racoon"
     },
     {
@@ -295,7 +295,7 @@
         "symbol": "RAW",
         "description": "Token governance for Junoswap",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/raw.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/raw.png",
         "coinGeckoId": "junoswap-raw-dao",
         "color": "#f07c92",
         "wallet_preload": true
@@ -318,7 +318,7 @@
         "symbol": "SEASY",
         "description": "StakeEasy governance token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/seasy.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/seasy.png",
         "coinGeckoId": "seasy",
         "color": "#2d2c2d",
         "wallet_preload": true
@@ -330,7 +330,7 @@
         "symbol": "SGNL",
         "description": "Signal Art and Gaming on Juno",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/sgnl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/sgnl.png",
         "coinGeckoId": "signal",
         "color": "#c5c2c2"
     },
@@ -341,7 +341,7 @@
         "symbol": "TUCK",
         "description": "Tuckermint",
         "decimals": 3,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/tuck.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/tuck.png",
         "coinGeckoId": ""
     },
     {
@@ -373,7 +373,7 @@
         "symbol": "WYND",
         "description": "WYND DAO Governance Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/wynd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/wynd.png",
         "coinGeckoId": "wynd",
         "color": "#6bcc95",
         "wallet_preload": true
@@ -385,7 +385,7 @@
         "symbol": "CANLAB",
         "description": "CANLAB",
         "decimals": 3,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/canlabs.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/canlabs.png",
         "coinGeckoId": ""
     },
     {
@@ -406,7 +406,7 @@
         "symbol": "HOPERS",
         "description": "The native token cw20 for Hopers on Juno Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/hopers.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/hopers.png",
         "coinGeckoId": "",
         "color": "#08d890"
     },
@@ -439,7 +439,7 @@
         "symbol": "HOWL",
         "description": "Utility token of Howl.social, an on chain micro-blogging platform on Juno",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/howl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/howl.png",
         "coinGeckoId": "",
         "color": "#e30d2c"
     },
@@ -472,7 +472,7 @@
         "symbol": "KLEO",
         "description": "Kleomedes Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/kleo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/kleo.png",
         "coinGeckoId": "",
         "color": "#240454"
     },
@@ -483,7 +483,7 @@
         "symbol": "wyJuno",
         "description": "Juno Liquid staking derivative by Wynd dao",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/wyJUNO.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/wyJUNO.png",
         "coinGeckoId": ""
     },
     {
@@ -493,7 +493,7 @@
         "symbol": "FOX",
         "description": "Inspired by Bonk. A community project to celebrate the settlers of JunoNetwork.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/fox.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/fox.png",
         "coinGeckoId": "",
         "color": "#ee5f06"
     },
@@ -515,7 +515,7 @@
         "symbol": "NRIDE",
         "description": "nRide is developing an uber-like ride-hailing protocol, leveraging cosmwasm smart-contracts for payment, driver registration and text-messaging between the rider and the driver, to create a trustless public transportation environment for any cab or taxi company to use.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/nride.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/nride.png",
         "coinGeckoId": "",
         "color": "#050505"
     },
@@ -790,7 +790,7 @@
         "symbol": "YFD",
         "description": "Propose. Vote. Build.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/yfd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/yfd.png",
         "coinGeckoId": "",
         "color": "#dc542c"
     },
@@ -801,7 +801,7 @@
         "symbol": "ampJUNO",
         "description": "BITS - Native token of Bitswift Cash",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/ampjuno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/ampjuno.png",
         "coinGeckoId": ""
     },
     {
@@ -822,7 +822,7 @@
         "symbol": "POIL",
         "description": "The least memeable memecoin in existence. The cats have had their day, it's time for $POIL coin to take reign.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/poil.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/poil.png",
         "coinGeckoId": "",
         "color": "#ef6d1d"
     },
@@ -833,7 +833,7 @@
         "symbol": "MRVA",
         "description": "Minerva was one of the main goddesses worshiped by the Roman Pagans and is a goddess from Roman Mythology.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/minerva.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/minerva.png",
         "coinGeckoId": "",
         "color": "#744c2f"
     },
@@ -844,7 +844,7 @@
         "symbol": "LUNO",
         "description": "In Roman mythology, Juno (Latin: Iuno; pronounced [[Help:Pronunciation|[ˈjuːnoː]]]) was the protector and advisor of the state.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/luno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/luno.png",
         "coinGeckoId": "",
         "color": "#1c1c1c"
     },
@@ -855,7 +855,7 @@
         "symbol": "ATEN",
         "description": "ATEN is NETA.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/aten.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/aten.png",
         "coinGeckoId": "",
         "color": "#1e1d1d"
     },
@@ -866,7 +866,7 @@
         "symbol": "HERA",
         "description": "HERA is the goddess of marriage in Greek mythology.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/hera.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/hera.png",
         "coinGeckoId": "",
         "color": "#a9784c"
     },
@@ -877,7 +877,7 @@
         "symbol": "TAKUMI",
         "description": "Prop #16, Prop #20.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/takumi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/takumi.png",
         "coinGeckoId": ""
     },
     {
@@ -887,7 +887,7 @@
         "symbol": "bJUNO",
         "description": "BackBone Labs Liquid Staked JUNO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/bjuno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/bjuno.png",
         "coinGeckoId": "backbone-labs-staked-juno",
         "color": "#d17e7f"
     },
@@ -898,7 +898,7 @@
         "symbol": "AFA",
         "description": "Airdrop For All [AFA - New Name on Cosmos Ecosystem, A4A - Old Name on TurtleNetwork] is a token from turtleNetwork towards cosmos ecosystem.",
         "decimals": 0,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/afa.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/afa.png",
         "coinGeckoId": "",
         "color": "#f3cb0c"
     }

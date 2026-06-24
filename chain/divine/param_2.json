@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "divine-1",
     "chain_name": "Divine",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/divine/resource/chain_divine.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/divine/resource/chain_divine.png",
     "staking_asset_denom": "uDRC",
     "staking_asset_symbol": "DRC",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/divine/asset/drc.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/divine/asset/drc.png",
     "bech_account_prefix": "divine",
     "bech_validator_prefix": "divinevaloper",
     "origin_genesis_time": "2025-12-10T07:19:48Z",

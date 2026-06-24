@@ -6,7 +6,7 @@
         "symbol": "WXRP",
         "description": "Wrapped XRP",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm-testnet/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm-testnet/asset/unknown.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "RISE",
         "description": "XRiSE33 Protocol",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm-testnet/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm-testnet/asset/unknown.png",
         "coinGeckoId": "",
         "wallet_preload": true
     }

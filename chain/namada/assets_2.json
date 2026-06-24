@@ -6,7 +6,7 @@
         "symbol": "NAM",
         "description": "Namada",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/namada/asset/nam.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/namada/asset/nam.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>namada",

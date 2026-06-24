@@ -2,10 +2,10 @@
     "chain_id_cosmos": "empowerchain-1",
     "chain_name": "EmpowerChain",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/empower/resource/chain_empower.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/empower/resource/chain_empower.png",
     "staking_asset_denom": "umpwr",
     "staking_asset_symbol": "MPWR",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/empower/asset/mpwr.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/empower/asset/mpwr.png",
     "bech_account_prefix": "empower",
     "bech_validator_prefix": "empowervaloper",
     "origin_genesis_time": "",

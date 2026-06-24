@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "gitopia",
     "chain_name": "Gitopia",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gitopia/resource/chain_gitopia.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gitopia/resource/chain_gitopia.png",
     "staking_asset_denom" : "ulore",
     "staking_asset_symbol" : "LORE",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gitopia/asset/lore.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gitopia/asset/lore.png",
     "bech_account_prefix" : "gitopia",
     "bech_validator_prefix" : "gitopiavaloper",
     "origin_genesis_time" : "2023-05-17T17:05:17Z",

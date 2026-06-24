@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "varanasi-1",
     "chain_name": "Airchains Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/airchains-testnet/resource/chain_airchains-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/airchains-testnet/resource/chain_airchains-testnet.png",
     "staking_asset_denom" : "uamf",
     "staking_asset_symbol" : "AMF",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/airchains-testnet/asset/amf.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/airchains-testnet/asset/amf.png",
     "bech_account_prefix" : "air",
     "bech_validator_prefix" : "airvaloper",
     "api_name" : "airchains-testnet",

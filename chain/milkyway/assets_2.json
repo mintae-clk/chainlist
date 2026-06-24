@@ -6,7 +6,7 @@
         "symbol": "MILK",
         "description": "Milkyway Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/milkyway/asset/milk.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/milkyway/asset/milk.png",
         "coinGeckoId": "milkyway-2"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "TIA",
         "description": "Celestia Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
         "coinGeckoId": "celestia",
         "ibc_info" : {
             "path": "celestia>milkyway",
@@ -39,7 +39,7 @@
         "symbol": "milkTIA",
         "description": "MilkyWay's liquid staked TIA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/milktia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/milktia.png",
         "coinGeckoId": "milkyway-staked-tia",
         "ibc_info" : {
             "path": "osmosis>milkyway",
@@ -62,7 +62,7 @@
         "symbol": "TIA",
         "description": "Celestia Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
         "coinGeckoId": "celestia",
         "ibc_info" : {
             "path": "celestia>osmosis>milkyway",
@@ -85,7 +85,7 @@
         "symbol": "stTIA",
         "description": "Stride's liquid staked TIA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stutia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stutia.png",
         "coinGeckoId": "stride-staked-tia",
         "ibc_info" : {
             "path": "stride>osmosis>milkyway",
@@ -108,7 +108,7 @@
         "symbol": "dTIA",
         "description": "Drop staked TIA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/dtia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/dtia.png",
         "coinGeckoId": "drop-staked-tia",
         "ibc_info" : {
             "path": "neutron>osmosis>milkyway",
@@ -131,7 +131,7 @@
         "symbol": "milkBABY",
         "description": "MilkyWay's liquid staked BABY",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/milkyway/asset/milkbaby.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/milkyway/asset/milkbaby.png",
         "coinGeckoId": ""
     }
 ]

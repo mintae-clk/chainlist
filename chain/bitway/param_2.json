@@ -2,10 +2,10 @@
     "chain_id_cosmos": "bitway-1",
     "chain_name": "Bitway",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitway/resource/chain_bitway.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitway/resource/chain_bitway.png",
     "staking_asset_denom": "ubtw",
     "staking_asset_symbol": "BTW",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitway/asset/btw.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitway/asset/btw.png",
     "bech_account_prefix": "bc",
     "bech_validator_prefix": "bcvaloper",
     "origin_genesis_time": "2025-09-08T15:00:00Z",

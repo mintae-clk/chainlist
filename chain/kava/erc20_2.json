@@ -6,7 +6,7 @@
         "symbol": "WKAVA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_wkava.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_wkava.png",
         "coinGeckoId": "wrapped-kava",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT",
         "description": "The ERC20 supply of Cosmos USDT on Kava EVM. Go to app.kava.io/transfer to convert to IBC USDT.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "ATOM",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_atom.png",
         "coinGeckoId": "cosmos"
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "MultiUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_multiusdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_multiusdc.png",
         "coinGeckoId": ""
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "MultiUSDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_multiusdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_multiusdt.png",
         "coinGeckoId": ""
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "MultiDAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_multidai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_multidai.png",
         "coinGeckoId": ""
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "MultiWBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_multiwbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_multiwbtc.png",
         "coinGeckoId": ""
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "axlUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlusdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_axlusdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "axlWBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlwbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_axlwbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "axlUSDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlusdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_axlusdt.png",
         "coinGeckoId": "tether"
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "axlETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlweth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_axlweth.png",
         "coinGeckoId": "weth-wei"
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "axlFIL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlwfil.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_axlwfil.png",
         "coinGeckoId": "wfil-wei"
     },
     {
@@ -128,7 +128,7 @@
         "symbol": "axlLqdr",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlLqdr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_axlLqdr.png",
         "coinGeckoId": "liquiddriver"
     },
     {
@@ -148,7 +148,7 @@
         "symbol": "axlKNC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlknc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_axlknc.png",
         "coinGeckoId": "kyber-network-crystal"
     },
     {
@@ -158,7 +158,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -168,7 +168,7 @@
         "symbol": "ELK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/elk.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/elk.png",
         "coinGeckoId": "elk-finance"
     },
     {
@@ -178,7 +178,7 @@
         "symbol": "MARE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/mare.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/mare.png",
         "coinGeckoId": "mare-finance"
     },
     {
@@ -188,7 +188,7 @@
         "symbol": "ERN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/ern.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/ern.png",
         "coinGeckoId": "ethos-reserve-note"
     },
     {
@@ -198,7 +198,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axelar/asset/axl.png",
         "coinGeckoId": "axelar"
     },
     {
@@ -208,7 +208,7 @@
         "symbol": "BNB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/bnb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/bnb.png",
         "coinGeckoId": "wbnb-wei"
     },
     {
@@ -218,7 +218,7 @@
         "symbol": "BUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/busd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/busd.png",
         "coinGeckoId": "binance-usd"
     },
     {
@@ -288,7 +288,7 @@
         "symbol": "HARD",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/hard.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/hard.png",
         "coinGeckoId": "kava-lend"
     },
     {
@@ -298,7 +298,7 @@
         "symbol": "BLUSH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/blush.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/blush.png",
         "coinGeckoId": ""
     },
     {
@@ -308,7 +308,7 @@
         "symbol": "PRIN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/prin.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/prin.png",
         "coinGeckoId": ""
     }
 ]

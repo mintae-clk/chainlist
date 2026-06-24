@@ -6,7 +6,7 @@
         "symbol": "WTIA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/forma/asset/wtia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/forma/asset/wtia.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "ZWFT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/forma/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/forma/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "bbr",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/forma/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/forma/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "chef",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/forma/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/forma/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "CODE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/forma/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/forma/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "NTN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/forma/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/forma/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "QTM",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/forma/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/forma/asset/unknown.png",
         "coinGeckoId": ""
     }
 ]

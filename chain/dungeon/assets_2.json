@@ -6,7 +6,7 @@
         "symbol": "DGN",
         "description": "Dungeon native staking coin.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dungeon/asset/dgn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dungeon/asset/dgn.png",
         "coinGeckoId": "dragon-coin-2"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>dungeon",
@@ -39,7 +39,7 @@
         "symbol": "ATOM",
         "description": "Cosmos Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>dungeon",
@@ -62,7 +62,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>dungeon",
@@ -85,7 +85,7 @@
         "symbol": "ATONE",
         "description": "The native staking and governance token of AtomOne",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/atomone/asset/atone.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/atomone/asset/atone.png",
         "coinGeckoId": "atomone",
         "ibc_info": {
             "path": "atomone>dungeon",
@@ -108,7 +108,7 @@
         "symbol": "PHOTON",
         "description": "Sole fee token used to pay all transaction fees on the AtomOne network and is minted by burning ATONE tokens.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/atomone/asset/photon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/atomone/asset/photon.png",
         "coinGeckoId": "photon-2",
         "ibc_info": {
             "path": "atomone>dungeon",

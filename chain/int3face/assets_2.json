@@ -6,7 +6,7 @@
         "symbol": "INT3",
         "description": "Int3face blockchain native token.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/int3face/asset/int3.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/int3face/asset/int3.png",
         "coinGeckoId": ""
     },
     {

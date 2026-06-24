@@ -6,7 +6,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "cmETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/cmeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/cmeth.png",
         "coinGeckoId": "mantle-restaked-eth"
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "mETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/meth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/meth.png",
         "coinGeckoId": "mantle-staked-ether"
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "USDe",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/usde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/usde.png",
         "coinGeckoId": "mantle-bridged-usde-mantle"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "COOK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/cook.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/cook.png",
         "coinGeckoId": ""
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "MOE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/moe.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/moe.png",
         "coinGeckoId": "moe-3"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "USDY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/usdy.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/usdy.png",
         "coinGeckoId": "ondo-us-dollar-yield"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "WMNT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/wmnt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/wmnt.png",
         "coinGeckoId": "wrapped-mantle",
         "wallet_preload": true
     },
@@ -109,7 +109,7 @@
         "symbol": "sUSDe",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/susde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/susde.png",
         "coinGeckoId": "mantle-bridged-susde-mantle"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "AUSD",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/ausd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/ausd.png",
         "coinGeckoId": "agora-dollar"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "INTX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/intx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/intx.png",
         "coinGeckoId": ""
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "ENA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/ena.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/ena.png",
         "coinGeckoId": "ethena"
     },
     {
@@ -149,7 +149,7 @@
         "symbol": "CLEO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mantle/asset/cleo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mantle/asset/cleo.png",
         "coinGeckoId": ""
     }
 ]

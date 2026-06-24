@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "bitsong-2b",
     "chain_name": "Bitsong",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitsong/resource/chain_bitsong.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitsong/resource/chain_bitsong.png",
     "staking_asset_denom" : "ubtsg",
     "staking_asset_symbol" : "BTSG",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitsong/asset/btsg.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitsong/asset/btsg.png",
     "bech_account_prefix" : "bitsong",
     "bech_validator_prefix" : "bitsongvaloper",
     "origin_genesis_time" : "2021-03-26T20:00:00Z",

@@ -6,7 +6,7 @@
         "symbol": "GNO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gnosis/asset/gno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gnosis/asset/gno.png",
         "coinGeckoId": "gnosis",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "USDC.e",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin-ethereum-bridged"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "wstETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gnosis/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gnosis/asset/wsteth.png",
         "coinGeckoId": "wrapped-steth"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wbtc"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "LINK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/link.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/link.png",
         "coinGeckoId": "chainlink"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "UNI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/uni.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/uni.png",
         "coinGeckoId": "uni"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "1INCH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gnosis/asset/1inch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gnosis/asset/1inch.png",
         "coinGeckoId": "1inch"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "sDAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gnosis/asset/sdai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gnosis/asset/sdai.png",
         "coinGeckoId": "savings-xdai"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "COW",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gnosis/asset/cow.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gnosis/asset/cow.png",
         "coinGeckoId": "cow-protocol"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "BZZ",
         "description": "",
         "decimals": 16,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gnosis/asset/bzz.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gnosis/asset/bzz.png",
         "coinGeckoId": "swarm-bzz"
     }
 ]

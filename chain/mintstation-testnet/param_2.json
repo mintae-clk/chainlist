@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "mintstation-1",
     "chain_name": "Mintstation",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mintstation-testnet/resource/chain_mintstation.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mintstation-testnet/resource/chain_mintstation.png",
     "staking_asset_denom" : "umint",
     "staking_asset_symbol" : "MINT",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mintstation-testnet/asset/mint.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mintstation-testnet/asset/mint.png",
     "bech_account_prefix" : "mint",
     "bech_validator_prefix" : "mintvaloper",
     "api_name" : "mintstation-testnet",

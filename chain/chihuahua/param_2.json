@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "chihuahua-1",
     "chain_name": "Chihuahua",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/resource/chain_chihuahua.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/resource/chain_chihuahua.png",
     "staking_asset_denom" : "uhuahua",
     "staking_asset_symbol" : "HUAHUA",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/huahua.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/huahua.png",
     "bech_account_prefix" : "chihuahua",
     "bech_validator_prefix" : "chihuahuavaloper",
     "origin_genesis_time" : "2021-12-14T12:14:12Z",

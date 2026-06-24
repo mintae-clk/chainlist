@@ -6,7 +6,7 @@
         "symbol": "MANTA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/manta.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/manta.png",
         "coinGeckoId": "manta-network",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT",
         "description": "Tether",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "TIA.n",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/tia.png",
         "coinGeckoId": ""
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "weETH",
         "description": "Wrapped eETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/weeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/weeth.png",
         "coinGeckoId": "wrapped-eeth"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "wstETH",
         "description": "Wrapped liquid staked Ether 2.0",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/wsteth.png",
         "coinGeckoId": "wrapped-steth"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "iZi",
         "description": "iZUMi Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/izi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/izi.png",
         "coinGeckoId": "izumi-finance"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "QUICK",
         "description": "QuickSwap",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/quick.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/quick.png",
         "coinGeckoId": "quickswap"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "USDe",
         "description": "USDe",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/usde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/usde.png",
         "coinGeckoId": "ethena-usde"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "DAI",
         "description": "Dai Stablecoin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/dai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/dai.png",
         "coinGeckoId": "dai"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "rETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/reth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/reth.png",
         "coinGeckoId": "rocket-pool-eth"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "WETH",
         "description": "WETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/manta-pacific/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/manta-pacific/asset/weth.png",
         "coinGeckoId": "weth"
     }
 ]

@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "infra",
     "chain_name": "Infra",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/infra/resource/chain_infra.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/infra/resource/chain_infra.png",
     "staking_asset_denom": "ubight",
     "staking_asset_symbol": "BIGHT",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/infra/asset/bight.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/infra/asset/bight.png",
     "bech_account_prefix": "infra",
     "bech_validator_prefix": "infravaloper",
     "origin_genesis_time": "2026-05-28T11:31:04.971268859Z",

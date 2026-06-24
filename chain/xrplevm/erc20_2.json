@@ -6,7 +6,7 @@
         "symbol": "WXRP",
         "description": "Wrapped XRP",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm/asset/wxrp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm/asset/wxrp.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "PEPE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm/asset/pepe.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm/asset/pepe.png",
         "coinGeckoId": "pepe"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm/asset/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "WETH",
         "description": "WETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm/asset/weth.png",
         "coinGeckoId": "weth"
     }
 ]

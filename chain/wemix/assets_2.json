@@ -6,7 +6,7 @@
         "symbol": "WEMIX",
         "description": "WEMIX Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/wemix/asset/wemix.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wemix/asset/wemix.png",
         "coinGeckoId": "wemix-token"
     }
 ]

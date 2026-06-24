@@ -2,7 +2,7 @@
     "chain_id_cosmos": "helichain",
     "chain_name": "HeliChain",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/helichain/resource/chain_helichain.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/helichain/resource/chain_helichain.png",
     "staking_asset_denom": "uheli",
     "staking_asset_symbol": "HELI",
     "lcd_endpoint": []

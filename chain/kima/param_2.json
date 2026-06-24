@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "kima_mainnet",
     "chain_name": "Kima Network",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kima/resource/chain_kima.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kima/resource/chain_kima.png",
     "staking_asset_denom": "uKIMA",
     "staking_asset_symbol": "KIMA",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kima/asset/kima.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kima/asset/kima.png",
     "bech_account_prefix": "kima",
     "bech_validator_prefix": "kimavaloper",
     "origin_genesis_time": "2024-09-25T19:51:09Z",

@@ -6,7 +6,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/huahua.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/huahua.png",
         "coinGeckoId": "chihuahua-token",
         "color": "#F4B330"
     },
@@ -17,7 +17,7 @@
         "symbol": "MASTER",
         "description": "Master your doggos.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/master.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/master.png",
         "coinGeckoId": ""
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "BEER",
         "description": "Give this good boy a cold one",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/beer.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/beer.png",
         "coinGeckoId": ""
     },    
     {
@@ -37,7 +37,7 @@
         "symbol": "WOOF",
         "description": "The first tokenfactory.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/woof.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/woof.png",
         "coinGeckoId": ""
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "BADDOG",
         "description": "has a hat.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/baddog.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/baddog.png",
         "coinGeckoId": ""
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "TACOS",
         "description": "Want a tacos?",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/tacos.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/tacos.png",
         "coinGeckoId": ""
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "WEED",
         "description": "420 token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/weed.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/weed.png",
         "coinGeckoId": ""
     },
     {
@@ -77,7 +77,7 @@
         "symbol": "BDOG",
         "description": "The Bulldog token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/bdog.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/bdog.png",
         "coinGeckoId": ""
     },
     {
@@ -87,7 +87,7 @@
         "symbol": "CORSO",
         "description": "The can corso token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/corso.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/corso.png",
         "coinGeckoId": ""
     },
     {
@@ -97,7 +97,7 @@
         "symbol": "SPITZ",
         "description": "The Spitz token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/spitz.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/spitz.png",
         "coinGeckoId": ""
     },
     {
@@ -107,7 +107,7 @@
         "symbol": "LVN",
         "description": "Levana Governance Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/levana.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/levana.png",
         "coinGeckoId": "levana-protocol"
     },
     {
@@ -117,7 +117,7 @@
         "symbol": "ashHUAHUA",
         "description": "HUAHUA burn derivative",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/ashHUAHUA.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/ashHUAHUA.png",
         "coinGeckoId": ""
     },
     {
@@ -127,7 +127,7 @@
         "symbol": "CHIHUAHUA",
         "description": "Chihuahua coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/chihuahua_chihuahua.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/chihuahua_chihuahua.png",
         "coinGeckoId": ""
     },
     {
@@ -137,7 +137,7 @@
         "symbol": "WLF",
         "description": "WLF coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/wirelibertyfence.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/wirelibertyfence.png",
         "coinGeckoId": ""
     }
 ]

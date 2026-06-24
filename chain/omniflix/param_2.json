@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "omniflixhub-1",
     "chain_name": "Omniflix",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/omniflix/resource/chain_omniflix.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/omniflix/resource/chain_omniflix.png",
     "staking_asset_denom" : "uflix",
     "staking_asset_symbol" : "FLIX",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/omniflix/asset/flix.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/omniflix/asset/flix.png",
     "bech_account_prefix" : "omniflix",
     "bech_validator_prefix" : "omniflixvaloper",
     "origin_genesis_time" : "2022-02-22T07:00:00Z",

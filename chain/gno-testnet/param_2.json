@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "test11",
     "chain_name": "GNO Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/resource/chain_gno-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/resource/chain_gno-testnet.png",
     "staking_asset_denom" : "ugnot",
     "staking_asset_symbol" : "GNOT",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/gnot.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/gnot.png",
     "bech_account_prefix" : "g",
     "bech_validator_prefix" : "gvaloper",
     "origin_genesis_time" : "2025-10-14T08:00:00Z",

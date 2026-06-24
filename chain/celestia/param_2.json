@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "celestia",
     "chain_name": "Celestia",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/resource/chain_celestia.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/resource/chain_celestia.png",
     "staking_asset_denom" : "utia",
     "staking_asset_symbol" : "TIA",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
     "bech_account_prefix" : "celestia",
     "bech_validator_prefix" : "celestiavaloper",
     "origin_genesis_time" : "2023-10-31T14:00:00Z",

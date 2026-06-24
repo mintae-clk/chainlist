@@ -6,7 +6,7 @@
         "symbol": "TIA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
         "coinGeckoId": "celestia"
     }
 ]

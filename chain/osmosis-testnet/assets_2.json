@@ -6,7 +6,7 @@
         "symbol": "OSMO",
         "description": "Osmosis-testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis-testnet/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis-testnet/asset/osmo.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "TFNSA",
         "description": "Finschia Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/finschia-testnet/asset/fnsa.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/finschia-testnet/asset/fnsa.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "finschia-testnet>osmosis",
@@ -39,7 +39,7 @@
         "symbol": "USDY",
         "description": "Noble Testnet Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/usdy.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble-testnet/asset/usdy.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "noble-testnet>osmosis-testnet",
@@ -62,7 +62,7 @@
         "symbol": "USDC",
         "description": "Noble Testnet Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble-testnet/asset/usdc.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "noble-testnet>osmosis-testnet",
@@ -85,7 +85,7 @@
         "symbol": "USDN",
         "description": "Noble Testnet Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/usdn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble-testnet/asset/usdn.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "noble-testnet>osmosis-testnet",

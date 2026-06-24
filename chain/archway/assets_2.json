@@ -6,7 +6,7 @@
         "symbol": "ARCH",
         "description": "Archway Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/arch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/arch.png",
         "coinGeckoId": "archway",
         "color": "#FF8F69"
     },
@@ -17,7 +17,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axelar/asset/axl.png",
         "coinGeckoId": "axelar",
         "ibc_info" : {
             "path": "axelar>archway",
@@ -40,7 +40,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>archway",
@@ -63,7 +63,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>archway",
@@ -86,7 +86,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>archway",
@@ -109,7 +109,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>archway",
@@ -132,7 +132,7 @@
         "symbol": "CULT",
         "description": "CULT - Less Brainwashing, More Utility",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/cult.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/cult.png",
         "ibc_info" : {
             "path": "osmosis>archway",
             "client" : {
@@ -154,7 +154,7 @@
         "symbol": "TIA",
         "description": "Celestia Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
         "coinGeckoId": "celestia",
         "ibc_info" : {
             "path": "celestia>archway",
@@ -177,7 +177,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/inj.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/inj.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info" : {
             "path": "injective>archway",
@@ -200,7 +200,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/akash/asset/akt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/akash/asset/akt.png",
         "coinGeckoId": "akash-network",
         "ibc_info" : {
             "path": "akash>archway",
@@ -223,7 +223,7 @@
         "symbol": "WBTC",
         "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
         "ibc_info" : {
             "path": "osmosis>archway",
@@ -246,7 +246,7 @@
         "symbol": "WETH.axl",
         "description": "Wrapped Ether on Axelar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "axlweth",
         "ibc_info" : {
             "path": "ethereum>axelar>archway",

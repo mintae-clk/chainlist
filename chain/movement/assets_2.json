@@ -6,7 +6,7 @@
         "symbol": "MOVE",
         "description": "Movement Coin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/movement/asset/move.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/movement/asset/move.png",
         "coinGeckoId": "movement"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "USDC.e",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "movement-bridged-usdc-movement",
         "bridge_info" : {
             "path": ""
@@ -29,7 +29,7 @@
         "symbol": "USDT.e",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "movement-bridged-usdt-movement",
         "bridge_info" : {
             "path": ""

@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "gravity-bridge-3",
     "chain_name": "Gravity Bridge",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-bridge/resource/chain_gravity-bridge.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-bridge/resource/chain_gravity-bridge.png",
     "staking_asset_denom": "ugraviton",
     "staking_asset_symbol": "GRAV",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-bridge/asset/grav.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-bridge/asset/grav.png",
     "bech_account_prefix": "gravity",
     "bech_validator_prefix": "gravityvaloper",
     "origin_genesis_time": "2021-12-10T14:45:49Z",

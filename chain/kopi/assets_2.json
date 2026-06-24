@@ -6,7 +6,7 @@
         "symbol": "XKP",
         "description": "The native token of kopi.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kopi/asset/xkp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kopi/asset/xkp.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "kUSD",
         "description": "A Stablecoin native to the Kopi blockchain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kopi/asset/kusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kopi/asset/kusd.png",
         "coinGeckoId": ""
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "cUSDC",
         "description": "A MM deposit receipt of the Stablecoin USDC from noble Chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kopi/asset/ckusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kopi/asset/ckusd.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "cUSDT.inj",
         "description": "A MM deposit receipt of the Stablecoin USDT from Injective Chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kopi/asset/cusdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kopi/asset/cusdt.png",
         "coinGeckoId": ""
     },
     {
@@ -46,7 +46,7 @@
         "symbol": "asUSDT.inj",
         "description": "arbitrage receipt token of cUSDT.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kopi/asset/asusdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kopi/asset/asusdt.png",
         "coinGeckoId": ""
     },
     {
@@ -56,7 +56,7 @@
         "symbol": "asUSDC",
         "description": "arbitrage receipt token of cUSDC.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kopi/asset/asusdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kopi/asset/asusdc.png",
         "coinGeckoId": ""
     },
     {
@@ -66,7 +66,7 @@
         "symbol": "USDC",
         "description": "USDC from Noble Chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>kopi",
@@ -89,7 +89,7 @@
         "symbol": "USDT.inj",
         "description": "USDT from injective Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "ibc_info": {
             "path": "injective>kopi",
@@ -112,7 +112,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/inj.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/inj.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info": {
             "path": "injective>kopi",
@@ -135,7 +135,7 @@
         "symbol": "LUNA",
         "description": "The native staking token of Terra Phoenix.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/luna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/luna.png",
         "coinGeckoId": "terra-luna-2",
         "color": "#1E75EE",
         "ibc_info": {
@@ -159,7 +159,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>kopi",
@@ -182,7 +182,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>kopi",

@@ -6,7 +6,7 @@
         "symbol": "DHP",
         "description": "dHealth Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dhealth/asset/dhp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dhealth/asset/dhp.png",
         "coinGeckoId": "dhealth"
     }
 ]

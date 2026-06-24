@@ -6,7 +6,7 @@
         "symbol": "NTRN",
         "description": "Neutron Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron-testnet/asset/ntrn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron-testnet/asset/ntrn.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "dATOM",
         "description": "Drop staked ATOM(Neutron-testnet)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron-testnet/asset/datom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron-testnet/asset/datom.png",
         "coinGeckoId": ""
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "dINIT",
         "description": "Drop staked INIT(Neutron-testnet)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron-testnet/asset/dinit.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron-testnet/asset/dinit.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos-testnet/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos-testnet/asset/atom.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "cosmos-testnet>neutron-testnet",
@@ -59,7 +59,7 @@
         "symbol": "dTIA",
         "description": "Drop Staked TIA(Neutron-testnet)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron-testnet/asset/dtia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron-testnet/asset/dtia.png",
         "coinGeckoId": ""
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "TIA",
         "description": "Celestia Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia-testnet/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia-testnet/asset/tia.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "celestia-testnet>neutron-testnet",
@@ -92,7 +92,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport in Testnet",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/astro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/astro.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "terra-testnet>neutron-testnet",
@@ -115,7 +115,7 @@
         "symbol": "WETH.eth.axl",
         "description": "Wrapped Ether on Axelar (Testnet)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "ethereum-testnet>axelar-testnet>neutron-testnet",
@@ -138,7 +138,7 @@
         "symbol": "wstETH",
         "description": "wstETH on Neutron Testnet.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wsteth.png",
         "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum-testnet>neutron-testnet",
@@ -155,7 +155,7 @@
         "symbol": "USDC",
         "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble-testnet/asset/usdc.png",
         "coinGeckoId": "",
         "color": "#2775CA",
         "ibc_info": {
@@ -179,7 +179,7 @@
         "symbol": "USDN",
         "description": "USDN is a yielding stablecoin collateral-backed by short-duration U.S. Treasury Bills.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/usdn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble-testnet/asset/usdn.png",
         "coinGeckoId": "",
         "color": "#14C784",
         "ibc_info": {

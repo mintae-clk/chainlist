@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "coreum-mainnet-1",
     "chain_name": "TX",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/resource/chain_coreum.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/resource/chain_coreum.png",
     "staking_asset_denom" : "ucore",
     "staking_asset_symbol" : "TX",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/tx.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/tx.png",
     "bech_account_prefix" : "core",
     "bech_validator_prefix" : "corevaloper",
     "origin_genesis_time" : "2023-03-12T00:00:00Z",

@@ -6,7 +6,7 @@
         "symbol": "CNTO",
         "description": "Ciento Exchange Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/acrechain/asset/cnto.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/acrechain/asset/cnto.png"
     },
     {
         "type": "erc20",

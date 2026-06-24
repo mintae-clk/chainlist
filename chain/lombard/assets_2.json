@@ -6,7 +6,7 @@
         "symbol": "STAKE",
         "description": "Lombard Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard/asset/stake.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard/asset/stake.png",
         "coinGeckoId": "",
         "color": ""
     },
@@ -17,7 +17,7 @@
         "symbol": "LOM",
         "description": "The native token of Lombard.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard/asset/lom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard/asset/lom.png",
         "coinGeckoId": "",
         "color": ""
     },
@@ -28,7 +28,7 @@
         "symbol": "LBTC",
         "description": "Lombard Staked BTC.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard/asset/lbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard/asset/lbtc.png",
         "coinGeckoId": "lombard-staked-btc",
         "color": ""
     }

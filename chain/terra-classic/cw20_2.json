@@ -6,7 +6,7 @@
         "symbol": "JURIS",
         "description": "Juris Protocol is a DeFi platform on Terra Classic that offers secure lending and borrowing services.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic/asset/juris.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic/asset/juris.png",
         "coinGeckoId": "juris-protocol"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "ALPHA",
         "description": "LUNC UNIVERSE is set to become a growing ecosystem within the Luna Classic blockchain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic/asset/alpha.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic/asset/alpha.png",
         "coinGeckoId": ""
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "GRDX",
         "description": "GRDX is a decentralized CW-20 token on Luna Classic blockchain build by Garuda Universe, the native token of Garuda DeFi Protocols and is present on many blockchain. With GRDX Token, users can take part in staking protocol at Garuda DeFi for create staking contract, providing pool rewards and staking on various tokens or NFTs pool by permissionless.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/refs/heads/main/chain/terra-classic/asset/GARUDAX.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/refs/heads/main/chain/terra-classic/asset/GARUDAX.png",
         "coinGeckoId": "garudax"
     },
     {
@@ -46,7 +46,7 @@
         "symbol": "SAIYAN",
         "description": "Levelling up LUNC with saiyan mode. Buyback and burn mechanism.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/refs/heads/main/chain/terra-classic/asset/SAIYAN.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/refs/heads/main/chain/terra-classic/asset/SAIYAN.png",
         "coinGeckoId": ""
     },
     {
@@ -56,7 +56,7 @@
         "symbol": "COFFEE",
         "description": "Bridges real-world coffee shops with blockchain utility.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/refs/heads/main/chain/terra-classic/asset/Coffee.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/refs/heads/main/chain/terra-classic/asset/Coffee.png",
         "coinGeckoId": ""
     },
     {
@@ -66,7 +66,7 @@
         "symbol": "GDEX",
         "description": "GDEX is an Governance and Investment token on Garuda DeFi, designed to ensures the holders are directly involved in the Garuda Decentralized Exchange (DEX) platform’s development and future.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/refs/heads/main/chain/terra-classic/asset/GDEX.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/refs/heads/main/chain/terra-classic/asset/GDEX.png",
         "coinGeckoId": ""
     },
     {
@@ -96,7 +96,7 @@
         "symbol": "isLUNC",
         "description": "Isotropy Burned LUNC (isLUNC) is the BurnToEarn allocation token of Isotropy Protocol on Terra Classic. It is minted as LUNC is burned and allocated to the burning addresses.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic/asset/islunc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic/asset/islunc.png",
         "coinGeckoId": ""
     }
 ]

@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "initiation-2",
     "chain_name": "Initia Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/initia-testnet/resource/chain_initia-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/initia-testnet/resource/chain_initia-testnet.png",
     "staking_asset_denom" : "uinit",
     "staking_asset_symbol" : "INIT",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/initia-testnet/asset/init.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/initia-testnet/asset/init.png",
     "bech_account_prefix" : "init",
     "bech_validator_prefix" : "initvaloper",
     "origin_genesis_time" : "2024-09-20T04:11:43Z",

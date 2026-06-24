@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "cataclysm-1",
     "chain_name": "Nibiru",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nibiru/resource/chain_nibiru.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nibiru/resource/chain_nibiru.png",
     "staking_asset_denom": "unibi",
     "staking_asset_symbol" : "NIBI",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nibiru/asset/nibi.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nibiru/asset/nibi.png",
     "bech_account_prefix" : "nibi",
     "bech_validator_prefix" : "nibivaloper",
     "origin_genesis_time" : "2023-11-08T20:09:48Z",

@@ -6,7 +6,7 @@
         "symbol": "ELYS",
         "description": "Elys Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/elys/asset/elys.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/elys/asset/elys.png",
         "coinGeckoId": "elys-network"
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "ATOM",
         "description": "The native staking and governance token of the Cosmos Hub.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "color": "#272d45",
         "coinGeckoId": "cosmos",
         "ibc_info": {
@@ -60,7 +60,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info": {
             "path": "noble>elys",
@@ -83,7 +83,7 @@
         "symbol": "AXL",
         "description": "The native token of Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axelar/asset/axl.png",
         "coinGeckoId": "axelar",
         "ibc_info": {
             "path": "axelar>elys",
@@ -106,7 +106,7 @@
         "symbol": "AKT",
         "description": "Akash Token (AKT) is the Akash Network's native utility token, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/akash/asset/akt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/akash/asset/akt.png",
         "color": "#bc342c",
         "coinGeckoId": "akash-network",
         "ibc_info": {
@@ -130,7 +130,7 @@
         "symbol": "TIA",
         "description": "The native token of the Celestia blockchain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
         "color": "#7c2cfb",
         "coinGeckoId": "celestia",
         "ibc_info": {
@@ -154,7 +154,7 @@
         "symbol": "VERONA",
         "description": "Verona is the intelligence layer for AI.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xion/asset/verona.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xion/asset/verona.png",
         "coinGeckoId": "xion-2",
         "ibc_info": {
             "path": "xion>elys",
@@ -177,7 +177,7 @@
         "symbol": "SAGA",
         "description": "The native staking and governance token of Saga.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/saga/asset/saga.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/saga/asset/saga.png",
         "color": "#FFFFFF",
         "coinGeckoId": "saga-2",
         "ibc_info": {
@@ -201,7 +201,7 @@
         "symbol": "XRP",
         "description": "XRPL EVM Sidechain Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xrplevm/asset/xrp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xrplevm/asset/xrp.png",
         "coinGeckoId": "ripple",
         "ibc_info": {
             "path": "xrplevm>elys",
@@ -224,7 +224,7 @@
         "symbol": "ONDO",
         "description": "Ondo via Eureka",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ondo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/ondo.png",
         "coinGeckoId": "ondo-finance",
         "ibc_info": {
             "path": "cosmos>elys",
@@ -247,7 +247,7 @@
         "symbol": "WETH",
         "description": "WETH via Eureka",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth",
         "ibc_info": {
             "path": "cosmos>elys",

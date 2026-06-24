@@ -6,7 +6,7 @@
     "symbol": "USDC",
     "description": "USD Coin",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
     "coinGeckoId": ""
   },
   {
@@ -16,7 +16,7 @@
     "symbol": "WKAVA",
     "description": "Wrapped Kava",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_wkava.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava_evm_wkava.png",
     "coinGeckoId": ""
   }
 ]

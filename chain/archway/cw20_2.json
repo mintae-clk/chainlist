@@ -6,7 +6,7 @@
         "symbol": "AXV",
         "description": "Astrovault AXV",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/axv.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/axv.png",
         "coinGeckoId": "astrovault",
         "color": "#141434",
         "wallet_preload": true
@@ -18,7 +18,7 @@
         "symbol": "sARCH",
         "description": "Liquid Finance Staked ARCH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/sarch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/sarch.png",
         "coinGeckoId": "liquid-finance-arch",
         "wallet_preload": true
     },
@@ -29,7 +29,7 @@
         "symbol": "xARCH",
         "description": "Astrovault xARCH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xarch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xarch.png",
         "coinGeckoId": "astrovault-xarch"
     },
     {
@@ -39,7 +39,7 @@
         "symbol": "xATOM",
         "description": "Astrovault xATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xatom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xatom.png",
         "coinGeckoId": "astrovault-xatom"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "xJKL",
         "description": "Astrovault xJKL",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xjkl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xjkl.png",
         "coinGeckoId": "astrovault-xjkl"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "xDEC",
         "description": "Astrovault xDEC",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xdec.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xdec.png",
         "coinGeckoId": "xdec-astrovault"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "xBCNA",
         "description": "Astrovault xBCNA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xbcna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xbcna.png",
         "coinGeckoId": "xbcna_astrovault"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "xFLIX",
         "description": "Astrovault xFLIX",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xflix.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xflix.png",
         "coinGeckoId": "xflix_astrovault"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "xCMDX",
         "description": "Astrovault xCMDX",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xcmdx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xcmdx.png",
         "coinGeckoId": "xcmdx_astrovault"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "xGRAV",
         "description": "Astrovault xGRAV",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xgrav.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xgrav.png",
         "coinGeckoId": "xgrav_astrovault"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "xBLD",
         "description": "Astrovault xBLD",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xbld.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xbld.png",
         "coinGeckoId": "xbld_astrovault"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "bnUSD",
         "description": "Balanced Dollar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/bnusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/bnusd.png",
         "coinGeckoId": "balanced-dollars"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "xQWOYN",
         "description": "Astrovault xQWOYN",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xqwoyn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xqwoyn.png",
         "coinGeckoId": "xqwoyn_astrovault"
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "xAKT",
         "description": "Astrovault xAKT",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xakt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xakt.png",
         "coinGeckoId": "xakt_astrovault"
     },
     {
@@ -149,7 +149,7 @@
         "symbol": "xVDL",
         "description": "Astrovault xVDL",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xvdl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xvdl.png",
         "coinGeckoId": ""
     },
     {
@@ -159,7 +159,7 @@
         "symbol": "xCUDOS",
         "description": "Astrovault xCUDOS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xcudos.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xcudos.png",
         "coinGeckoId": ""
     },
     {
@@ -169,7 +169,7 @@
         "symbol": "xMPWR",
         "description": "Astrovault xMPWR",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xmpwr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xmpwr.png",
         "coinGeckoId": ""
     },
     {
@@ -179,7 +179,7 @@
         "symbol": "xPLQ",
         "description": "Astrovault xPLQ",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/xplq.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/xplq.png",
         "coinGeckoId": "xplq_astrovault"
     },
     {
@@ -189,7 +189,7 @@
         "symbol": "ampARCH",
         "description": "Eris Amplified ARCH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/amparch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/amparch.png",
         "coinGeckoId": ""
     },
     {
@@ -199,7 +199,7 @@
         "symbol": "bARCH",
         "description": "BackBoneLabs Liquid Staked Arch",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/barch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/barch.png",
         "coinGeckoId": ""
     },
     {
@@ -209,7 +209,7 @@
         "symbol": "TOKN",
         "description": "Architects Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/asset/tokn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/archway/asset/tokn.png",
         "coinGeckoId": ""
     }
 ]

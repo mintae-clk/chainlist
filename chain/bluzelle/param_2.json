@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "bluzelle-9",
     "chain_name": "Bluzelle",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bluzelle/resource/chain_bluzelle.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bluzelle/resource/chain_bluzelle.png",
     "staking_asset_denom" : "ubnt",
     "staking_asset_symbol" : "BLZ",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bluzelle/asset/blz.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bluzelle/asset/blz.png",
     "bech_account_prefix" : "bluzelle",
     "bech_validator_prefix" : "bluzellevaloper",
     "origin_genesis_time" : "2021-12-08T16:49:25Z",

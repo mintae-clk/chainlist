@@ -2,7 +2,7 @@
     "chain_id_cosmos": "acre_9052-1",
     "chain_name": "Acrechain",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/acrechain/resource/chain_acrechain.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/acrechain/resource/chain_acrechain.png",
     "staking_asset_denom": "aacre",
     "staking_asset_symbol": "ACRE",
     "lcd_endpoint": []

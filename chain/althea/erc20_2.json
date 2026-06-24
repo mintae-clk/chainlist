@@ -6,7 +6,7 @@
         "symbol": "USDC.grv",
         "description": "USDC on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "USDT.grv",
         "description": "USDT on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether"
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "USDS.grv",
         "description": "USDS on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usds.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usds.png",
         "coinGeckoId": "usds"
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "sUSDS.grv",
         "description": "sUSDS on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/susds.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/susds.png",
         "coinGeckoId": "susds"
     },
     {
@@ -46,7 +46,7 @@
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-bridge/asset/grav.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-bridge/asset/grav.png",
         "coinGeckoId": "graviton"
     },
     {
@@ -56,7 +56,7 @@
         "symbol": "WETH.grv",
         "description": "Wrapped Ethereum on Ethereum bridged to Althea via Gravity Bridge",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     }
 

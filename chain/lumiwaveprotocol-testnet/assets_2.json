@@ -6,7 +6,7 @@
     "symbol": "LWP",
     "description": "The native staking token of LumiWave Protocol Testnet",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lumiwaveprotocol-testnet/asset/lumiwave.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lumiwaveprotocol-testnet/asset/lumiwave.png",
     "coinGeckoId": "",
     "default": true
   }

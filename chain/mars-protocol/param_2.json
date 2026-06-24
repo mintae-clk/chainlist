@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "mars-1",
     "chain_name": "Mars Protocol",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mars-protocol/resource/chain_mars-protocol.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mars-protocol/resource/chain_mars-protocol.png",
     "staking_asset_denom" : "umars",
     "staking_asset_symbol" : "MARS",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mars-protocol/asset/mars.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mars-protocol/asset/mars.png",
     "bech_account_prefix" : "mars",
     "bech_validator_prefix" : "marsvaloper",
     "origin_genesis_time" : "2023-01-31T15:00:00Z",

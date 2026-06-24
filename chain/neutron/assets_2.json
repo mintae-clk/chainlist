@@ -6,7 +6,7 @@
         "symbol": "NTRN",
         "description": "Neutron Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/ntrn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/ntrn.png",
         "coinGeckoId": "neutron-3",
         "color": "#2DCB92"
     },
@@ -17,7 +17,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>neutron",
@@ -40,7 +40,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axelar/asset/axl.png",
         "coinGeckoId": "axelar",
         "ibc_info" : {
             "path": "axelar>neutron",
@@ -63,7 +63,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>neutron",
@@ -86,7 +86,7 @@
         "symbol": "USDT.eth.axl",
         "description": "Tether's USD stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "axelar-usdt",
         "ibc_info" : {
             "path": "ethereum>axelar>neutron",
@@ -109,7 +109,7 @@
         "symbol": "WETH.eth.axl",
         "description": "Wrapped Ether on Axelar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "axlweth",
         "ibc_info" : {
             "path": "ethereum>axelar>neutron",
@@ -132,7 +132,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/astro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/astro.png",
         "coinGeckoId": "astroport-fi",
         "ibc_info" : {
             "path": "terra>neutron",
@@ -155,7 +155,7 @@
         "symbol": "MARS.old",
         "description": "Mars Protocol token (pre-migration)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mars-protocol/asset/mars-ibc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mars-protocol/asset/mars-ibc.png",
         "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
         "ibc_info" : {
             "path": "mars-protocol>neutron",
@@ -178,7 +178,7 @@
         "symbol": "TIA",
         "description": "Celestia Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
         "coinGeckoId": "celestia",
         "ibc_info" : {
             "path": "celestia>neutron",
@@ -201,7 +201,7 @@
         "symbol": "ELYS",
         "description": "The native token of Elys Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/elys/asset/elys.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/elys/asset/elys.png",
         "coinGeckoId": "elys-network",
         "ibc_info": {
             "path": "elys>neutron",
@@ -224,7 +224,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>neutron",
@@ -247,7 +247,7 @@
         "symbol": "BADKID",
         "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/badkid.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/badkid.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "osmosis>neutron",
@@ -270,7 +270,7 @@
         "symbol": "WOSMO",
         "description": "The first native memecoin on Osmosis. Crafted by the deftest of hands in the lab of lunacy. It's scientifically anarchic, professionally foolish, and your ticket to the madhouse.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/wosmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/wosmo.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "osmosis>neutron",
@@ -293,7 +293,7 @@
         "symbol": "STRD",
         "description": "Stride Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/strd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/strd.png",
         "coinGeckoId": "stride",
         "ibc_info" : {
             "path": "stride>neutron",
@@ -316,7 +316,7 @@
         "symbol": "stATOM",
         "description": "Stride Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/statom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/statom.png",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info" : {
             "path": "stride>neutron",
@@ -339,7 +339,7 @@
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stosmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stosmo.png",
         "coinGeckoId": "stride-staked-osmo",
         "ibc_info" : {
             "path": "stride>neutron",
@@ -362,7 +362,7 @@
         "symbol": "stTIA",
         "description": "Stride Staked TIA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stutia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stutia.png",
         "coinGeckoId": "stride-staked-tia",
         "ibc_info" : {
             "path": "stride>neutron",
@@ -385,7 +385,7 @@
         "symbol": "stDYM",
         "description": "Stride Staked DYM",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stdym.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stdym.png",
         "coinGeckoId": "stride-staked-dym",
         "ibc_info" : {
             "path": "stride>neutron",
@@ -408,7 +408,7 @@
         "symbol": "stDYDX",
         "description": "Stride Staked DYDX",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stadydx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stadydx.png",
         "coinGeckoId": "stride-staked-dydx",
         "ibc_info" : {
             "path": "stride>neutron",
@@ -431,7 +431,7 @@
         "symbol": "DYDX",
         "description": "dYdX Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dydx/asset/dydx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dydx/asset/dydx.png",
         "coinGeckoId": "dydx-chain",
         "ibc_info" : {
             "path": "dydx>neutron",
@@ -454,7 +454,7 @@
         "symbol": "stkATOM",
         "description": "PSTAKE Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/stkatom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkatom.png",
         "coinGeckoId": "stkatom",
         "ibc_info" : {
             "path": "persistence>neutron",
@@ -477,7 +477,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cerberus/asset/crbrus.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cerberus/asset/crbrus.png",
         "coinGeckoId": "cerberus-2",
         "ibc_info" : {
             "path": "cerberus>osmosis>neutron",
@@ -500,7 +500,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>neutron",
@@ -523,7 +523,7 @@
         "symbol": "NLS",
         "description": "Nolus Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nolus/asset/nolus.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nolus/asset/nolus.png",
         "coinGeckoId": "nolus",
         "ibc_info" : {
             "path": "nolus>neutron",
@@ -546,7 +546,7 @@
         "symbol": "DYM",
         "description": "The native governance and staking token of the Dymension Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dymension/asset/dym.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dymension/asset/dym.png",
         "coinGeckoId": "dymension",
         "ibc_info" : {
             "path": "dymension>neutron",
@@ -569,7 +569,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/stars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stargaze/asset/stars.png",
         "coinGeckoId": "stargaze",
         "ibc_info" : {
             "path": "stargaze>neutron",
@@ -592,7 +592,7 @@
         "symbol": "SAGA",
         "description": "Saga Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/saga/asset/saga.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/saga/asset/saga.png",
         "coinGeckoId": "saga-2",
         "ibc_info" : {
             "path": "saga>neutron",
@@ -615,7 +615,7 @@
         "symbol": "USDY",
         "description": "Ondo US Dollar Yield",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdy.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdy.png",
         "coinGeckoId": "ondo-us-dollar-yield",
         "ibc_info" : {
             "path": "noble>neutron",
@@ -638,7 +638,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/huahua.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/huahua.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info" : {
             "path": "chihuahua>neutron",
@@ -660,7 +660,7 @@
         "symbol": "MARS",
         "description": "Mars Protocol is a cross-collateralized Money Market Protocol on Neutron and Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mars-protocol/asset/mars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mars-protocol/asset/mars.png",
         "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
         "color": "#ef4136"
     },
@@ -671,7 +671,7 @@
         "symbol": "ASTRO",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/astro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/astro.png",
         "coinGeckoId": "astroport-fi",
         "color": "#4056e9"
     },
@@ -682,7 +682,7 @@
         "symbol": "NEWT",
         "description": "The cutest NEWT token on Neutron chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/newt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/newt.png",
         "coinGeckoId": "newt",
         "color": "#16233d"
     },
@@ -693,7 +693,7 @@
         "symbol": "ECLIP",
         "description": "A revolutionary hub for interchain token launches, bringing the value back into the hands of early communities.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/eclipse.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/eclipse.png",
         "coinGeckoId": "eclipse-fi"
     },
     {
@@ -703,7 +703,7 @@
         "symbol": "GODRD",
         "description": "A Mechanical Canine.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/goddardntrn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/goddardntrn.png",
         "coinGeckoId": "",
         "color": "#516b80"
     },
@@ -714,7 +714,7 @@
         "symbol": "GODDARD",
         "description": "THE FIRST NATIVE GODDARD MEMECOIN ON NEUTRON",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/goddard.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/goddard.png",
         "coinGeckoId": ""
     },
     {
@@ -724,7 +724,7 @@
         "symbol": "DINOSAUR",
         "description": "Dinosaur",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/dsrlol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/dsrlol.png",
         "coinGeckoId": ""
     },
     {
@@ -734,7 +734,7 @@
         "symbol": "NTRL",
         "description": "NEWTROLL",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/ntrl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/ntrl.png",
         "coinGeckoId": ""
     },
     {
@@ -744,7 +744,7 @@
         "symbol": "JIMMY",
         "description": "Jimmy Neutron Finance",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/jimmy.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/jimmy.png",
         "coinGeckoId": "",
         "color": "#7d3c20"
     },
@@ -755,7 +755,7 @@
         "symbol": "CARTEL",
         "description": "Reflections of cartel activity on Cosmos.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/cartel.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/cartel.png",
         "coinGeckoId": "",
         "color": "#8c9098"
     },
@@ -766,7 +766,7 @@
         "symbol": "ATOM1KLFG",
         "description": "$ATOM to $1,000 LFG!!",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/ATOM1KLFGc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/ATOM1KLFGc.png",
         "coinGeckoId": "",
         "color": "#040404"
     },
@@ -777,7 +777,7 @@
         "symbol": "NBZ",
         "description": "Ninja Blaze Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/nbz.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/nbz.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "injective>neutron",
@@ -800,7 +800,7 @@
         "symbol": "APOLLO",
         "description": "The deflationary utility token of the Apollo DAO project",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/apollo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/apollo.png",
         "coinGeckoId": "apollo-2"
     },
     {
@@ -810,7 +810,7 @@
         "symbol": "ANGRY-BABY.cft20",
         "description": "Angry Baby",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/angry-babycft.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/angry-babycft.png",
         "coinGeckoId": ""
     },
     {
@@ -820,7 +820,7 @@
         "symbol": "BABYROIDS.cft20",
         "description": "BABY ROIDS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/babyroidscft.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/babyroidscft.png",
         "coinGeckoId": ""
     },
     {
@@ -830,7 +830,7 @@
         "symbol": "DANZA",
         "description": "Whos the Boss?",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/danza.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/danza.png",
         "coinGeckoId": ""
     },
     {
@@ -840,7 +840,7 @@
         "symbol": "GAY",
         "description": "Gay Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/gay.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/gay.png",
         "coinGeckoId": ""
     },
     {
@@ -850,7 +850,7 @@
         "symbol": "NELSON",
         "description": "Nelson on Neutron",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/nelson.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/nelson.png",
         "coinGeckoId": ""
     },
     {
@@ -860,7 +860,7 @@
         "symbol": "WOOF",
         "description": "woof",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/woof.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/woof.png",
         "coinGeckoId": ""
     },
     {
@@ -870,7 +870,7 @@
         "symbol": "SCRAP",
         "description": "SCRAP",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/scrap.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/scrap.png",
         "coinGeckoId": ""
     },
     {
@@ -880,7 +880,7 @@
         "symbol": "(stTIA/TIA)VT",
         "description": "Apollo DAO",
         "decimals": 12,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/(sttia-tia)vt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/(sttia-tia)vt.png",
         "coinGeckoId": ""
     },
     {
@@ -890,7 +890,7 @@
         "symbol": "CORGI",
         "description": "Baby Corgi is the real doggo of Neutron!",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/babycorgi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/babycorgi.png",
         "coinGeckoId": "",
         "color": "#fab442"
     },
@@ -901,7 +901,7 @@
         "symbol": "BAD",
         "description": "Baddest coin on Cosmos",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/bad.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/bad.png",
         "coinGeckoId": "",
         "color": "#211a0d"
     },
@@ -912,7 +912,7 @@
         "symbol": "ASTROPEPE",
         "description": "Astropepe meme coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/astropepe.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/astropepe.png",
         "coinGeckoId": "",
         "color": "#47391d"
     },
@@ -923,7 +923,7 @@
         "symbol": "dNTRN",
         "description": "Drop staked NTRN",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/dntrn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/dntrn.png",
         "coinGeckoId": ""
     },
     {
@@ -933,7 +933,7 @@
         "symbol": "dATOM",
         "description": "Drop staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/datom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/datom.png",
         "coinGeckoId": "drop-staked-atom"
     },
     {
@@ -943,7 +943,7 @@
         "symbol": "dTIA",
         "description": "Drop staked TIA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/dtia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/dtia.png",
         "coinGeckoId": "drop-staked-tia"
     },
     {
@@ -1008,7 +1008,7 @@
         "symbol": "RETRO",
         "description": "Retro Game",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/retro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/retro.png",
         "coinGeckoId": ""
     },
     {
@@ -1029,7 +1029,7 @@
         "symbol": "xASTRO",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/xAstro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/xAstro.png",
         "coinGeckoId": ""
     },
     {
@@ -1039,7 +1039,7 @@
         "symbol": "wstETH",
         "description": "wstETH on Neutron.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info" : {
             "path": "ethereum>neutron",
@@ -1056,7 +1056,7 @@
         "symbol": "NEPT",
         "description": "The native token of Neptune Finance",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/nept.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/nept.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "injective>neutron",
@@ -1167,7 +1167,7 @@
         "symbol": "USDN",
         "description": "USDN is a yielding stablecoin collateral-backed by short-duration U.S. Treasury Bills.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdn.png",
         "coinGeckoId": "noble-dollar-usdn",
         "ibc_info" : {
             "path": "noble>neutron",
@@ -1250,7 +1250,7 @@
         "symbol": "ETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "ethereum",
         "ibc_info" : {
             "path": "cosmos>neutron",
@@ -1273,7 +1273,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
         "ibc_info" : {
             "path": "cosmos>neutron",

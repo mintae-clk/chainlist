@@ -6,7 +6,7 @@
         "symbol": "WFIL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/filecoin/asset/wfil.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/wfil.png",
         "coinGeckoId": "wrapped-fil",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC.axl",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/filecoin/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/usdc.png",
         "coinGeckoId": "axlusdc",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDT.axl",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/filecoin/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/usdt.png",
         "coinGeckoId": "axelar-usdt",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/filecoin/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/axl.png",
         "coinGeckoId": "axelar"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "DAI.axl",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/filecoin/asset/dai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/dai.png",
         "coinGeckoId": "dai"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "ETH.axl",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/filecoin/asset/eth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/eth.png",
         "coinGeckoId": "axlweth"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "WBTC.axl",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/filecoin/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/wbtc.png",
         "coinGeckoId": "axlwbtc"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "WMAI.axl",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/filecoin/asset/wmai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/wmai.png",
         "coinGeckoId": ""
     }
 ]

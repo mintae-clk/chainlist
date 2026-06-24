@@ -6,7 +6,7 @@
         "symbol": "wINJ",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/winj.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/winj.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on Injective by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     }

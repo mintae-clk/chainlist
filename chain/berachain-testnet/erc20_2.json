@@ -6,7 +6,7 @@
         "symbol": "HONEY",
         "description": "Honey (HONEY)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/honey.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/honey.png",
         "coinGeckoId": "",
         "wallet_preload": true
   },
@@ -17,7 +17,7 @@
         "symbol": "BGT",
         "description": "Bera Governance Token (BGT)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/bgt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/bgt.png",
         "coinGeckoId": "",
         "wallet_preload": true
   },
@@ -28,7 +28,7 @@
         "symbol": "USDC",
         "description": "USD Coin (USDC)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/usdc.png",
         "coinGeckoId": "",
         "wallet_preload": true
   },
@@ -39,7 +39,7 @@
         "symbol": "WETH",
         "description": "Wrapped Ether (WETH)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/weth.png",
         "coinGeckoId": ""
   },
   {
@@ -49,7 +49,7 @@
         "symbol": "WBERA",
         "description": "Wrapped Bera (WBERA)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/wbera.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/wbera.png",
         "coinGeckoId": ""
   },
   {
@@ -59,7 +59,7 @@
         "symbol": "WBTC",
         "description": "Wrapped Bitcoin (WBTC)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/wbtc.png",
         "coinGeckoId": ""
   },
   {
@@ -69,7 +69,7 @@
         "symbol": "NECT",
         "description": "NECTAR (NECT)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/XXXXXXXXXXXXXXX.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/XXXXXXXXXXXXXXX.png",
         "coinGeckoId": ""
   },
   {
@@ -79,7 +79,7 @@
         "symbol": "sNECT",
         "description": "Liquid Staked Nectar (sNECT)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/snect.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/snect.png",
         "coinGeckoId": ""
   },
   {
@@ -89,7 +89,7 @@
         "symbol": "BUDS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/buds.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/buds.png",
         "coinGeckoId": ""
   },
   {
@@ -99,7 +99,7 @@
         "symbol": "weHONEY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/wehoney.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/wehoney.png",
         "coinGeckoId": ""
   },
   {
@@ -109,7 +109,7 @@
         "symbol": "PAW",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/paw.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/paw.png",
         "coinGeckoId": ""
   },
   {
@@ -119,7 +119,7 @@
         "symbol": "LBGT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/lbgt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/lbgt.png",
         "coinGeckoId": ""
   },
   {
@@ -129,7 +129,7 @@
         "symbol": "YEET",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/yeet.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/yeet.png",
         "coinGeckoId": ""
   },
   {
@@ -139,7 +139,7 @@
         "symbol": "USDT",
         "description": "Tether USD",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/usdt.png",
         "coinGeckoId": ""
   },
   {
@@ -149,7 +149,7 @@
         "symbol": "DAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/dai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/dai.png",
         "coinGeckoId": ""
   },
   {
@@ -159,7 +159,7 @@
         "symbol": "tHPOT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/thpot.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/thpot.png",
         "coinGeckoId": ""
   },
   {
@@ -169,7 +169,7 @@
         "symbol": "JNKY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/jnky.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/jnky.png",
         "coinGeckoId": ""
   },
   {
@@ -179,7 +179,7 @@
         "symbol": "ZERU",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/zeru.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/zeru.png",
         "coinGeckoId": ""
   },
   {
@@ -189,7 +189,7 @@
         "symbol": "BURR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/burr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/burr.png",
         "coinGeckoId": ""
   },
   {
@@ -199,7 +199,7 @@
         "symbol": "NOME",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/nome.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/nome.png",
         "coinGeckoId": ""
   },
   {
@@ -209,7 +209,7 @@
         "symbol": "USDBr",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/usdbr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/usdbr.png",
         "coinGeckoId": ""
   },
   {
@@ -219,7 +219,7 @@
         "symbol": "suUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain-testnet/asset/suusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain-testnet/asset/suusd.png",
         "coinGeckoId": ""
   }
 ]

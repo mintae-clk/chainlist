@@ -6,7 +6,7 @@
         "symbol": "IOTA",
         "description": "Iota Staking Coin",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/iota/asset/iota.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/iota/asset/iota.png",
         "coinGeckoId": "iota"
     }
 ]

@@ -6,7 +6,7 @@
         "symbol": "WG",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-alpha/asset/wg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-alpha/asset/wg.png",
         "wallet_preload": true
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -36,6 +36,6 @@
         "symbol": "WETH",
         "description": "Stargate Bridged WETH Gravity",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-alpha/asset/weth.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-alpha/asset/weth.png"
     }
 ]

@@ -6,7 +6,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/akash/asset/akt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/akash/asset/akt.png",
         "coinGeckoId": "akash-network",
         "color": "#C71E10"
     },
@@ -17,7 +17,7 @@
         "symbol": "ACT",
         "description": "Akash Compute Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/akash/asset/act.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/akash/asset/act.png",
         "coinGeckoId": "usd-coin",
         "color": "#C71E10"
     },
@@ -28,7 +28,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>akash",
@@ -51,7 +51,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>akash",
@@ -74,7 +74,7 @@
         "symbol": "KAVA",
         "description": "Kava Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/kava.png",
         "coinGeckoId": "kava",
         "ibc_info" : {
             "path": "kava>akash",
@@ -97,7 +97,7 @@
         "symbol": "SWP",
         "description": "Governance token of Kava Swap Protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/swp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/swp.png",
         "coinGeckoId": "kava-swap",
         "ibc_info" : {
             "path": "kava>akash",
@@ -120,7 +120,7 @@
         "symbol": "HARD",
         "description": "Governance token of Kava Lend Protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/hard.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/hard.png",
         "coinGeckoId": "kava-lend",
         "ibc_info" : {
             "path": "kava>akash",
@@ -143,7 +143,7 @@
         "symbol": "USDX",
         "description": "The native stablecoin of Kava.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/usdx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kava/asset/usdx.png",
         "coinGeckoId": "usdx",
         "ibc_info" : {
             "path": "kava>akash",
@@ -166,7 +166,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>akash",
@@ -189,7 +189,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>akash",
@@ -212,7 +212,7 @@
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sifchain/asset/rowan.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sifchain/asset/rowan.png",
         "coinGeckoId": "sifchain",
         "ibc_info" : {
             "path": "sifchain>akash",
@@ -235,7 +235,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "color": "#2474cb",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
@@ -259,7 +259,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>akash",

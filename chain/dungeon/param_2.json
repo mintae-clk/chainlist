@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "dungeon-1",
     "chain_name": "Dungeon Chain",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dungeon/resource/chain_dungeon.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dungeon/resource/chain_dungeon.png",
     "staking_asset_denom": "udgn",
     "staking_asset_symbol": "DGN",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dungeon/asset/dgn.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dungeon/asset/dgn.png",
     "bech_account_prefix": "dungeon",
     "bech_validator_prefix": "dungeonvaloper",
     "origin_genesis_time": "2024-10-01T00:00:00Z",

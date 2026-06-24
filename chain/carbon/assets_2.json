@@ -6,7 +6,7 @@
         "symbol": "SWTH",
         "description": "Carbon Staking Coin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/carbon/asset/swth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/carbon/asset/swth.png",
         "coinGeckoId": "switcheo",
         "color": "#a5edf2"
     },
@@ -60,7 +60,7 @@
         "symbol": "milkTIA",
         "description": "MilkTIA token on Carbon",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/milktia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/milktia.png",
         "coinGeckoId": "milkyway-staked-tia",
         "ibc_info": {
             "path": "osmosis>carbon",

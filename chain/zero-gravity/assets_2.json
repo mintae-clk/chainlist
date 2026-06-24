@@ -6,7 +6,7 @@
         "symbol": "ØG",
         "description": "Zero Gravity Native coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/zero-gravity/asset/0g.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zero-gravity/asset/0g.png",
         "coinGeckoId": "zero-gravity"
     }
 ]

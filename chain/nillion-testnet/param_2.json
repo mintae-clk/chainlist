@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "nillion-chain-testnet-1",
     "chain_name": "Nillion Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion-testnet/resource/chain_nillion-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nillion-testnet/resource/chain_nillion-testnet.png",
     "staking_asset_denom": "unil",
     "staking_asset_symbol" : "NIL",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion-testnet/asset/nil.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nillion-testnet/asset/nil.png",
     "bech_account_prefix" : "nillion",
     "bech_validator_prefix" : "nillionvaloper",
     "api_name" : "nillion-testnet",

@@ -6,7 +6,7 @@
         "symbol": "ZIG",
         "description": "The native token of Zig Chain Testnet",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/zigchain-testnet/asset/zig.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain-testnet/asset/zig.png",
         "coinGeckoId": "",
         "color": ""
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "noble-testnet>zigchain-testnet",
@@ -40,7 +40,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axelar/asset/axl.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "axelar-testnet>zigchain-testnet",
@@ -63,7 +63,7 @@
         "symbol": "ATOM",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "cosmos-testnet>zigchain-testnet",

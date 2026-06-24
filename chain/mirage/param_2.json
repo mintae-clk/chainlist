@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "mirage-1",
     "chain_name": "Mirage",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mirage/resource/chain_mirage.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mirage/resource/chain_mirage.png",
     "staking_asset_denom": "umirage",
     "staking_asset_symbol": "MIRAGE",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mirage/asset/mirage.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mirage/asset/mirage.png",
     "bech_account_prefix": "mirage",
     "bech_validator_prefix": "miragevaloper",
     "origin_genesis_time": "2024-11-18T00:00:00Z",

@@ -6,7 +6,7 @@
         "symbol": "BERA",
         "description": "Berachain Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/bera.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/bera.png",
         "coinGeckoId": "berachain-bera"
     }
 ]

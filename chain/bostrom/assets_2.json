@@ -6,7 +6,7 @@
         "symbol": "BOOT",
         "description": "Bostrom Staking Coin",
         "decimals": 0,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bostrom/asset/boot.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bostrom/asset/boot.png",
         "coinGeckoId": "bostrom"
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "AMPERE",
         "description": "The resource token of Bostrom",
         "decimals": 3,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bostrom/asset/ampere.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bostrom/asset/ampere.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "VOLT",
         "description": "The resource token of Bostrom",
         "decimals": 3,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bostrom/asset/volt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bostrom/asset/volt.png",
         "coinGeckoId": ""
     },
     {
@@ -46,7 +46,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>bostrom",
@@ -69,7 +69,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>bostrom",
@@ -92,7 +92,7 @@
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-bridge/asset/grav.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-bridge/asset/grav.png",
         "coinGeckoId": "graviton",
         "ibc_info" : {
             "path": "gravity-bridge>bostrom",
@@ -115,7 +115,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>bostrom",

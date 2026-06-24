@@ -6,7 +6,7 @@
     "symbol": "WCRO",
     "description": "",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cronos/asset/wcro.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cronos/asset/wcro.png",
     "coinGeckoId": "wrapped-cro",
     "wallet_preload": true
   },
@@ -17,7 +17,7 @@
     "symbol": "USDT",
     "description": "",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
     "coinGeckoId": "tether",
     "wallet_preload": true
   },
@@ -28,7 +28,7 @@
     "symbol": "USDC",
     "description": "",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
     "coinGeckoId": "usd-coin",
     "wallet_preload": true
   },
@@ -39,7 +39,7 @@
     "symbol": "WBTC",
     "description": "",
     "decimals": 8,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
     "coinGeckoId": "wrapped-bitcoin"
   },
   {
@@ -49,7 +49,7 @@
     "symbol": "ATOM",
     "description": "",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
     "coinGeckoId": "cosmos"
   },
   {
@@ -59,7 +59,7 @@
     "symbol": "DOGE",
     "description": "",
     "decimals": 8,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/doge.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/doge.png",
     "coinGeckoId": "dogecoin"
   },
   {
@@ -69,7 +69,7 @@
     "symbol": "SHIB",
     "description": "",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/shib.png",
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/shib.png",
     "coinGeckoId": "shiba-inu"
   },
   {

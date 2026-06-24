@@ -6,7 +6,7 @@
         "symbol": "LINEA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/linea.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/linea.png",
         "coinGeckoId": "linea",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT",
         "description": "Tether",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "wstETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/wsteth.png",
         "coinGeckoId": "linea-bridged-wsteth-linea"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "LINK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/link.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/link.png",
         "coinGeckoId": "linea-bridged-link-linea"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "USDe",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/usde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/usde.png",
         "coinGeckoId": "ethena-usde"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/wbtc.png",
         "coinGeckoId": "linea-bridged-wbtc-linea"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "SHIB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/shib.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/shib.png",
         "coinGeckoId": "shiba-inu"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "sUSDe",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/susde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/susde.png",
         "coinGeckoId": ""
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "DAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/dai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/dai.png",
         "coinGeckoId": "bridged-dai-stablecoin-linea"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "UNI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/uni.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/uni.png",
         "coinGeckoId": "linea-bridged-uni-linea"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "ENA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/ena.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/ena.png",
         "coinGeckoId": ""
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "PEPE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/pepe.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/pepe.png",
         "coinGeckoId": ""
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "rsETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/rseth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/rseth.png",
         "coinGeckoId": "layerzero-bridged-rseth-linea"
     },
     {
@@ -149,7 +149,7 @@
         "symbol": "TRUMP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/trump.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/trump.png",
         "coinGeckoId": ""
     },
     {
@@ -159,7 +159,7 @@
         "symbol": "BNB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/bnb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/bnb.png",
         "coinGeckoId": "celer-bridged-wbnb-linea"
     },
     {
@@ -169,7 +169,7 @@
         "symbol": "ezETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/ezeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/ezeth.png",
         "coinGeckoId": "renzo-restaked-eth"
     },
     {
@@ -179,7 +179,7 @@
         "symbol": "SolvBTC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/solvbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/solvbtc.png",
         "coinGeckoId": "solv-btc"
     },
     {
@@ -189,7 +189,7 @@
         "symbol": "LDO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/ldo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/ldo.png",
         "coinGeckoId": "linea-bridged-ldo-linea"
     },
     {
@@ -199,7 +199,7 @@
         "symbol": "AVAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/avax.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/avax.png",
         "coinGeckoId": "avalanche-2"
     },
     {
@@ -219,7 +219,7 @@
         "symbol": "wstETH.axl",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/linea/asset/wsteth.png",
         "coinGeckoId": "wrapped-steth"
     }
 ]

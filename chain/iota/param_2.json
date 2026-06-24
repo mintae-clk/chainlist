@@ -1,10 +1,10 @@
 {
     "chain_id" : "6364aad5",
     "chain_name": "IOTA",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/iota/resource/chain_iota.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/iota/resource/chain_iota.png",
     "staking_asset_denom" : "0x2::iota::IOTA",
     "staking_asset_symbol" : "IOTA",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/iota/asset/iota.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/iota/asset/iota.png",
     "origin_genesis_time" : "2025-05-05T07:00:00Z",
     "is_support_mobile_wallet" : true,
     "is_support_moblie_dapp" : true,

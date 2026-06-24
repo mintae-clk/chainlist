@@ -6,7 +6,7 @@
         "symbol": "LUNC",
         "description": "Terra Classic Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/lunc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/lunc.png",
         "coinGeckoId": "",
         "color": "#3f95d4"
     },
@@ -17,7 +17,7 @@
         "symbol": "USTC",
         "description": "Terra Classic Testnet Stablecoin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/UST.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/UST.png",
         "coinGeckoId": ""
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "AUT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/AUT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/AUT.png",
         "coinGeckoId": ""
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "CAT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/CAT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/CAT.png",
         "coinGeckoId": ""
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "CHT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/CHT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/CHT.png",
         "coinGeckoId": ""
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "CNT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/CNT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/CNT.png",
         "coinGeckoId": ""
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "DKT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/DKT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/DKT.png",
         "coinGeckoId": ""
     },
     {
@@ -77,7 +77,7 @@
         "symbol": "GBT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/GBT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/GBT.png",
         "coinGeckoId": ""
     },
     {
@@ -87,7 +87,7 @@
         "symbol": "EUT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/EUT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/EUT.png",
         "coinGeckoId": ""
     },
     {
@@ -97,7 +97,7 @@
         "symbol": "HKT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/HKT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/HKT.png",
         "coinGeckoId": ""
     },
     {
@@ -107,7 +107,7 @@
         "symbol": "INT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/INT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/INT.png",
         "coinGeckoId": ""
     },
     {
@@ -117,7 +117,7 @@
         "symbol": "IDT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/IDT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/IDT.png",
         "coinGeckoId": ""
     },
     {
@@ -127,7 +127,7 @@
         "symbol": "JPT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/JPT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/JPT.png",
         "coinGeckoId": ""
     },
     {
@@ -137,7 +137,7 @@
         "symbol": "KRT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/KRT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/KRT.png",
         "coinGeckoId": ""
     },
     {
@@ -147,7 +147,7 @@
         "symbol": "MNT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/MNT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/MNT.png",
         "coinGeckoId": ""
     },
     {
@@ -157,7 +157,7 @@
         "symbol": "MYT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/MYT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/MYT.png",
         "coinGeckoId": ""
     },
     {
@@ -167,7 +167,7 @@
         "symbol": "NOT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/NOT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/NOT.png",
         "coinGeckoId": ""
     },
     {
@@ -177,7 +177,7 @@
         "symbol": "PHT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/PHT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/PHT.png",
         "coinGeckoId": ""
     },
     {
@@ -187,7 +187,7 @@
         "symbol": "SDT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/SDT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/SDT.png",
         "coinGeckoId": ""
     },
     {
@@ -197,7 +197,7 @@
         "symbol": "SET",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/SET.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/SET.png",
         "coinGeckoId": ""
     },
     {
@@ -207,7 +207,7 @@
         "symbol": "SGT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/SGT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/SGT.png",
         "coinGeckoId": ""
     },
     {
@@ -217,7 +217,7 @@
         "symbol": "THT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/THT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/THT.png",
         "coinGeckoId": ""
     },
     {
@@ -227,7 +227,7 @@
         "symbol": "TWT",
         "description": "Terra Classic Testnet Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra-classic-testnet/asset/TWT.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra-classic-testnet/asset/TWT.png",
         "coinGeckoId": ""
   }
 ]

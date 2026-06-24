@@ -2,7 +2,7 @@
     "chain_id_cosmos": "meme-1",
     "chain_name": "MEME",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/meme/resource/chain_meme.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/meme/resource/chain_meme.png",
     "staking_asset_denom": "umeme",
     "staking_asset_symbol": "MEME",
     "lcd_endpoint": [

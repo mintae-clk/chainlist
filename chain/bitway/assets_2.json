@@ -6,7 +6,7 @@
         "symbol": "BTW",
         "description": "Bitway Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitway/asset/btw.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bitway/asset/btw.png",
         "coinGeckoId": "bitway"
     }
 ]

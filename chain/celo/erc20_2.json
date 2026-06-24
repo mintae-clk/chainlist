@@ -6,7 +6,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "cUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/cusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/cusd.png",
         "coinGeckoId": "celo-dollar",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "ETHIX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/ethix.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/ethix.png",
         "coinGeckoId": "ethichub"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "cEUR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/ceur.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/ceur.png",
         "coinGeckoId": "celo-euro"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "BRLA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/brla.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/brla.png",
         "coinGeckoId": "brla-digital-brla"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "WETH",
         "description": "Wormhole Bridged WETH Celo",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "WBTC",
         "description": "Bridged WBTC",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "MOO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/moo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/moo.png",
         "coinGeckoId": ""
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "PLASTIK",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/plastik.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/plastik.png",
         "coinGeckoId": "plastiks"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "WETH",
         "description": "WETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "WCELO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/celo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celo/asset/celo.png",
         "coinGeckoId": "celo"
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "USDC.axl",
         "description": "Axelar Wrapped USDC",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin"
     }
 ]

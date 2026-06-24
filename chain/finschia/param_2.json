@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "finschia-2",
     "chain_name": "Finschia",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/finschia/resource/chain_finschia.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/finschia/resource/chain_finschia.png",
     "staking_asset_denom" : "cony",
     "staking_asset_symbol" : "FNSA",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/finschia/asset/fnsa.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/finschia/asset/fnsa.png",
     "bech_account_prefix" : "link",
     "bech_validator_prefix" : "linkvaloper",
     "origin_genesis_time" : "2023-05-25T03:00:00Z",

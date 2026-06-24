@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "aaronetwork",
     "chain_name": "Aaron Network",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/aaron/resource/chain_aaron.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/aaron/resource/chain_aaron.png",
     "staking_asset_denom" : "uaaron",
     "staking_asset_symbol" : "AARON",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/aaron/asset/aaron.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/aaron/asset/aaron.png",
     "bech_account_prefix" : "aaron",
     "bech_validator_prefix" : "aaronvaloper",
     "origin_genesis_time" : "2024-11-24T12:21:31Z",

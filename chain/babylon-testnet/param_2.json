@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "bbn-test-6",
     "chain_name": "Babylon Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon-testnet/resource/chain_babylon-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon-testnet/resource/chain_babylon-testnet.png",
     "staking_asset_denom" : "ubbn",
     "staking_asset_symbol": "tBABY",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon-testnet/asset/bbn.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon-testnet/asset/bbn.png",
     "is_support_mintscan": true,
     "is_support_cw20" : true,
     "is_support_mobile_wallet" : true,

@@ -6,7 +6,7 @@
         "symbol": "OP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/op.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/op.png",
         "coinGeckoId": "optimism",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "USDC.e",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "LINK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/link.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/link.png",
         "coinGeckoId": "chainlink"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "DAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/dai.png",
         "coinGeckoId": "dai"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "LDO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ldo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/ldo.png",
         "coinGeckoId": "lido-dao"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "PYTH",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/pyth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/pyth.png",
         "coinGeckoId": "pyth-network"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "WLD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/worldcoin/asset/wld.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/worldcoin/asset/wld.png",
         "coinGeckoId": "worldcoin-wld"
     },
     {
@@ -229,7 +229,7 @@
         "symbol": "rETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/reth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/reth.png",
         "coinGeckoId": "reth"
     },
     {
@@ -409,7 +409,7 @@
         "symbol": "rETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/reth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/reth.png",
         "coinGeckoId": "reth"
     },
     {
@@ -649,7 +649,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/milktia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/milktia.png",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {
@@ -719,7 +719,7 @@
         "symbol": "BAL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/bal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/bal.png",
         "coinGeckoId": "balancer"
     },
     {
@@ -729,7 +729,7 @@
         "symbol": "MKR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/mkr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/mkr.png",
         "coinGeckoId": "maker"
     },
     {
@@ -739,7 +739,7 @@
         "symbol": "PERP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/perp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/perp.png",
         "coinGeckoId": "perpetual-protocol"
     },
     {
@@ -749,7 +749,7 @@
         "symbol": "1INCH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/1inch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/1inch.png",
         "coinGeckoId": "1inch"
     },
     {
@@ -759,7 +759,7 @@
         "symbol": "YFI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/yfi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/yfi.png",
         "coinGeckoId": "yearn-finance"
     },
     {
@@ -769,7 +769,7 @@
         "symbol": "PEPE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/pepe.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/pepe.png",
         "coinGeckoId": "pepe"
     },
     {
@@ -779,7 +779,7 @@
         "symbol": "ENA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/ena.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/ena.png",
         "coinGeckoId": "ethena"
     },
     {
@@ -789,7 +789,7 @@
         "symbol": "ENS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/ens.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/ens.png",
         "coinGeckoId": "ethereum-name-service"
     },
     {
@@ -799,7 +799,7 @@
         "symbol": "USDe",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/usde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/usde.png",
         "coinGeckoId": "ethena-usde"
     },
     {
@@ -809,7 +809,7 @@
         "symbol": "SUSHI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/sushi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/sushi.png",
         "coinGeckoId": "sushi"
     },
     {
@@ -819,7 +819,7 @@
         "symbol": "AAVE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/aave.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/aave.png",
         "coinGeckoId": "aave"
     },
     {
@@ -829,7 +829,7 @@
         "symbol": "UNI",
         "description": "Uniswap",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/uni.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/uni.png",
         "coinGeckoId": "uniswap"
     },
     {
@@ -839,7 +839,7 @@
         "symbol": "SOL",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/sol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/sol.png",
         "coinGeckoId": "solana"
     },
     {
@@ -849,7 +849,7 @@
         "symbol": "VELO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/velo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/velo.png",
         "coinGeckoId": "velodrome-finance"
     },
     {
@@ -859,7 +859,7 @@
         "symbol": "CRV",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/crv.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/crv.png",
         "coinGeckoId": "curve-dao-token"
     },
     {
@@ -869,7 +869,7 @@
         "symbol": "STG",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/stg.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/stg.png",
         "coinGeckoId": "stargate-finance"
     },
     {
@@ -879,7 +879,7 @@
         "symbol": "FRAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/frax.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/frax.png",
         "coinGeckoId": "frax-share"
     },
     {
@@ -889,7 +889,7 @@
         "symbol": "FRAX.lz",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/wfrax.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/optimism/asset/wfrax.png",
         "coinGeckoId": "wrapped-frax"
     }
 ]

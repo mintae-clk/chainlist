@@ -6,7 +6,7 @@
         "symbol": "HONEY",
         "description": "Honey (HONEY)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/honey.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/honey.png",
         "coinGeckoId": "honey-3",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "BGT",
         "description": "Bera Governance Token (BGT)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/bgt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/bgt.png",
         "coinGeckoId": "berachain-governance-token",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "WBERA",
         "description": "Wrapped Bera (WBERA)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/wbera.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/wbera.png",
         "coinGeckoId": "wrapped-bera"
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "stBGT",
         "description": "Stride Liquid Staked BGT",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/stbgt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/stbgt.png",
         "coinGeckoId": ""
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "USDC.e",
         "description": "USD Coin (USDC)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "USDT",
         "description": "Tether USD",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/usdt.png",
         "coinGeckoId": "tether"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "BYUSD",
         "description": "BYUSD",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/byusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/byusd.png",
         "coinGeckoId": "paypal-usd"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "WBTC",
         "description": "Wrapped Bitcoin (WBTC)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/wbtc.png",
         "coinGeckoId": "bitcoin"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "WETH",
         "description": "Wrapped Ether (WETH)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "SolvBTC",
         "description": "Solv BTC",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/solvbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/solvbtc.png",
         "coinGeckoId": "solv-btc"
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "SolvBTC.BBN",
         "description": "SolvBTC Babylon",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/solvbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/solvbtc.png",
         "coinGeckoId": "solv-protocol-solvbtc-bbn"
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "STONE",
         "description": "StakeStone Ether",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/stone.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/stone.png",
         "coinGeckoId": "stakestone-ether"
     },
     {
@@ -128,7 +128,7 @@
         "symbol": "beraETH",
         "description": "Berachain Staked ETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/steth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/steth.png",
         "coinGeckoId": ""
     },
     {
@@ -138,7 +138,7 @@
         "symbol": "USDa",
         "description": "USDa",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/usda.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/usda.png",
         "coinGeckoId": "usda-2"
     },
     {
@@ -148,7 +148,7 @@
         "symbol": "rUSD",
         "description": "Reservoir Stablecoin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/rusda.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/rusda.png",
         "coinGeckoId": ""
     },
     {
@@ -158,7 +158,7 @@
         "symbol": "USDe",
         "description": "USDe",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/usde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/usde.png",
         "coinGeckoId": "ethena-usde"
     },
     {
@@ -168,7 +168,7 @@
         "symbol": "sUSDe",
         "description": "Staked USDe",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/susde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/susde.png",
         "coinGeckoId": "ethena-staked-usde"
     },
     {
@@ -178,7 +178,7 @@
         "symbol": "weETH",
         "description": "Wrapped eETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/weeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/weeth.png",
         "coinGeckoId": "wrapped-eeth"
     },
     {
@@ -188,7 +188,7 @@
         "symbol": "stBTC",
         "description": "Lorenzo stBTC",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/stbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/stbtc.png",
         "coinGeckoId": "lorenzo-stbtc"
     },
     {
@@ -198,7 +198,7 @@
         "symbol": "pumpBTC.bera",
         "description": "pumpBTC.bera",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/pumpbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/pumpbtc.png",
         "coinGeckoId": ""
     },
     {
@@ -208,7 +208,7 @@
         "symbol": "uniBTC",
         "description": "uniBTC",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/unibtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/unibtc.png",
         "coinGeckoId": "universal-btc"
     },
     {
@@ -218,7 +218,7 @@
         "symbol": "LBTC",
         "description": "Lombard Staked Bitcoin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/lbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/lbtc.png",
         "coinGeckoId": "lombard-staked-btc"
     },
     {
@@ -228,7 +228,7 @@
         "symbol": "FBTC",
         "description": "Fire Bitcoin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/fbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/fbtc.png",
         "coinGeckoId": "lombard-staked-btc"
     },
     {
@@ -238,7 +238,7 @@
         "symbol": "MIM",
         "description": "Magic Internet Money",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/mim.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/mim.png",
         "coinGeckoId": "magic-internet-money"
     },
     {
@@ -248,7 +248,7 @@
         "symbol": "rswETH",
         "description": "rswETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/rsweth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/rsweth.png",
         "coinGeckoId": "restaked-swell-eth"
     },
     {
@@ -258,7 +258,7 @@
         "symbol": "rsETH",
         "description": "KelpDao Restaked ETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/rseth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/rseth.png",
         "coinGeckoId": "kelp-dao-restaked-eth"
     },
     {
@@ -268,7 +268,7 @@
         "symbol": "LAIR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/berachain/asset/lair.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/berachain/asset/lair.png",
         "coinGeckoId": "lair"
     }
 ]

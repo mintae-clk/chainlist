@@ -6,7 +6,7 @@
         "symbol": "eBABY",
         "description": "ESCHER LST for Babylon",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/eBABY.svg",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/babylon/asset/eBABY.svg",
         "coinGeckoId": "",
         "color": "#0008FF",
         "wallet_preload": true

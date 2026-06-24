@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "zigchain-1",
     "chain_name": "ZigChain",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/zigchain/resource/chain_zigchain.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/resource/chain_zigchain.png",
     "staking_asset_denom" : "uzig",
     "staking_asset_symbol" : "ZIG",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/zigchain/asset/zig.pn",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/asset/zig.pn",
     "bech_account_prefix" : "zig",
     "bech_validator_prefix" : "zigvaloper",
     "origin_genesis_time" : "2025-06-23T09:50:52Z",

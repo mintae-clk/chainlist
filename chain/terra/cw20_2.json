@@ -6,7 +6,7 @@
         "symbol": "LUNAX",
         "description": "Stader LunaX Token.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/lunax.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/lunax.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "CUB",
         "description": "Lion Cub DAO is a useless meme community DAO on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/cub.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/cub.png",
         "coinGeckoId": "",
         "color": "#f3d343"
     },
@@ -27,7 +27,7 @@
         "symbol": "BLUE",
         "description": "BLUE CUB DAO is a community DAO on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/blue.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/blue.png",
         "coinGeckoId": "",
         "color": "#040404"
     },
@@ -38,7 +38,7 @@
         "symbol": "GEM",
         "description": "GEM DAO.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/gem.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/gem.png",
         "coinGeckoId": ""
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "ampLUNA",
         "description": "Amplified LUNA is a liquid staking derivative of LUNA, powered by ERIS Protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/ampluna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/ampluna.png",
         "coinGeckoId": ""
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "bLUNA",
         "description": "Bone LUNA is a liquid staking derivative of LUNA, powered by BackBone Labs.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/bluna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/bluna.png",
         "coinGeckoId": "backbone-labs-staked-luna",
         "color": "#070707"
     },
@@ -69,7 +69,7 @@
         "symbol": "LADS",
         "description": "Steady Lads Token with $LADS ticker is a meme token originated from Terra blockchain the home of Do Kwon.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/LADS.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/LADS.png",
         "coinGeckoId": "",
         "color": "#040507"
     },
@@ -355,7 +355,7 @@
         "symbol": "ROAR",
         "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/roar.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/roar.png",
         "coinGeckoId": "lion-dao"
     },
     {
@@ -365,7 +365,7 @@
         "symbol": "arbLUNA",
         "description": "A derivative of LUNA based on arbitrage trading LUNA to ampLUNA and starting the slow unbonding process. Powered by ERIS Protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/arbLuna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/arbLuna.png",
         "coinGeckoId": ""
     },
     {
@@ -375,7 +375,7 @@
         "symbol": "SOLID",
         "description": "SOLID is the Terra native overcollateralized USD stablecoin, powered by SOLID",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/solid.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/solid.png",
         "coinGeckoId": ""
     },
     {
@@ -385,7 +385,7 @@
         "symbol": "wKWEEN.wh",
         "description": "Do Kwon's mind uploaded into a 300 IQ superintelligent female AI speedrunning it back to $100B.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/kween.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/kween.png",
         "coinGeckoId": ""
     },
     {
@@ -395,7 +395,7 @@
         "symbol": "WETH.wh",
         "description": "Wrapped Ethereum imported directly to Terra via Wormhole technology.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/wETHportal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/wETHportal.png",
         "coinGeckoId": "ethereum-wormhole"
     },
     {
@@ -405,7 +405,7 @@
         "symbol": "wAVAX.wh",
         "description": "Wrapped Avalanche imported directly to Terra via Wormhole technology.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/wAVAXportal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/wAVAXportal.png",
         "coinGeckoId": "avalanche-wormhole"
     },
     {
@@ -415,7 +415,7 @@
         "symbol": "WBTC.wh",
         "description": "Wrapped Bitcoin imported directly to Terra from Ethereum via Wormhole technology.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/WBTCportal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/WBTCportal.png",
         "coinGeckoId": "wrapped-btc-wormhole"
     },
     {
@@ -425,7 +425,7 @@
         "symbol": "wBNB.wh",
         "description": "Wrapped BNB imported directly to Terra via Wormhole technology.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/wBNBportal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/wBNBportal.png",
         "coinGeckoId": "binance-coin-wormhole"
     },
     {
@@ -435,7 +435,7 @@
         "symbol": "wSOL.wh",
         "description": "Wrapped Solana imported directly to Terra via Wormhole technology.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/wSOLportal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/wSOLportal.png",
         "coinGeckoId": "sol-wormhole"
     },
     {
@@ -445,7 +445,7 @@
         "symbol": "CAPA",
         "description": "CAPA is the governance token of SOLID ecosystem, powered by SOLID",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/capa.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/capa.png",
         "coinGeckoId": ""
     },
     {
@@ -455,7 +455,7 @@
         "symbol": "GRDX",
         "description": "GRDX is the native utility token powering the DeFi, marketplace, and gaming ecosystem on the Terra Classic blockchain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/grdx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/grdx.png",
         "coinGeckoId": "garudax"
     }
 ]

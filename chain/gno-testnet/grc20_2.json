@@ -6,7 +6,7 @@
         "symbol": "GNS",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/gns.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/gns.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/usdc.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "wugnot",
         "description": "",
         "decimals": 0,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/wgnot.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/wgnot.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "QUX",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/qux.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/qux.png",
         "coinGeckoId": "",
         "wallet_preload": false
     },
@@ -50,7 +50,7 @@
         "symbol": "OBL",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/obl.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/obl.png",
         "coinGeckoId": "",
         "wallet_preload": false
     },
@@ -61,7 +61,7 @@
         "symbol": "FOO",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/foo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/foo.png",
         "coinGeckoId": "",
         "wallet_preload": false
     },
@@ -72,7 +72,7 @@
         "symbol": "BAZ",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/baz.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/baz.png",
         "coinGeckoId": "",
         "wallet_preload": false
     },
@@ -83,7 +83,7 @@
         "symbol": "BAR",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/bar.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/bar.png",
         "coinGeckoId": "",
         "wallet_preload": false
     },
@@ -94,7 +94,7 @@
         "symbol": "FOO",
         "description": "",
         "decimals": 4,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/unknown.png",
         "coinGeckoId": "",
         "wallet_preload": false
     },
@@ -105,7 +105,7 @@
         "symbol": "MDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gno-testnet/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/asset/unknown.png",
         "coinGeckoId": "",
         "wallet_preload": false
     }
