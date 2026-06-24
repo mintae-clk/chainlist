@@ -28,7 +28,7 @@
         "description": "CHF on E-Money Network",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/emoney/asset/echf.png",
-        "image": "emoney/asset/echf.png"
+        "coinGeckoId": "e-money-chf"
     },
     {
         "type": "native",
@@ -38,7 +38,7 @@
         "description": "NOK on E-Money Network",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/emoney/asset/enok.png",
-        "image": "emoney/asset/enok.png"
+        "coinGeckoId": "e-money-nok"
     },
     {
         "type": "native",
@@ -48,7 +48,7 @@
         "description": "DKK on E-Money Network",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/emoney/asset/edkk.png",
-        "image": "emoney/asset/edkk.png"
+        "coinGeckoId": "e-money-dkk"
     },
     {
         "type": "native",
@@ -58,7 +58,7 @@
         "description": "SEK on E-Money Network",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/emoney/asset/esek.png",
-        "image": "emoney/asset/esek.png"
+        "coinGeckoId": "e-money-sek"
     },
     {
         "type": "ibc",
