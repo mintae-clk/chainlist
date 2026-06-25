@@ -1722,6 +1722,17 @@
         "coinGeckoId": ""
     },
     {
+        "type": "native",
+        "denom": "factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN",
+        "name": "POSTHUMAN",
+        "symbol": "PHMN",
+        "description": "POSTHUMAN (PHMN) is the governance token of the POSTHUMAN DAO, issued on Cosmos Hub through TokenFactory.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/phmn.png",
+        "color": "#bbc2c6",
+        "coinGeckoId": ""
+    },
+    {
         "type": "ibc",
         "denom": "ibc/5512EB544A275E5375CE4D82233BDAA2D03002E352A9C6B0049175BD368DF10E",
         "name": "EURC",
@@ -1796,5 +1807,28 @@
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/stars.png",
         "coinGeckoId": "stargaze"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D9E40E9047E09AAC6CDF9D133AC54C778B44A03690A91B9F5EDFF9F53C2A0977",
+        "name" : "Allora",
+        "symbol": "ALLO",
+        "description": "Allora Staking Coin",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/allora/asset/allo.png",
+        "coinGeckoId": "allora",
+        "ibc_info" : {
+            "path": "allora>cosmos",
+            "client" : {
+                "channel": "channel-1353",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "allora",
+                "denom": "uallo"
+            }
+        }
     }
 ]
