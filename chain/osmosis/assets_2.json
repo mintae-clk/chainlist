@@ -11390,5 +11390,29 @@
       "description": "The Ninedollers Token on Osmosis",
       "coinGeckoId": "",
       "image": "https://beige-wonderful-locust-140.mypinata.cloud/ipfs/bafkreigm7hempeh62h7pnazhrbum5slis4axql3kssubybhjejbrwb2bfq"
+    },
+    {
+      "type": "ibc",
+      "denom": "ibc/243B3934C4462EE254C84AA31AF42E34F1869418194D3E4161E4A659A01AC6E6",
+      "name": "POSTHUMAN",
+      "symbol": "PHMN",
+      "description": "POSTHUMAN DAO governance token issued on Cosmos Hub through TokenFactory.",
+      "decimals": 6,
+      "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/phmn.png",
+      "color": "#111111",
+      "coinGeckoId": "",
+      "ibc_info": {
+        "path": "cosmoshub>osmosis",
+        "client": {
+          "channel": "channel-0",
+          "port": "transfer"
+        },
+        "counterparty": {
+          "channel": "channel-141",
+          "port": "transfer",
+          "chain": "cosmoshub",
+          "denom": "factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN"
+        }
+      }
     }
 ]
