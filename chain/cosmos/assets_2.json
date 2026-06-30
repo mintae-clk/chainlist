@@ -1733,6 +1733,17 @@
         "coinGeckoId": ""
     },
     {
+        "type": "native",
+        "denom": "factory/cosmos1nxxz937qd6zqxllwplydy6hts97c4amaqj8jxa57nsme3dmckk4s3mqujr/RESP",
+        "name": "POSTHUMAN Reputation",
+        "symbol": "RESP",
+        "description": "POSTHUMAN ecosystem reputation token on Cosmos Hub, migrated from legacy Juno RESP.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/resp.png",
+        "color": "#BBC2C6",
+        "coinGeckoId": ""
+    },
+    {
         "type": "ibc",
         "denom": "ibc/5512EB544A275E5375CE4D82233BDAA2D03002E352A9C6B0049175BD368DF10E",
         "name": "EURC",
