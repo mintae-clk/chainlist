@@ -1,0 +1,47 @@
+{
+  "chain_id_cosmos": "limonata_10777-1",
+  "chain_name": "Limonata Testnet",
+  "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/limonata-testnet/resource/chain_limonata-testnet.png",
+  "staking_asset_denom": "aLIMO",
+  "staking_asset_symbol": "LIMO",
+  "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/limonata-testnet/asset/limo.png",
+  "bechAccountPrefix": "cosmos",
+  "bechValidatorPrefix": "cosmosvaloper",
+  "api_name": "limonata-testnet",
+  "is_support_mintscan": false,
+  "account_type": [
+    {
+      "hd_path": "m/44'/60'/0'/0/X",
+      "pubkey_style": "keccak256",
+      "pubkey_type": "/cosmos.evm.crypto.v1.ethsecp256k1.PubKey"
+    }
+  ],
+  "cosmos_fee_info": {
+    "base": "0",
+    "rate": ["0.01aLIMO", "0.025aLIMO", "0.04aLIMO"],
+    "is_simulable": true,
+    "simulated_gas_multiply": 1.2,
+    "init_gas_limit": 300000,
+    "fee_threshold": ""
+  },
+  "grpc_endpoint": [],
+  "lcd_endpoint": [
+    { "provider": "Limonata", "url": "https://rest.limonata.xyz/" }
+  ],
+  "explorer": {
+    "name": "Limonata Explorer",
+    "url": "https://explorer.limonata.xyz/",
+    "account": "https://explorer.limonata.xyz/address/${address}",
+    "tx": "https://explorer.limonata.xyz/tx/${hash}"
+  },
+  "about": {
+    "website": "https://limonata.xyz",
+    "docs": "https://limonata.xyz/how-it-works",
+    "github": "https://github.com/Limonata-Blockchain",
+    "twitter": "",
+    "coingecko": ""
+  },
+  "description": {
+    "en": "Limonata is an EVM Layer-1 built on the Cosmos SDK, featuring single-slot BFT finality and protocol-paid (gasless) transactions. Chain ID 10777."
+  }
+}
