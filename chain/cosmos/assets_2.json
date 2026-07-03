@@ -1733,6 +1733,17 @@
         "coinGeckoId": ""
     },
     {
+        "type": "native",
+        "denom": "factory/cosmos1qq6jp560cq3dg83lw9ss9azvxvzcsm593y96gg6fp2792e95ndpqnp9t5r/weird",
+        "name": "WEIRD",
+        "symbol": "WEIRD",
+        "description": "WEIRD (WEIRD) is the governance token of the WEIRD DAO, issued on Cosmos Hub through TokenFactory.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/weird.png",
+        "color": "#bbc2c6",
+        "coinGeckoId": ""
+    },
+    {
         "type": "ibc",
         "denom": "ibc/5512EB544A275E5375CE4D82233BDAA2D03002E352A9C6B0049175BD368DF10E",
         "name": "EURC",
