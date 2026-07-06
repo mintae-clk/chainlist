@@ -150,5 +150,17 @@
             "twitter": "https://x.com/CorecastMarkets",
             "telegram": "https://t.me/coreum_labs"
         }
+    },
+    {
+        "name": "ALL in ONE TX",
+        "type": "Native dApps",
+        "description": "The free community dashboard for Coreum: PSE scores, staking rewards calculator, validator comparison, exchange flows, plain-English governance, and per-wallet analytics.",
+        "status": "open",
+        "thumbnail": "allinonetx",
+        "link": "https://tx.silknodes.io/",
+        "social": {
+            "webSite": "https://tx.silknodes.io/",
+            "twitter": "https://x.com/silk_nodes"
+        }
     }
 ]
