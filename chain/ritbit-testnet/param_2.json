@@ -8,10 +8,10 @@
     "bech_account_prefix" : "rit",
     "bech_validator_prefix" : "ritvaloper",
     "api_name" : "ritbit-testnet",
-    "is_support_mintscan": true,
-    "is_support_mobile_wallet" : true,
-    "is_support_extension_wallet" : true,
-    "is_support_moblie_dapp": true,
+    "is_support_mintscan": false,
+    "is_support_mobile_wallet" : false,
+    "is_support_extension_wallet" : false,
+    "is_support_moblie_dapp": false,
     "chain_type": [
         "cosmos"
     ],
