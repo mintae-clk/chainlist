@@ -2066,5 +2066,15 @@
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/btg.png",
         "coinGeckoId": ""
+    },
+	{
+        "type": "native",
+        "denom": "factory/inj13j2rpnlwl30c02d4pzukykwfeyyhelvry9cqte/shroom_8_be9bddf36b94db69",
+        "name": "HELIXPOINT",
+        "symbol": "HELIXPOINT",
+        "description": "HELIXPOINT is the points token on Injective, launched on Trippy Pump (SHROOM Pad)",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/helixpoint.png",
+        "coinGeckoId": ""
     }
 ]
