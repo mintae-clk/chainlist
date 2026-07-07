@@ -1288,5 +1288,29 @@
                 "denom": "ibc/D742E8566B0B8CC8F569D950051C09CF57988A88F0E45574BFB3079D41DE6462"
             }
         }
+    },
+    {
+      "type": "ibc",
+      "denom": "ibc/0D72F33FDA6B029A6F84A6A0A502922349AE63D4F261EC523E2D5A65B08DC87B",
+      "name": "POSTHUMAN",
+      "symbol": "PHMN",
+      "description": "POSTHUMAN DAO governance token issued on Cosmos Hub through TokenFactory.",
+      "decimals": 6,
+      "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/phmn.png",
+      "color": "#111111",
+      "coinGeckoId": "",
+      "ibc_info": {
+        "path": "cosmos>neutron",
+        "client": {
+          "channel": "channel-1",
+          "port": "transfer"
+        },
+        "counterparty": {
+          "channel": "channel-569",
+          "port": "transfer",
+          "chain": "cosmos",
+          "denom": "factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN"
+        }
+      }
     }
 ]
