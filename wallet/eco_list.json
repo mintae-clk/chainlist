@@ -4355,6 +4355,20 @@
             "discord": "https://discord.com/invite/ZQ2ps5H64t"
         },
         "type": "DEX"
+    },
+    {
+        "id": 250,
+        "name": "ALL in ONE TX",
+        "description": "Community dashboard for the TX (Coreum) network: check PSE scores, calculate staking rewards, compare validators, follow exchange flows, read governance in plain English, and look up any wallet. Built by Silk Nodes.",
+        "thumbnail": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/allinonetx.png",
+        "link": "https://tx.silknodes.io",
+        "chains": [
+            "coreum"
+        ],
+        "socials": {
+            "twitter": "https://x.com/silk_nodes"
+        },
+        "type": "DashBoard"
     }
 ]
  
