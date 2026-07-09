@@ -6,7 +6,7 @@
         "symbol": "TX",
         "description": "TX Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/tx-testnet/asset/tx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum-testnet/asset/tx.png",
         "coinGeckoId": "",
         "color": "#89C400"
     }
