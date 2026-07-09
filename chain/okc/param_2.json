@@ -64,7 +64,7 @@
         "medium": "https://medium.com/okc-okx-chain",
         "twitter" : "https://twitter.com/okx",
         "discord" : "https://discord.com/invite/e6EyvM5QwM",
-        "coingecko" : "https://www.coingecko.com/en/coins/okt-chain"
+        "coingecko" : "https://www.coingecko.com/en/coins/okb"
     },
     "description" : {
         "ko" : "OKTC는 최적의 상호운용성과 성능을 목표로 코스모스에 구축된 EVM 및 IBC 호환 L1 블록체인 네트워크입니다.",

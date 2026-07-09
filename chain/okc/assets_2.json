@@ -7,7 +7,7 @@
         "description": "Okt Native Coin",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/okc/asset/okt.png",
-        "coinGeckoId": "oec-token"
+        "coinGeckoId": "okb"
     },
     {
         "type": "native",
